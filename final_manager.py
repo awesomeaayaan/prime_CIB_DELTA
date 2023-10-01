@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-file = open("data.json")
+file = open(r"D:\BOT_Prime\CIB_DELTA_back\output\data.json")
 datas = json.load(file)
 df = pd.DataFrame(columns=[
         'Name',
@@ -31,13 +31,15 @@ for data in datas["BulkOffLoading"]["Individuals"]["Item"]:
     # maintain Citizenship details
     keys = list(data["CitizenshipDetails"].keys())
     citizenshp_count = int(data["CitizenshipDetails"][keys[0]])
-    citizenship_data = data["CitizenshipDetails"][keys[1]]
-    if citizenshp_count > 1:
-        dicts["CitizenshipDetails"] = ['|'.join(entry.values()) for entry in citizenship_data]
-    elif citizenshp_count == 0:
-        dicts["CitizenshipDetails"] = ""
+    if citizenshp_count >= 1:
+        dicts["CitizenshipDetails"] = data["CitizenshipDetails"][keys[1]]
+        # dicts["CitizenshipDetails"] = ['|'.join(entry.values()) for entry in citizenship_data]
     else:
-        dicts["CitizenshipDetails"] = '|'.join(citizenship_data.values())
+        dicts["CitizenshipDetails"] = ""
+        # citizenship_data = ""
+    # else:
+        # dicts["CitizenshipDetails"] = '|'.join(citizenship_data.values())
+        # # citizenship_data = data["CitizenshipDetails"][keys[1]]
 
     # maintain blacklist details
     keys = list(data["BlackLists"].keys())
@@ -53,8 +55,8 @@ for data in datas["BulkOffLoading"]["Individuals"]["Item"]:
     print(f"--------------- Processed Data number {num} -----------------------" )
     print(dicts)
     num += 1
-    if num == 51:
-        break
+    # if num == 51:
+    #     break
 
     # appending to df
     df.loc[len(df)] = dicts
