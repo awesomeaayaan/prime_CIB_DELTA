@@ -1,0 +1,11 @@
+{
+    "test":{
+        "username":"test_user",
+        "password":"test_password"
+    },
+    "urls":{
+        "CIB_url":"http://127.0.0.1:5500/output/cib_test.xml"
+        
+    }
+    
+}
