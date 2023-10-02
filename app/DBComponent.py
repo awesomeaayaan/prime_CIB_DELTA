@@ -3,6 +3,7 @@ import sqlite3
 import Constants
 from qrlib.QRUtils import display
 import nepali_datetime
+from datetime import datetime
 
 class DBComponent(QRComponent):
     def __init__(self) -> None:
@@ -166,7 +167,9 @@ class DBComponent(QRComponent):
         if date_objects:
             # print('date-object',date_objects)
             latest_date = max(date_objects)
-            print("Latest Blacklisted Date:", latest_date)
+            parsed_date = datetime.strptime(str(latest_date), "%Y-%m-%d %H:%M:%S%z")
+            latest_blacklisted_date = parsed_date.strftime("%Y-%m-%d")
+            print("Latest Blacklisted Date:", latest_blacklisted_date)
             return latest_date
         else:
             print("No valid dates found in the database.")
