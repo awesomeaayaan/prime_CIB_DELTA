@@ -2,6 +2,7 @@ from qrlib.QRComponent import QRComponent
 import sqlite3
 import Constants
 from qrlib.QRUtils import display
+import nepali_datetime
 
 class DBComponent(QRComponent):
     def __init__(self) -> None:
@@ -141,7 +142,37 @@ class DBComponent(QRComponent):
         self.con.commit()
         
 
+    def fetch_latest_blacklisted_date_from_database(self):
+        # Query to extract the latest blacklisted date
+        self.cur.execute('SELECT BlackLists FROM test_delta_screening;')
 
+        # Fetch the result
+        black_lists_tuples = self.cur.fetchall()
+
+        # Extract dates and split them
+        black_lists_dates = [black_list[0].split("|")[2] for black_list in black_lists_tuples]
+        # Convert date strings to datetime objects, handling invalid dates
+        date_objects = []
+        for date_str in black_lists_dates:
+            try:
+                date_object = nepali_datetime.datetime.strptime(date_str, '%Y-%m-%d')
+                date_objects.append(date_object)
+            except ValueError:
+                print(f"Skipping invalid date: {date_str}")
+
+        # If you want to exclude invalid dates from further processing, you can use date_objects list
+
+        # Find the latest date
+        if date_objects:
+            # print('date-object',date_objects)
+            latest_date = max(date_objects)
+            print("Latest Blacklisted Date:", latest_date)
+            return latest_date
+        else:
+            print("No valid dates found in the database.")
+
+        
+        
 
 
 
