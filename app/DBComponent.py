@@ -203,6 +203,7 @@ class DBComponent(QRComponent):
 
         found_blacklist_number_in_database =filtered_df[filtered_df['Found_number'].notnull()]
         Not_found_blacklist_number_in_database =filtered_df[filtered_df['Not_Found_number'].notnull()]
+        Not_found_blacklist_number_in_database.drop(columns=['BlackListNumber','Found_number','Not_Found_number'],inplace=True)
 
 
 
