@@ -201,6 +201,9 @@ class DBComponent(QRComponent):
             else:
                 filtered_df.at[index, 'Not Found number'] = data
 
+        found_blacklist_number_in_database =filtered_df[filtered_df['Found_number'].notnull()]
+        Not_found_blacklist_number_in_database =filtered_df[filtered_df['Not_Found_number'].notnull()]
+
 
 
 
