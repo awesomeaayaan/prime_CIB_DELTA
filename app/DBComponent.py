@@ -175,7 +175,31 @@ class DBComponent(QRComponent):
             print("No valid dates found in the database.")
 
         
-        
+    def fetch_black_listed_data_from_database(self):
+        self.cur.execute('''
+                    SELECT BlackLists FROM test_delta_screening;
+        ''')
+        black_lists_tuples = self.cur.fetchall()
+        black_lists_number_database = [black_list[0].split("|")[1] for black_list in black_lists_tuples]
+        # print(black_lists_number_database[0])
+        return black_lists_number_database
+
+    def test(filtered_df,black_lists_number_database):
+        for index,data in filtered_df['BlackLists'].iteritems():
+            if isinstance(data,str):
+                black_list = data.split('|')[1]
+                filtered_df.at[index, 'BlackListNumber'] = black_list
+                
+            if isinstance(data,list):
+                for d in data:
+                    black_list = d.split('|')[1]
+                    filtered_df.at[index, 'BlackListNumber'] = black_list
+
+        for index, data in filtered_df['BlackListNumber'].iteritems():
+            if data in black_lists_number_database:
+                filtered_df.at[index, 'Found_number'] = data
+            else:
+                filtered_df.at[index, 'Not Found number'] = data
 
 
 
