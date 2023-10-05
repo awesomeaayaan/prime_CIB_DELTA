@@ -186,14 +186,16 @@ class DBComponent(QRComponent):
 
     def test(filtered_df,black_lists_number_database):
         for index,data in filtered_df['BlackLists'].iteritems():
-            if isinstance(data,str):
+            if ',' in data:
+                item_list = ast.literal_eval(data)
+                if isinstance(item_list,list):
+                    for item in item_list:
+                        black_list = item.split('|')[1]
+                        print(black_list)
+                        filtered_df.at[index, 'BlackListNumber'] = black_list
+            else:
                 black_list = data.split('|')[1]
                 filtered_df.at[index, 'BlackListNumber'] = black_list
-                
-            if isinstance(data,list):
-                for d in data:
-                    black_list = d.split('|')[1]
-                    filtered_df.at[index, 'BlackListNumber'] = black_list
 
         for index, data in filtered_df['BlackListNumber'].iteritems():
             if data in black_lists_number_database:
