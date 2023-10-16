@@ -4,6 +4,7 @@ import Constants
 from qrlib.QRUtils import display
 import nepali_datetime
 from datetime import datetime
+import ast
 
 class DBComponent(QRComponent):
     def __init__(self) -> None:
@@ -18,6 +19,28 @@ class DBComponent(QRComponent):
     def close_connection(self):
         self.cur.close()
         self.con.close()
+
+    def insert_dataframe_into_database(self, df):
+        self.cur.execute(f'''PRAGMA tableinfo(cib_users);''')
+        columns = self.cur.fetchall()
+        status_column_exists = any(column[1] == 'Status' for column in columns)
+        if not status_column_exists:
+            self.cur.execute(f'''
+                        ALTER TABLE cib_users
+                        ADD COLUMN Status TEXT;
+                    ''')
+        self.cur.execute(f''' 
+                UPDATE cib_users
+                SET Status = 'old'
+                WHERE Status = 'new';
+            ''')
+        df['Status'] = 'new'
+        df.to_sql(
+            'cib_users',
+            self.con,
+            if_exists='append',
+            index=False
+            )
 
     def create_table(self):
         # Create a table with the specified schema
