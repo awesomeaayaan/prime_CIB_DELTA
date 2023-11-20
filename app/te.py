@@ -93,6 +93,7 @@ data_validation.add(dropdown_range)
 
 # Save the Excel file
 excel_writer.save()
-excel_writer.save()
+excel_writer.sa
+# excel_writer.save()
 
 print("Dropdown list added to the 'Gender' column in the Excel file.")
