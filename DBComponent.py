@@ -66,11 +66,50 @@ class DBComponent(QRComponent):
                 'Indian Embassy Reg No' TEXT,
                 'PAN No' TEXT,
                 'Passport No' TEXT,
-                'Remarks' TEXT
+                'CBS Remarks' TEXT,
+                'Delay_by_days' integer default 0,
+                created_at DATETIME DEFAULT (datetime('now', 'localtime')), 
+                updated_at DATETIME,
+                'Status' TEXT
                 )
             ''')
         self.con.commit()
         self.con.close()
+
+    def create_institutional_table(self):
+        self.con = sqlite3.connect(Constants.DB_NAME)
+        self.cur = self.con.cursor()
+        self.cur.execute(f''' 
+                CREATE TABLE IF NOT EXISTS {Constants.REPORT_INSTITUTE} (
+                'Branch Code' TEXT,
+                'CBS Client Code' TEXT,
+                'CBS Account Number' TEXT,
+                'Account Description' TEXT,
+                'CBS Account Status' TEXT,
+                'CBS Account Name' TEXT,
+                'Name Match %' TEXT,
+                'ComRegister No' TEXT,
+                'Company RegMatch %' TEXT,
+                'PAN No' TEXT,
+                'PAN Match %' TEXT,
+                'Total Similarity %' TEXT,
+                'Result of CIB Screening' TEXT,
+                'CIB Name' TEXT,
+                'CIB Com Registration No' TEXT,
+                'CIB PAN NO' TEXT,
+                'CIB Black Listed No' TEXT,
+                'CIB Black Listed Date' TEXT,
+                'Passport No' TEXT,
+                'CBS Remarks' TEXT,
+                'Delay_by_days' integer default 0,
+                created_at DATETIME DEFAULT (datetime('now', 'localtime')), 
+                updated_at DATETIME,
+                'Status' TEXT
+                )
+            ''')
+        self.con.commit()
+        self.con.close()
+
 
     def insert_dataframe_into_database(self, df):
         self.con = sqlite3.connect(Constants.DB_NAME)
@@ -112,6 +151,34 @@ class DBComponent(QRComponent):
         # logger = self.run_item.logger
         # logger.info('successfully inserted report to the database')
         display('SUCCESSFULLY INSERTED report TO Individual table to THE DATABASE')
+    def update_database_progress_status_with_individual_table(self):
+        self.con = sqlite3.connect(Constants.DB_NAME)
+        self.cur = self.con.cursor()
+        self.cur.execute(f''' 
+                UPDATE {Constants.REPORT}
+                SET Status = 'success'
+                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' IS NOT NULL and 'CBS Account Status' NOT IN ('credit restrict','normal') ;
+            ''')
+        self.cur.execute(f''' 
+                UPDATE {Constants.REPORT}
+                SET Status = 'pending'
+                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' == 'NULL' and 'CBS Account Status' == 'normal' or 'CBS Account Status' == 'credit restrict'  ;
+            ''')
+        display('Successfully update the status')
+    def update_database_progress_status_with_institutional_table(self):
+        self.con = sqlite3.connect(Constants.DB_NAME)
+        self.cur = self.con.cursor()
+        self.cur.execute(f''' 
+                UPDATE {Constants.REPORT_INSTITUTE}
+                SET Status = 'pending'
+                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' ==  IS NOT NULL and 'CBS Account Status' NOT IN ('credit restrict','normal') ;
+            ''')
+        self.cur.execute(f''' 
+                UPDATE {Constants.REPORT_INSTITUTE}
+                SET Status = 'pending'
+                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' == 'NULL' and 'CBS Account Status' == 'normal' or 'CBS Account Status' == 'credit restrict'  ;
+            ''')
+        display('Successfully update the status')
 
     def insert_into_email_table(self,email,branch_name,status):
         self.con = sqlite3.connect(Constants.DB_NAME)
@@ -121,7 +188,8 @@ class DBComponent(QRComponent):
                          Email_ID Text,
                          Branch_name Text,
                          Status Text,
-                         follow_up_count integer default 0,
+                         Insertion_Date DATETIME DEFAULT (datetime('now','localtime')),
+                         follow_up_count integer default 0
                          
                     )
                     ''')
@@ -134,6 +202,41 @@ class DBComponent(QRComponent):
         display('Successfully insert email to the email table')
         self.con.commit()
         self.con.close()
+
+    def get_the_value_with_status_Zero(self):
+        self.con = sqlite3.connect(Constants.DB_NAME)
+        self.cur = self.con.cursor()
+
+        self.cur.execute(''' 
+                SELECT Email_ID from Email
+                            WHERE Status == 0
+            ''')
+        data = self.cur.fetchall()
+        for email in data:
+            self.cur.execute(''' 
+                                UPDATE Email 
+                                SET follow_up_count = follow_up_count +1
+                                WHERE Email_ID = ?
+                            ''',(email[0],))
+            return email[0]
+        display('successfully update the follow up count')
+        self.cur.execute('DELETE FROM Email WHERE follow_up_count = ?',(3,))
+        display('Successfully delete the row with the followup count is 3')
+        
+        self.con.commit()
+        self.con.close()
+
+    # def delete_the_follow_up_with_count_three(self):
+    #     self.con = sqlite3.connect(Constants.DB_NAME)
+    #     self.cur = self.con.cursor()
+    #     self.cur.execute('DELETE FROM Email WHERE follow_up_count = ?',(3,))
+    #     display('Successfully delete the row with the followup count is 3')
+    #     self.con.commit()
+    #     self.con.close()
+
+            
+
+
     def update_status_of_email_table(self,email_list):
         self.con = sqlite3.connect(Constants.DB_NAME)
         self.cur = self.con.cursor()
