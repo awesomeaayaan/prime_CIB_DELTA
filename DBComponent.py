@@ -157,12 +157,12 @@ class DBComponent(QRComponent):
         self.cur.execute(f''' 
                 UPDATE {Constants.REPORT}
                 SET Status = 'success'
-                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' IS NOT NULL and 'CBS Account Status' NOT IN ('credit restrict','normal') ;
+                WHERE 'Result of CIB Screening' = 'Match with CIB Black List' and 'CBS Remarks' IS NOT NULL and 'CBS Account Status'  IN ('debit restrict','normal') ;
             ''')
         self.cur.execute(f''' 
                 UPDATE {Constants.REPORT}
                 SET Status = 'pending'
-                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' == 'NULL' and 'CBS Account Status' == 'normal' or 'CBS Account Status' == 'credit restrict'  ;
+                WHERE 'Result of CIB Screening' = 'Match with CIB Black List' and 'CBS Remarks' IS NULL and 'CBS Account Status' IN ('normal', 'credit restrict') ;
             ''')
         display('Successfully update the status')
     def update_database_progress_status_with_institutional_table(self):
@@ -170,13 +170,13 @@ class DBComponent(QRComponent):
         self.cur = self.con.cursor()
         self.cur.execute(f''' 
                 UPDATE {Constants.REPORT_INSTITUTE}
-                SET Status = 'pending'
-                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' ==  IS NOT NULL and 'CBS Account Status' NOT IN ('credit restrict','normal') ;
+                SET Status = 'success'
+                WHERE 'Result of CIB Screening' = 'Match with CIB Black List' and 'CBS Remarks' IS NOT NULL and 'CBS Account Status' NOT IN ('credit restrict','normal') ;
             ''')
         self.cur.execute(f''' 
                 UPDATE {Constants.REPORT_INSTITUTE}
                 SET Status = 'pending'
-                WHERE 'Result of CIB Screening' == 'Match with CIB Black List' and 'CBS Remarks' == 'NULL' and 'CBS Account Status' == 'normal' or 'CBS Account Status' == 'credit restrict'  ;
+                WHERE 'Result of CIB Screening' = 'Match with CIB Black List' and 'CBS Remarks' IS NULL and 'CBS Account Status' IN ('normal', 'credit restrict') ;
             ''')
         display('Successfully update the status')
 
