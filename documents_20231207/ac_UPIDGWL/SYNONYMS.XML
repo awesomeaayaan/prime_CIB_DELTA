@@ -1,0 +1,5680 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gwl>
+<version>20231129091910</version>
+<synonyms syn_set_code="DEFAULT">
+<synonym key="10TH">
+    <word changeDate="11/04/2019">TENTH</word>
+</synonym>
+<synonym key="11TH">
+    <word changeDate="11/04/2019">ELEVENTH</word>
+</synonym>
+<synonym key="12TH">
+    <word changeDate="11/04/2019">TWELFTH</word>
+</synonym>
+<synonym key="13TH">
+    <word changeDate="11/04/2019">THIRTEENTH</word>
+</synonym>
+<synonym key="14TH">
+    <word changeDate="11/04/2019">FOURTEENTH</word>
+</synonym>
+<synonym key="15TH">
+    <word changeDate="11/04/2019">FIFTHTEENTH</word>
+</synonym>
+<synonym key="16TH">
+    <word changeDate="11/04/2019">SIXTEENTH</word>
+</synonym>
+<synonym key="17TH">
+    <word changeDate="11/04/2019">SEVENTEENTH</word>
+</synonym>
+<synonym key="18TH">
+    <word changeDate="11/04/2019">EIGHTEENTH</word>
+</synonym>
+<synonym key="19TH">
+    <word changeDate="11/04/2019">NINETEENTH</word>
+</synonym>
+<synonym key="1ST">
+    <word changeDate="11/04/2019">FIRST</word>
+    <word changeDate="11/04/2019">PRIMERO</word>
+</synonym>
+<synonym key="20TH">
+    <word changeDate="11/04/2019">TWENTIETH</word>
+</synonym>
+<synonym key="2ND">
+    <word changeDate="11/04/2019">SECOND</word>
+    <word changeDate="11/04/2019">SECONDS</word>
+</synonym>
+<synonym key="39">
+    <word changeDate="11/04/2019">THIRTYNINE</word>
+</synonym>
+<synonym key="3RD">
+    <word changeDate="11/04/2019">THIRD</word>
+</synonym>
+<synonym key="4TH">
+    <word changeDate="11/04/2019">FOURTH</word>
+</synonym>
+<synonym key="5TH">
+    <word changeDate="11/04/2019">FIFTH</word>
+</synonym>
+<synonym key="6TH">
+    <word changeDate="11/04/2019">SIXTH</word>
+</synonym>
+<synonym key="7TH">
+    <word changeDate="11/04/2019">SEVENTH</word>
+</synonym>
+<synonym key="8TH">
+    <word changeDate="11/04/2019">EIGHTH</word>
+</synonym>
+<synonym key="9TH">
+    <word changeDate="11/04/2019">NINTH</word>
+</synonym>
+<synonym key="AALESUND">
+    <word changeDate="11/04/2019">AALESUNDS</word>
+    <word changeDate="11/04/2019">ALESUND</word>
+</synonym>
+<synonym key="ABBAS">
+    <word changeDate="11/04/2019">ABBES</word>
+</synonym>
+<synonym key="ABD">
+    <word changeDate="11/04/2019">ABDAL</word>
+    <word changeDate="11/04/2019">ABDEL</word>
+    <word changeDate="11/04/2019">ABDOUL</word>
+    <word changeDate="11/04/2019">ABDUL</word>
+</synonym>
+<synonym key="ABDALAH">
+    <word changeDate="11/04/2019">ABDALLAH</word>
+    <word changeDate="11/04/2019">ABDULAH</word>
+    <word changeDate="11/04/2019">ABDULLAH</word>
+</synonym>
+<synonym key="ABDOH">
+    <word changeDate="11/04/2019">ABDUH</word>
+</synonym>
+<synonym key="ABDUHENI">
+    <word changeDate="11/04/2019">ABUDUHANI</word>
+    <word changeDate="11/04/2019">ATAHANABUDUHANI</word>
+</synonym>
+<synonym key="ABDUJELIL">
+    <word changeDate="11/04/2019">ABUDUJELILI</word>
+</synonym>
+<synonym key="ABDUKADIR">
+    <word changeDate="11/04/2019">ABUDUKADIR</word>
+</synonym>
+<synonym key="ABDULLA">
+    <word changeDate="11/04/2019">ABUDULA</word>
+    <word changeDate="11/04/2019">ABUDULLA</word>
+</synonym>
+<synonym key="ABDUMIJIT">
+    <word changeDate="11/04/2019">ABUDUMIJIT</word>
+</synonym>
+<synonym key="ABEYEK">
+    <word changeDate="11/04/2019">ABYEK</word>
+</synonym>
+<synonym key="ABLIMIT">
+    <word changeDate="11/04/2019">ABULIMIT</word>
+</synonym>
+<synonym key="ABOU">
+    <word changeDate="11/04/2019">ABU</word>
+</synonym>
+<synonym key="ACADEMIES">
+    <word changeDate="11/04/2019">ACADEMY</word>
+</synonym>
+<synonym key="ACCEPTANCE">
+    <word changeDate="11/04/2019">ACCEPTANCES</word>
+    <word changeDate="11/04/2019">ACEPTACIONES</word>
+</synonym>
+<synonym key="ACCESS">
+    <word changeDate="11/04/2019">ACCESSES</word>
+</synonym>
+<synonym key="ACCESSORIES">
+    <word changeDate="11/04/2019">ACCESSORY</word>
+</synonym>
+<synonym key="ACCOUNT">
+    <word changeDate="11/04/2019">ACCOUNTS</word>
+    <word changeDate="11/04/2019">ACCT</word>
+</synonym>
+<synonym key="ACCRA">
+    <word changeDate="11/04/2019">AKKRA</word>
+</synonym>
+<synonym key="ACE">
+    <word changeDate="11/04/2019">ACES</word>
+</synonym>
+<synonym key="ACHWAS">
+    <word changeDate="11/04/2019">AHVAZ</word>
+    <word changeDate="11/04/2019">AHWAZ</word>
+    <word changeDate="11/04/2019">AKHVAZ</word>
+</synonym>
+<synonym key="ADANA">
+    <word changeDate="11/04/2019">SEYHAN</word>
+</synonym>
+<synonym key="ADEL">
+    <word changeDate="11/04/2019">ADIL</word>
+</synonym>
+<synonym key="ADMIN">
+    <word changeDate="11/04/2019">ADMINISTRACION</word>
+    <word changeDate="11/04/2019">ADMINISTRATION</word>
+    <word changeDate="11/04/2019">ADMINISTRATIONS</word>
+    <word changeDate="11/04/2019">AMMINISTRAZION</word>
+</synonym>
+<synonym key="ADMINISTRADOR">
+    <word changeDate="11/04/2019">ADMINISTRADORA</word>
+    <word changeDate="11/04/2019">ADMINISTRATOR</word>
+</synonym>
+<synonym key="ADMINISTRATIVA">
+    <word changeDate="11/04/2019">ADMINISTRATIVAS</word>
+</synonym>
+<synonym key="ADMINISTRATIVO">
+    <word changeDate="11/04/2019">ADMINISTRATIVOS</word>
+</synonym>
+<synonym key="ADVANCE">
+    <word changeDate="11/04/2019">ADVANCED</word>
+    <word changeDate="11/04/2019">ADVANCES</word>
+</synonym>
+<synonym key="ADVERTISING">
+    <word changeDate="11/04/2019">ADVTG</word>
+</synonym>
+<synonym key="ADVISORIES">
+    <word changeDate="11/04/2019">ADVISORY</word>
+</synonym>
+<synonym key="AE">
+    <word changeDate="11/04/2019">UAE</word>
+</synonym>
+<synonym key="AEREA">
+    <word changeDate="11/04/2019">AEREAS</word>
+    <word changeDate="11/04/2019">AEREO</word>
+    <word changeDate="11/04/2019">AEREOS</word>
+    <word changeDate="11/04/2019">AIR</word>
+    <word changeDate="10/11/2023">AIRLINE</word>
+    <word changeDate="10/11/2023">AIRLINES</word>
+    <word changeDate="11/04/2019">EIR</word>
+</synonym>
+<synonym key="AERONAUTICA">
+    <word changeDate="11/04/2019">AERONAUTICAL</word>
+</synonym>
+<synonym key="AETHIOPIEN">
+    <word changeDate="11/04/2019">ATHIOPIEN</word>
+    <word changeDate="11/04/2019">ETHIOPIA</word>
+    <word changeDate="11/04/2019">ETHIOPIE</word>
+    <word changeDate="11/04/2019">ETHIOPIEN</word>
+    <word changeDate="11/04/2019">ETIOPIA</word>
+</synonym>
+<synonym key="AFEGANISTAO">
+    <word changeDate="11/04/2019">AFGANISTAN</word>
+    <word changeDate="11/04/2019">AFGHANISTAN</word>
+</synonym>
+<synonym key="AFFAIR">
+    <word changeDate="11/04/2019">AFFAIRS</word>
+</synonym>
+<synonym key="AFRICA">
+    <word changeDate="11/04/2019">AFRIKA</word>
+    <word changeDate="11/04/2019">AFRIKAI</word>
+    <word changeDate="11/04/2019">AFRIQUE</word>
+</synonym>
+<synonym key="AFRICAINE">
+    <word changeDate="11/04/2019">AFRICAN</word>
+    <word changeDate="11/04/2019">AFRICANS</word>
+    <word changeDate="11/04/2019">AFRICIAN</word>
+    <word changeDate="11/04/2019">AFRIKAANSE</word>
+</synonym>
+<synonym key="AGENCIA">
+    <word changeDate="11/04/2019">AGENCIAS</word>
+    <word changeDate="11/04/2019">AGENCIES</word>
+    <word changeDate="11/04/2019">AGENCY</word>
+    <word changeDate="11/04/2019">AGNCY</word>
+</synonym>
+<synonym key="AGENT">
+    <word changeDate="11/04/2019">AGENTS</word>
+</synonym>
+<synonym key="AGNES">
+    <word changeDate="11/04/2019">AGNESA</word>
+</synonym>
+<synonym key="AGRICOL">
+    <word changeDate="11/04/2019">AGRICOLA</word>
+    <word changeDate="11/04/2019">AGRICOLAE</word>
+    <word changeDate="11/04/2019">AGRICOLAS</word>
+    <word changeDate="11/04/2019">AGRICOLE</word>
+    <word changeDate="11/04/2019">AGRICOLTURA</word>
+    <word changeDate="11/04/2019">AGRICULTURE</word>
+    <word changeDate="11/04/2019">AGRICULTURES</word>
+</synonym>
+<synonym key="AGRICTURAL">
+    <word changeDate="11/04/2019">AGRICULTURAL</word>
+    <word changeDate="11/04/2019">ZIRAAT</word>
+</synonym>
+<synonym key="AGROCHEMICAL">
+    <word changeDate="11/04/2019">AGROCHEMICALS</word>
+</synonym>
+<synonym key="AGROESPINAL">
+    <word changeDate="11/04/2019">AGROESPINALES</word>
+</synonym>
+<synonym key="AGROINDUSTRIAL">
+    <word changeDate="11/04/2019">AGROINDUSTRIALES</word>
+</synonym>
+<synonym key="AGUA">
+    <word changeDate="11/04/2019">AGUAS</word>
+</synonym>
+<synonym key="AGYPTEN">
+    <word changeDate="11/04/2019">EGIPTO</word>
+    <word changeDate="11/04/2019">EGITO</word>
+    <word changeDate="11/04/2019">EGITTO</word>
+    <word changeDate="11/04/2019">EGYPT</word>
+    <word changeDate="11/04/2019">EGYPTE</word>
+    <word changeDate="11/04/2019">EGYPTEN</word>
+</synonym>
+<synonym key="AHMAD">
+    <word changeDate="11/04/2019">AHMED</word>
+</synonym>
+<synonym key="AID">
+    <word changeDate="11/04/2019">AIDS</word>
+</synonym>
+<synonym key="AIDAROOS">
+    <word changeDate="11/04/2019">AYDARUS</word>
+    <word changeDate="11/04/2019">EIDROS</word>
+    <word changeDate="11/04/2019">IDAROOS</word>
+</synonym>
+<synonym key="AIRCRAFT">
+    <word changeDate="11/04/2019">AIRCRAFTS</word>
+</synonym>
+<synonym key="AIRWAY">
+    <word changeDate="11/04/2019">AIRWAYS</word>
+</synonym>
+<synonym key="AISA">
+    <word changeDate="11/04/2019">ISA</word>
+</synonym>
+<synonym key="AK">
+    <word changeDate="11/04/2019">ALASKA</word>
+</synonym>
+<synonym key="AKHIAR">
+    <word changeDate="11/04/2019">AKHTYAR</word>
+    <word changeDate="11/04/2019">AKUJAR</word>
+    <word changeDate="11/04/2019">AKYAR</word>
+    <word changeDate="11/04/2019">AQYAR</word>
+    <word changeDate="11/04/2019">SEBASTOPOL</word>
+    <word changeDate="11/04/2019">SEBASTOPOLI</word>
+    <word changeDate="11/04/2019">SEBASTOPOLIS</word>
+    <word changeDate="11/04/2019">SEBASTOPOLO</word>
+    <word changeDate="11/04/2019">SEVASTOPOL</word>
+</synonym>
+<synonym key="AKJAB">
+    <word changeDate="11/04/2019">AKYAB</word>
+    <word changeDate="11/04/2019">SITTUEHJJ</word>
+    <word changeDate="11/04/2019">SITTUEI</word>
+    <word changeDate="11/04/2019">SITTUEJ</word>
+    <word changeDate="11/04/2019">SITTWE</word>
+    <word changeDate="11/04/2019">SITUE</word>
+    <word changeDate="11/04/2019">SITUEH</word>
+</synonym>
+<synonym key="AKMECHET">
+    <word changeDate="11/04/2019">AKMESCIT</word>
+    <word changeDate="11/04/2019">AQMESCIT</word>
+    <word changeDate="11/04/2019">SIMFEROPOL</word>
+    <word changeDate="11/04/2019">SIMFEROPOLIS</word>
+</synonym>
+<synonym key="AL">
+    <word changeDate="11/04/2019">EL</word>
+</synonym>
+<synonym key="ALANSAR">
+    <word changeDate="11/04/2019">ANSAR</word>
+    <word changeDate="11/04/2019">ELANSAR</word>
+    <word changeDate="11/04/2019">ULANSAR</word>
+</synonym>
+<synonym key="ALAP">
+    <word changeDate="11/04/2019">FOND</word>
+    <word changeDate="11/04/2019">FUND</word>
+    <word changeDate="11/04/2019">FUNDING</word>
+    <word changeDate="11/04/2019">FUNDS</word>
+</synonym>
+<synonym key="ALARMA">
+    <word changeDate="11/04/2019">ALARMAS</word>
+</synonym>
+<synonym key="ALBANIA">
+    <word changeDate="11/04/2019">ALBANIE</word>
+    <word changeDate="11/04/2019">ALBANIEN</word>
+</synonym>
+<synonym key="ALBANIAN">
+    <word changeDate="11/04/2019">ALBANIANS</word>
+</synonym>
+<synonym key="ALBASHIR">
+    <word changeDate="11/04/2019">BASHIR</word>
+</synonym>
+<synonym key="ALDIN">
+    <word changeDate="11/04/2019">DIN</word>
+</synonym>
+<synonym key="ALDJOULANI">
+    <word changeDate="11/04/2019">ALGOLANI</word>
+    <word changeDate="11/04/2019">ALJAWLANI</word>
+    <word changeDate="11/04/2019">ALJULANI</word>
+    <word changeDate="11/04/2019">DJOULANI</word>
+    <word changeDate="11/04/2019">ELDJOULANI</word>
+    <word changeDate="11/04/2019">ELGOLANI</word>
+    <word changeDate="11/04/2019">ELJAWLANI</word>
+    <word changeDate="11/04/2019">ELJULANI</word>
+    <word changeDate="11/04/2019">GOLANI</word>
+    <word changeDate="11/04/2019">JAWLANI</word>
+    <word changeDate="11/04/2019">JULANI</word>
+</synonym>
+<synonym key="ALDOURI">
+    <word changeDate="11/04/2019">ALDURI</word>
+    <word changeDate="11/04/2019">DOURI</word>
+    <word changeDate="11/04/2019">DURI</word>
+    <word changeDate="11/04/2019">ELDOURI</word>
+    <word changeDate="11/04/2019">ELDURI</word>
+</synonym>
+<synonym key="ALEMANHA">
+    <word changeDate="11/04/2019">ALEMANIA</word>
+    <word changeDate="11/04/2019">ALLEMAGNE</word>
+    <word changeDate="11/04/2019">DEUTSCHLAND</word>
+    <word changeDate="11/04/2019">DUITSLAND</word>
+    <word changeDate="11/04/2019">GERMANIA</word>
+    <word changeDate="11/04/2019">GERMANY</word>
+    <word changeDate="11/04/2019">TYSKLAND</word>
+</synonym>
+<synonym key="ALFOMBRA">
+    <word changeDate="11/04/2019">ALFOMBRAS</word>
+</synonym>
+<synonym key="ALGADAFFI">
+    <word changeDate="11/04/2019">ALGADAFFY</word>
+    <word changeDate="11/04/2019">ALGADAFY</word>
+    <word changeDate="11/04/2019">ALGADDAFI</word>
+    <word changeDate="11/04/2019">ALGADHAFI</word>
+    <word changeDate="11/04/2019">ALGATHAFI</word>
+    <word changeDate="11/04/2019">ALGHADAFI</word>
+    <word changeDate="11/04/2019">ALGHADDAFI</word>
+    <word changeDate="11/04/2019">ALGHEDDAFI</word>
+    <word changeDate="11/04/2019">ALKADAFI</word>
+    <word changeDate="11/04/2019">ALKADDAFI</word>
+    <word changeDate="11/04/2019">ALKADHAFI</word>
+    <word changeDate="11/04/2019">ALKHADAFY</word>
+    <word changeDate="11/04/2019">ALKHADDAFI</word>
+    <word changeDate="11/04/2019">ALQADHAFI</word>
+    <word changeDate="11/04/2019">ALQADHAHAFI</word>
+    <word changeDate="11/04/2019">ALQADHDHAFI</word>
+    <word changeDate="11/04/2019">ALQATHAFI</word>
+</synonym>
+<synonym key="ALGAMA">
+    <word changeDate="11/04/2019">ALGAMAA</word>
+</synonym>
+<synonym key="ALGEDAREF">
+    <word changeDate="11/04/2019">ALKADARIF</word>
+    <word changeDate="11/04/2019">ALQADARIF</word>
+    <word changeDate="11/04/2019">GADAREF</word>
+    <word changeDate="11/04/2019">GADARIF</word>
+    <word changeDate="11/04/2019">KADARIF</word>
+    <word changeDate="11/04/2019">KVADARIF</word>
+    <word changeDate="11/04/2019">KWADARIF</word>
+</synonym>
+<synonym key="ALGEMENE">
+    <word changeDate="11/04/2019">ALLGEMEIN</word>
+    <word changeDate="11/04/2019">ALLGEMEINE</word>
+    <word changeDate="11/04/2019">DZHENEREL</word>
+    <word changeDate="11/04/2019">GEN</word>
+    <word changeDate="11/04/2019">GENERAL</word>
+    <word changeDate="11/04/2019">GENERALE</word>
+    <word changeDate="11/04/2019">GENERALES</word>
+    <word changeDate="11/04/2019">GENERALI</word>
+    <word changeDate="11/04/2019">GENERALS</word>
+</synonym>
+<synonym key="ALGERIA">
+    <word changeDate="11/04/2019">ALGERIE</word>
+    <word changeDate="11/04/2019">ALGERIEN</word>
+    <word changeDate="11/04/2019">ALGERIET</word>
+    <word changeDate="11/04/2019">ALGERIJE</word>
+    <word changeDate="11/04/2019">ARGELIA</word>
+</synonym>
+<synonym key="ALGERIAN">
+    <word changeDate="11/04/2019">ALGERIENNE</word>
+</synonym>
+<synonym key="ALHARAKAT">
+    <word changeDate="11/04/2019">HARAKAT</word>
+</synonym>
+<synonym key="ALISLAMIYA">
+    <word changeDate="11/04/2019">ALISLAMIYYA</word>
+    <word changeDate="11/04/2019">ISLAMIA</word>
+    <word changeDate="11/04/2019">ISLAMIAK</word>
+    <word changeDate="11/04/2019">ISLAMIYA</word>
+    <word changeDate="11/04/2019">ISLAMIYYA</word>
+    <word changeDate="11/04/2019">ISLAMYA</word>
+</synonym>
+<synonym key="ALJAMAHIRIYA">
+    <word changeDate="11/04/2019">JAMAHIRIYA</word>
+</synonym>
+<synonym key="ALKARTUM">
+    <word changeDate="11/04/2019">ALKHARTOUM</word>
+    <word changeDate="11/04/2019">ALKHARTUM</word>
+    <word changeDate="11/04/2019">CHARTUM</word>
+    <word changeDate="11/04/2019">HARTUM</word>
+    <word changeDate="11/04/2019">KARTOUM</word>
+    <word changeDate="11/04/2019">KARTUM</word>
+    <word changeDate="11/04/2019">KHARTOUM</word>
+    <word changeDate="11/04/2019">KHARTUM</word>
+    <word changeDate="11/04/2019">KHURTUM</word>
+</synonym>
+<synonym key="ALLEMANDE">
+    <word changeDate="11/04/2019">DEURSCHE</word>
+    <word changeDate="11/04/2019">DEUTCHE</word>
+    <word changeDate="11/04/2019">DEUTSCH</word>
+    <word changeDate="11/04/2019">DEUTSCHE</word>
+    <word changeDate="11/04/2019">DEUTSCHEN</word>
+    <word changeDate="11/04/2019">DEUTSCHER</word>
+    <word changeDate="11/04/2019">GERMAN</word>
+</synonym>
+<synonym key="ALLIANCE">
+    <word changeDate="11/04/2019">ALLIANCES</word>
+    <word changeDate="11/04/2019">ALLIANZ</word>
+</synonym>
+<synonym key="ALLUSYUTA">
+    <word changeDate="11/04/2019">ALOUSHTA</word>
+    <word changeDate="11/04/2019">ALSHTA</word>
+    <word changeDate="11/04/2019">ALUSCHTA</word>
+    <word changeDate="11/04/2019">ALUSHTA</word>
+    <word changeDate="11/04/2019">ALUSTA</word>
+    <word changeDate="11/04/2019">ALUSZTA</word>
+</synonym>
+<synonym key="ALMACENE">
+    <word changeDate="11/04/2019">ALMACENES</word>
+</synonym>
+<synonym key="ALMETIEVSK">
+    <word changeDate="11/04/2019">ALMETYEVSK</word>
+</synonym>
+<synonym key="ALMOUDJAHIDINE">
+    <word changeDate="11/04/2019">ALMOUDJAHIDOUN</word>
+    <word changeDate="11/04/2019">ALMOUDJAHIDOUNE</word>
+    <word changeDate="11/04/2019">ALMUJAAHIDIIN</word>
+    <word changeDate="11/04/2019">ALMUJAHIDIN</word>
+    <word changeDate="11/04/2019">ELMOUDJAHIDINE</word>
+    <word changeDate="11/04/2019">ELMOUDJAHIDOUN</word>
+    <word changeDate="11/04/2019">ELMOUDJAHIDOUNE</word>
+    <word changeDate="11/04/2019">MOUDJAHIDINE</word>
+    <word changeDate="11/04/2019">MOUDJAHIDOUN</word>
+    <word changeDate="11/04/2019">MOUDJAHIDOUNE</word>
+    <word changeDate="11/04/2019">MUJAAHIDIIN</word>
+    <word changeDate="11/04/2019">MUJAHIDIN</word>
+</synonym>
+<synonym key="ALQADAH">
+    <word changeDate="11/04/2019">ALQAEDA</word>
+    <word changeDate="11/04/2019">ALQAIDA</word>
+    <word changeDate="11/04/2019">ALQAIDAT</word>
+    <word changeDate="11/04/2019">ALQIDA</word>
+    <word changeDate="11/04/2019">ALQUDAH</word>
+    <word changeDate="11/04/2019">ALQUEDA</word>
+    <word changeDate="11/04/2019">QADAH</word>
+    <word changeDate="11/04/2019">QAEDA</word>
+    <word changeDate="11/04/2019">QAIDA</word>
+    <word changeDate="11/04/2019">QAIDAT</word>
+    <word changeDate="11/04/2019">QIDA</word>
+    <word changeDate="11/04/2019">QUDAH</word>
+    <word changeDate="11/04/2019">QUEDA</word>
+</synonym>
+<synonym key="ALQASSAM">
+    <word changeDate="11/04/2019">QASSAM</word>
+</synonym>
+<synonym key="ALQASSIM">
+    <word changeDate="11/04/2019">QASSIM</word>
+</synonym>
+<synonym key="ALQUILER">
+    <word changeDate="11/04/2019">ALQUILERES</word>
+</synonym>
+<synonym key="ALSACIENE">
+    <word changeDate="11/04/2019">ALSACIENNE</word>
+</synonym>
+<synonym key="ALTO">
+    <word changeDate="11/04/2019">ALTOS</word>
+</synonym>
+<synonym key="ALUBAJID">
+    <word changeDate="11/04/2019">ELJOBEJD</word>
+    <word changeDate="11/04/2019">ELOBEYD</word>
+    <word changeDate="11/04/2019">ELOBIED</word>
+    <word changeDate="11/04/2019">ELYOBEID</word>
+</synonym>
+<synonym key="ALUBAYYID">
+    <word changeDate="11/04/2019">ELOBEJD</word>
+    <word changeDate="11/04/2019">OBEJD</word>
+    <word changeDate="11/04/2019">OBEJJD</word>
+    <word changeDate="11/04/2019">OBEYD</word>
+    <word changeDate="11/04/2019">UBAJID</word>
+</synonym>
+<synonym key="ALUMINIO">
+    <word changeDate="11/04/2019">ALUMINIUM</word>
+    <word changeDate="11/04/2019">ALUMINUM</word>
+</synonym>
+<synonym key="ALUPKA">
+    <word changeDate="11/04/2019">ALUPKO</word>
+</synonym>
+<synonym key="ALVARES">
+    <word changeDate="11/04/2019">ALVAREZ</word>
+</synonym>
+<synonym key="ALZAWAHIRI">
+    <word changeDate="11/04/2019">ZAWAHIRI</word>
+</synonym>
+<synonym key="AMARAPURA">
+    <word changeDate="11/04/2019">AMAYABUYA</word>
+    <word changeDate="11/04/2019">HMANDAN</word>
+</synonym>
+<synonym key="AMBASSADE">
+    <word changeDate="11/04/2019">EMBASSY</word>
+</synonym>
+<synonym key="AMER">
+    <word changeDate="11/04/2019">AMERICA</word>
+    <word changeDate="11/04/2019">AMERICAS</word>
+    <word changeDate="11/04/2019">AMERIKA</word>
+    <word changeDate="11/04/2019">AMERIQUE</word>
+</synonym>
+<synonym key="AMERICAN">
+    <word changeDate="11/04/2019">AMERICANA</word>
+    <word changeDate="11/04/2019">AMERICANO</word>
+    <word changeDate="11/04/2019">AMERICANS</word>
+</synonym>
+<synonym key="AMIGO">
+    <word changeDate="11/04/2019">AMIGOS</word>
+</synonym>
+<synonym key="AMMUNITION">
+    <word changeDate="11/04/2019">AMMUNITIONS</word>
+</synonym>
+<synonym key="ANDINA">
+    <word changeDate="11/04/2019">ANDINAS</word>
+</synonym>
+<synonym key="ANDINO">
+    <word changeDate="11/04/2019">ANDINOS</word>
+</synonym>
+<synonym key="ANNUHUD">
+    <word changeDate="11/04/2019">NAHUD</word>
+    <word changeDate="11/04/2019">NUHUD</word>
+</synonym>
+<synonym key="ANSHARUT">
+    <word changeDate="11/04/2019">ANSHORUT</word>
+</synonym>
+<synonym key="ANTAR">
+    <word changeDate="11/04/2019">ANTARES</word>
+</synonym>
+<synonym key="ANTIFASCIST">
+    <word changeDate="11/04/2019">ANTIFASCISTS</word>
+</synonym>
+<synonym key="ANTILES">
+    <word changeDate="11/04/2019">ANTILIA</word>
+    <word changeDate="11/04/2019">ANTILLAANSE</word>
+    <word changeDate="11/04/2019">ANTILLAISE</word>
+    <word changeDate="11/04/2019">ANTILLEN</word>
+    <word changeDate="11/04/2019">ANTILLES</word>
+</synonym>
+<synonym key="ANTITERRORIST">
+    <word changeDate="11/04/2019">ANTITERRORISTS</word>
+</synonym>
+<synonym key="ANTITERRORISTA">
+    <word changeDate="11/04/2019">ANTITERRORISTAS</word>
+</synonym>
+<synonym key="ANTONOVKA">
+    <word changeDate="11/04/2019">KRASNOGVARDEYSKOYE</word>
+    <word changeDate="11/04/2019">KRASNOGVARDIJSKE</word>
+    <word changeDate="11/04/2019">KRASNOHVARDIYSKE</word>
+    <word changeDate="11/04/2019">VERBORYUS</word>
+</synonym>
+<synonym key="ANTWERP">
+    <word changeDate="11/04/2019">ANTWERPSE</word>
+</synonym>
+<synonym key="APARTADO">
+    <word changeDate="11/04/2019">APARTADOS</word>
+</synonym>
+<synonym key="APARTMENT">
+    <word changeDate="11/04/2019">APARTMENTS</word>
+</synonym>
+<synonym key="AR">
+    <word changeDate="11/04/2019">ARKANSAS</word>
+</synonym>
+<synonym key="ARAB">
+    <word changeDate="11/04/2019">ARABE</word>
+    <word changeDate="11/04/2019">ARABES</word>
+    <word changeDate="11/04/2019">ARABI</word>
+    <word changeDate="11/04/2019">ARABS</word>
+</synonym>
+<synonym key="ARABIA">
+    <word changeDate="11/04/2019">ARABIE</word>
+    <word changeDate="11/04/2019">ARABIEN</word>
+    <word changeDate="11/04/2019">ARAVIISKOM</word>
+</synonym>
+<synonym key="ARABIAN">
+    <word changeDate="11/04/2019">ARABIANS</word>
+</synonym>
+<synonym key="ARC">
+    <word changeDate="11/04/2019">ARCS</word>
+</synonym>
+<synonym key="AREENA">
+    <word changeDate="11/04/2019">ARENA</word>
+    <word changeDate="11/04/2019">ARENAS</word>
+</synonym>
+<synonym key="ARELANO">
+    <word changeDate="11/04/2019">ARELLANO</word>
+</synonym>
+<synonym key="ARGENTINA">
+    <word changeDate="11/04/2019">ARGENTINAS</word>
+    <word changeDate="11/04/2019">ARGENTINE</word>
+    <word changeDate="11/04/2019">ARGENTINIE</word>
+    <word changeDate="11/04/2019">ARGENTINIEN</word>
+    <word changeDate="11/04/2019">ARGENTINO</word>
+</synonym>
+<synonym key="ARIZONA">
+    <word changeDate="11/04/2019">AZ</word>
+</synonym>
+<synonym key="ARMADA">
+    <word changeDate="11/04/2019">ARMIA</word>
+    <word changeDate="11/04/2019">ARMIES</word>
+    <word changeDate="11/04/2019">ARMY</word>
+</synonym>
+<synonym key="ARMAMENT">
+    <word changeDate="11/04/2019">ARMAMENTS</word>
+</synonym>
+<synonym key="ARMIANSK">
+    <word changeDate="11/04/2019">ARMJANSK</word>
+    <word changeDate="11/04/2019">ARMYANSK</word>
+</synonym>
+<synonym key="ARQUITECTO">
+    <word changeDate="11/04/2019">ARQUITECTOS</word>
+</synonym>
+<synonym key="ARTEM">
+    <word changeDate="11/04/2019">ARTYOM</word>
+</synonym>
+<synonym key="ARTEMOVSKIY">
+    <word changeDate="11/04/2019">ARTEMOVSKY</word>
+</synonym>
+<synonym key="ASBAT">
+    <word changeDate="11/04/2019">ESBAT</word>
+    <word changeDate="11/04/2019">ISBAT</word>
+    <word changeDate="11/04/2019">OSBAT</word>
+    <word changeDate="11/04/2019">OUSBAT</word>
+    <word changeDate="11/04/2019">USBAT</word>
+</synonym>
+<synonym key="ASESORIA">
+    <word changeDate="11/04/2019">ASESORIAS</word>
+</synonym>
+<synonym key="ASHRAFIEH">
+    <word changeDate="11/04/2019">ASHRAFIYEH</word>
+</synonym>
+<synonym key="ASIA">
+    <word changeDate="11/04/2019">ASIE</word>
+</synonym>
+<synonym key="ASIAN">
+    <word changeDate="11/04/2019">ASIANS</word>
+</synonym>
+<synonym key="ASOCIACION">
+    <word changeDate="11/04/2019">ASSN</word>
+    <word changeDate="11/04/2019">ASSOC</word>
+    <word changeDate="11/04/2019">ASSOCIATION</word>
+    <word changeDate="11/04/2019">ASSOCIATIONS</word>
+    <word changeDate="11/04/2019">SZOEVETSEG</word>
+    <word changeDate="11/04/2019">SZOVETSEG</word>
+</synonym>
+<synonym key="ASOCIADO">
+    <word changeDate="11/04/2019">ASOCIADOS</word>
+    <word changeDate="11/04/2019">ASSOCIATE</word>
+    <word changeDate="11/04/2019">ASSOCIATES</word>
+    <word changeDate="11/04/2019">ASSOCIATIE</word>
+    <word changeDate="11/04/2019">ASSOCIES</word>
+</synonym>
+<synonym key="ASSET">
+    <word changeDate="11/04/2019">ASSETS</word>
+</synonym>
+<synonym key="ASSICURAZIONI">
+    <word changeDate="11/04/2019">INS</word>
+    <word changeDate="11/04/2019">INSURANCE</word>
+</synonym>
+<synonym key="ASSISTANT">
+    <word changeDate="11/04/2019">ASST</word>
+</synonym>
+<synonym key="ASSOUDAN">
+    <word changeDate="11/04/2019">ASSUDAN</word>
+    <word changeDate="11/04/2019">SOUDAN</word>
+    <word changeDate="11/04/2019">SUDAN</word>
+    <word changeDate="11/04/2019">SUDANESE</word>
+    <word changeDate="11/04/2019">SUDANIN</word>
+    <word changeDate="11/04/2019">SUDANSKA</word>
+    <word changeDate="11/04/2019">SUDAO</word>
+    <word changeDate="11/04/2019">SZUDAN</word>
+</synonym>
+<synonym key="ASSURANCE">
+    <word changeDate="11/04/2019">ASSURANCES</word>
+</synonym>
+<synonym key="ASTANEH">
+    <word changeDate="11/04/2019">ASTANEHYE</word>
+    <word changeDate="11/04/2019">ASTENEH</word>
+</synonym>
+<synonym key="ATLANTIC">
+    <word changeDate="11/04/2019">ATLANTICO</word>
+    <word changeDate="11/04/2019">ATLANTIQUE</word>
+</synonym>
+<synonym key="ATT">
+    <word changeDate="11/04/2019">ATTENTION</word>
+    <word changeDate="11/04/2019">ATTN</word>
+</synonym>
+<synonym key="ATTICA">
+    <word changeDate="11/04/2019">ATTIQUE</word>
+</synonym>
+<synonym key="AUNGMYETHASAN">
+    <word changeDate="11/04/2019">AUNGMYETHAZAN</word>
+</synonym>
+<synonym key="AUSTRIA">
+    <word changeDate="11/04/2019">AUTRICHE</word>
+    <word changeDate="11/04/2019">OOSTENRIJK</word>
+    <word changeDate="11/04/2019">OSTERREICH</word>
+    <word changeDate="11/04/2019">OSTERRIKE</word>
+</synonym>
+<synonym key="AUTHORITIES">
+    <word changeDate="11/04/2019">AUTHORITY</word>
+</synonym>
+<synonym key="AUTOMOBILE">
+    <word changeDate="11/04/2019">AUTOMOBILES</word>
+</synonym>
+<synonym key="AUTOMOTIVE">
+    <word changeDate="11/04/2019">AUTOMOTIVES</word>
+</synonym>
+<synonym key="AUTONOME">
+    <word changeDate="11/04/2019">AUTONOMO</word>
+    <word changeDate="11/04/2019">AUTONOMOUS</word>
+</synonym>
+<synonym key="AUXILAIRE">
+    <word changeDate="11/04/2019">AUXILIAIRE</word>
+    <word changeDate="11/04/2019">AUXILIAR</word>
+    <word changeDate="11/04/2019">AUXILIARY</word>
+</synonym>
+<synonym key="AV">
+    <word changeDate="11/04/2019">AVE</word>
+    <word changeDate="11/04/2019">AVENUE</word>
+</synonym>
+<synonym key="AVIACION">
+    <word changeDate="11/04/2019">AVIATION</word>
+</synonym>
+<synonym key="AVICOLA">
+    <word changeDate="11/04/2019">AVICOLAS</word>
+</synonym>
+<synonym key="AX">
+    <word changeDate="11/04/2019">AXE</word>
+</synonym>
+<synonym key="AZERBAIDJAN">
+    <word changeDate="11/04/2019">AZERBAIJAN</word>
+    <word changeDate="11/04/2019">AZERBEIDJAN</word>
+</synonym>
+<synonym key="BABIES">
+    <word changeDate="11/04/2019">BABY</word>
+</synonym>
+<synonym key="BACHASHISARAI">
+    <word changeDate="11/04/2019">BACHISCHISSARAI</word>
+    <word changeDate="11/04/2019">BACHTJISARAJ</word>
+    <word changeDate="11/04/2019">BACHTSCHYSSARAJ</word>
+    <word changeDate="11/04/2019">BACHTSJISARAJ</word>
+    <word changeDate="11/04/2019">BAHCESARAY</word>
+    <word changeDate="11/04/2019">BAHCISARAJO</word>
+    <word changeDate="11/04/2019">BAKHCHYSARAY</word>
+</synonym>
+<synonym key="BACHTARAN">
+    <word changeDate="11/04/2019">KERMANSAH</word>
+    <word changeDate="11/04/2019">KERMANSCHACH</word>
+    <word changeDate="11/04/2019">KERMANSHAH</word>
+    <word changeDate="11/04/2019">KERMANSHAKH</word>
+    <word changeDate="11/04/2019">KERMANSZAH</word>
+</synonym>
+<synonym key="BAGHDAD">
+    <word changeDate="11/04/2019">BAHGDAD</word>
+</synonym>
+<synonym key="BAGO">
+    <word changeDate="11/04/2019">PEGU</word>
+</synonym>
+<synonym key="BAHAMA">
+    <word changeDate="11/04/2019">BAHAMAS</word>
+</synonym>
+<synonym key="BAHRAIN">
+    <word changeDate="11/04/2019">BAHREIN</word>
+</synonym>
+<synonym key="BAIMAK">
+    <word changeDate="11/04/2019">BAYMAK</word>
+</synonym>
+<synonym key="BAJAMO">
+    <word changeDate="11/04/2019">BAYAMO</word>
+</synonym>
+<synonym key="BAKERIES">
+    <word changeDate="11/04/2019">BAKERY</word>
+</synonym>
+<synonym key="BALE">
+    <word changeDate="11/04/2019">BASEL</word>
+    <word changeDate="11/04/2019">BASLE</word>
+</synonym>
+<synonym key="BANC">
+    <word changeDate="11/04/2019">BANCA</word>
+    <word changeDate="11/04/2019">BANCHE</word>
+    <word changeDate="11/04/2019">BANCO</word>
+    <word changeDate="11/04/2019">BANCOS</word>
+    <word changeDate="11/04/2019">BANK</word>
+    <word changeDate="11/04/2019">BANKA</word>
+    <word changeDate="11/04/2019">BANKASI</word>
+    <word changeDate="11/04/2019">BANKE</word>
+    <word changeDate="11/04/2019">BANKEN</word>
+    <word changeDate="11/04/2019">BANKI</word>
+    <word changeDate="11/04/2019">BANKOS</word>
+    <word changeDate="11/04/2019">BANKS</word>
+    <word changeDate="11/04/2019">BANQ</word>
+    <word changeDate="11/04/2019">BANQUE</word>
+    <word changeDate="11/04/2019">BANQUES</word>
+    <word changeDate="11/04/2019">BCO</word>
+    <word changeDate="11/04/2019">BK</word>
+    <word changeDate="11/04/2019">BQE</word>
+    <word changeDate="11/04/2019">RIKSBANK</word>
+</synonym>
+<synonym key="BANDAR">
+    <word changeDate="11/04/2019">BANDARE</word>
+</synonym>
+<synonym key="BANDEIRANTE">
+    <word changeDate="11/04/2019">BANDEIRANTES</word>
+</synonym>
+<synonym key="BANGLADESH">
+    <word changeDate="11/04/2019">BANGLADESTE</word>
+</synonym>
+<synonym key="BAR">
+    <word changeDate="11/04/2019">BARS</word>
+</synonym>
+<synonym key="BARBADE">
+    <word changeDate="11/04/2019">BARBADOS</word>
+</synonym>
+<synonym key="BARGE">
+    <word changeDate="11/04/2019">MV</word>
+    <word changeDate="11/04/2019">SHIP</word>
+    <word changeDate="11/04/2019">SHIPS</word>
+    <word changeDate="11/04/2019">TANKER</word>
+    <word changeDate="11/04/2019">TANKERS</word>
+    <word changeDate="11/04/2019">VESSEL</word>
+</synonym>
+<synonym key="BARMA">
+    <word changeDate="11/04/2019">BIRMA</word>
+    <word changeDate="11/04/2019">BIRMANIA</word>
+    <word changeDate="11/04/2019">BIRMANIE</word>
+    <word changeDate="11/04/2019">BIRMANSKI</word>
+    <word changeDate="11/04/2019">BIRMANSKIJJ</word>
+    <word changeDate="11/04/2019">BURMA</word>
+    <word changeDate="11/04/2019">BURMESE</word>
+    <word changeDate="11/04/2019">MIANMA</word>
+    <word changeDate="11/04/2019">MIANMAR</word>
+    <word changeDate="11/04/2019">MIANMARSKIJAT</word>
+    <word changeDate="11/04/2019">MIANMARSKIYAT</word>
+    <word changeDate="11/04/2019">MJANMA</word>
+    <word changeDate="11/04/2019">MJANMARSKO</word>
+    <word changeDate="11/04/2019">MYANMA</word>
+    <word changeDate="11/04/2019">MYANMAR</word>
+</synonym>
+<synonym key="BASE">
+    <word changeDate="11/04/2019">BASES</word>
+</synonym>
+<synonym key="BASEJN">
+    <word changeDate="11/04/2019">BASSEIN</word>
+    <word changeDate="11/04/2019">BASSEJJN</word>
+    <word changeDate="11/04/2019">BASSEJN</word>
+    <word changeDate="11/04/2019">PANTEIN</word>
+    <word changeDate="11/04/2019">PANTEJJN</word>
+    <word changeDate="11/04/2019">PANTEJN</word>
+    <word changeDate="11/04/2019">PATHEIN</word>
+</synonym>
+<synonym key="BATARJI">
+    <word changeDate="11/04/2019">BATTARJEE</word>
+    <word changeDate="11/04/2019">BATTERJEE</word>
+</synonym>
+<synonym key="BATTALION">
+    <word changeDate="11/04/2019">BATTALIONS</word>
+</synonym>
+<synonym key="BATTERIES">
+    <word changeDate="11/04/2019">BATTERY</word>
+</synonym>
+<synonym key="BAY">
+    <word changeDate="11/04/2019">BAYS</word>
+</synonym>
+<synonym key="BEACH">
+    <word changeDate="11/04/2019">BEACHES</word>
+</synonym>
+<synonym key="BEIJING">
+    <word changeDate="11/04/2019">PEKING</word>
+</synonym>
+<synonym key="BEKAY">
+    <word changeDate="11/04/2019">BEKKAY</word>
+</synonym>
+<synonym key="BELARUS">
+    <word changeDate="11/04/2019">BELARUSIAN</word>
+    <word changeDate="11/04/2019">BELARUSSIAN</word>
+    <word changeDate="11/04/2019">BIELORRUSIA</word>
+    <word changeDate="11/04/2019">BIELORUSSIE</word>
+</synonym>
+<synonym key="BELARUSKALI">
+    <word changeDate="11/04/2019">BELARUSKALIJJ</word>
+</synonym>
+<synonym key="BELARUSNEFT">
+    <word changeDate="11/04/2019">BELORUSNEFT</word>
+</synonym>
+<synonym key="BELEV">
+    <word changeDate="11/04/2019">BELYOV</word>
+</synonym>
+<synonym key="BELGE">
+    <word changeDate="11/04/2019">BELGIAN</word>
+    <word changeDate="11/04/2019">BELGISCHE</word>
+    <word changeDate="11/04/2019">BELGO</word>
+</synonym>
+<synonym key="BELGIE">
+    <word changeDate="11/04/2019">BELGIO</word>
+    <word changeDate="11/04/2019">BELGIQUE</word>
+    <word changeDate="11/04/2019">BELGIUM</word>
+</synonym>
+<synonym key="BELINSKIY">
+    <word changeDate="11/04/2019">BELINSKY</word>
+</synonym>
+<synonym key="BELOGORSK">
+    <word changeDate="11/04/2019">BILOGIRSK</word>
+    <word changeDate="11/04/2019">BILOHIRSK</word>
+    <word changeDate="11/04/2019">KARASU</word>
+    <word changeDate="11/04/2019">KARASUBAZAR</word>
+    <word changeDate="11/04/2019">KARASUBOZAR</word>
+</synonym>
+<synonym key="BELOYARSKIY">
+    <word changeDate="11/04/2019">BELOYARSKY</word>
+</synonym>
+<synonym key="BEN">
+    <word changeDate="11/04/2019">BIN</word>
+</synonym>
+<synonym key="BENEFICIADORA">
+    <word changeDate="11/04/2019">BENEFICIARY</word>
+</synonym>
+<synonym key="BENEFIT">
+    <word changeDate="11/04/2019">BENEFITS</word>
+</synonym>
+<synonym key="BENEVOLENCE">
+    <word changeDate="11/04/2019">BLAGOTVORITELNYI</word>
+</synonym>
+<synonym key="BEREZOVO">
+    <word changeDate="11/04/2019">BERYOZOVO</word>
+</synonym>
+<synonym key="BERINGOVSKIY">
+    <word changeDate="11/04/2019">BERINGOVSKY</word>
+</synonym>
+<synonym key="BERN">
+    <word changeDate="11/04/2019">BERNE</word>
+</synonym>
+<synonym key="BERTHOUD">
+    <word changeDate="11/04/2019">BURGDORF</word>
+</synonym>
+<synonym key="BICNORD">
+    <word changeDate="11/04/2019">BIJNORD</word>
+    <word changeDate="11/04/2019">BOJNOURD</word>
+    <word changeDate="11/04/2019">BOJNURD</word>
+    <word changeDate="11/04/2019">BUJNURD</word>
+</synonym>
+<synonym key="BINLADDEN">
+    <word changeDate="11/04/2019">BINLADDIN</word>
+    <word changeDate="11/04/2019">BINLADEN</word>
+    <word changeDate="11/04/2019">BINLADIN</word>
+</synonym>
+<synonym key="BLD">
+    <word changeDate="11/04/2019">BLDG</word>
+    <word changeDate="11/04/2019">BUILDING</word>
+    <word changeDate="11/04/2019">BUILDINGS</word>
+</synonym>
+<synonym key="BLUE">
+    <word changeDate="11/04/2019">BLUES</word>
+</synonym>
+<synonym key="BLVD">
+    <word changeDate="11/04/2019">BOULEVARD</word>
+</synonym>
+<synonym key="BOARD">
+    <word changeDate="11/04/2019">BOARDS</word>
+</synonym>
+<synonym key="BODIES">
+    <word changeDate="11/04/2019">BODY</word>
+</synonym>
+<synonym key="BOLIVA">
+    <word changeDate="11/04/2019">BOLIVIA</word>
+    <word changeDate="11/04/2019">BOLIVIEN</word>
+</synonym>
+<synonym key="BOLIVIAN">
+    <word changeDate="11/04/2019">BOLIVIANO</word>
+</synonym>
+<synonym key="BOLSA">
+    <word changeDate="11/04/2019">BOLSAS</word>
+</synonym>
+<synonym key="BONIA">
+    <word changeDate="11/04/2019">BOSNIA</word>
+    <word changeDate="11/04/2019">BOSNIE</word>
+    <word changeDate="11/04/2019">BOSNIEN</word>
+</synonym>
+<synonym key="BOOK">
+    <word changeDate="11/04/2019">BOOKS</word>
+</synonym>
+<synonym key="BOOSAASO">
+    <word changeDate="11/04/2019">BOOSASO</word>
+    <word changeDate="11/04/2019">BOSASO</word>
+</synonym>
+<synonym key="BORDEAU">
+    <word changeDate="11/04/2019">BORDEAUX</word>
+</synonym>
+<synonym key="BOSNIAN">
+    <word changeDate="11/04/2019">BOSNIANS</word>
+</synonym>
+<synonym key="BOSPOR">
+    <word changeDate="11/04/2019">BOSPORA</word>
+    <word changeDate="11/04/2019">KERC</word>
+    <word changeDate="11/04/2019">KERCE</word>
+    <word changeDate="11/04/2019">KERCH</word>
+    <word changeDate="11/04/2019">KERCI</word>
+    <word changeDate="11/04/2019">KERCO</word>
+    <word changeDate="11/04/2019">KERCS</word>
+    <word changeDate="11/04/2019">KERCZ</word>
+    <word changeDate="11/04/2019">KERIC</word>
+    <word changeDate="11/04/2019">KERITCH</word>
+</synonym>
+<synonym key="BOSQUE">
+    <word changeDate="11/04/2019">BOSQUES</word>
+</synonym>
+<synonym key="BOUTIQUE">
+    <word changeDate="11/04/2019">BOUTIQUES</word>
+</synonym>
+<synonym key="BOX">
+    <word changeDate="11/04/2019">BOXES</word>
+</synonym>
+<synonym key="BOY">
+    <word changeDate="11/04/2019">BOYS</word>
+</synonym>
+<synonym key="BRAND">
+    <word changeDate="11/04/2019">BRANDS</word>
+</synonym>
+<synonym key="BRASIL">
+    <word changeDate="11/04/2019">BRASILIEN</word>
+    <word changeDate="11/04/2019">BRAZIEL</word>
+    <word changeDate="11/04/2019">BRAZIL</word>
+    <word changeDate="11/04/2019">BRESIL</word>
+</synonym>
+<synonym key="BRASILEIRA">
+    <word changeDate="11/04/2019">BRASILEIRAS</word>
+    <word changeDate="11/04/2019">BRASILEIRO</word>
+    <word changeDate="11/04/2019">BRASILEIROS</word>
+    <word changeDate="11/04/2019">BRASILIAN</word>
+    <word changeDate="11/04/2019">BRAZILIAN</word>
+    <word changeDate="11/04/2019">BRESILIENNE</word>
+</synonym>
+<synonym key="BRASILIA">
+    <word changeDate="11/04/2019">BRASILLA</word>
+</synonym>
+<synonym key="BREWERIES">
+    <word changeDate="11/04/2019">BREWERY</word>
+</synonym>
+<synonym key="BRIDGE">
+    <word changeDate="11/04/2019">BRIDGES</word>
+</synonym>
+<synonym key="BRIGADE">
+    <word changeDate="11/04/2019">BRIGADES</word>
+</synonym>
+<synonym key="BRIMAR">
+    <word changeDate="11/04/2019">BRIMARS</word>
+</synonym>
+<synonym key="BROADCAST">
+    <word changeDate="11/04/2019">BROADCASTING</word>
+    <word changeDate="11/04/2019">BROADCASTINGS</word>
+</synonym>
+<synonym key="BROKER">
+    <word changeDate="11/04/2019">BROKERS</word>
+</synonym>
+<synonym key="BROKERAGE">
+    <word changeDate="11/04/2019">BROKERAGES</word>
+</synonym>
+<synonym key="BROOK">
+    <word changeDate="11/04/2019">BROOKS</word>
+</synonym>
+<synonym key="BROTHER">
+    <word changeDate="11/04/2019">BROTHERS</word>
+    <word changeDate="11/04/2019">FRERE</word>
+    <word changeDate="11/04/2019">FRERES</word>
+</synonym>
+<synonym key="BRUSELAS">
+    <word changeDate="11/04/2019">BRUSELLES</word>
+    <word changeDate="11/04/2019">BRUSSELS</word>
+    <word changeDate="11/04/2019">BRUXELLES</word>
+</synonym>
+<synonym key="BUCAREST">
+    <word changeDate="11/04/2019">BUCHAREST</word>
+    <word changeDate="11/04/2019">BUCURESTI</word>
+    <word changeDate="11/04/2019">BUKAREST</word>
+</synonym>
+<synonym key="BUDENNOVSK">
+    <word changeDate="11/04/2019">BUDYONNOVSK</word>
+</synonym>
+<synonym key="BUEN">
+    <word changeDate="11/04/2019">BUENOS</word>
+</synonym>
+<synonym key="BULGARIA">
+    <word changeDate="11/04/2019">BULGARIE</word>
+    <word changeDate="11/04/2019">BULGARIEN</word>
+    <word changeDate="11/04/2019">BULGARIJE</word>
+</synonym>
+<synonym key="BUR">
+    <word changeDate="11/04/2019">KIKOETO</word>
+    <word changeDate="11/04/2019">KIKOTO</word>
+    <word changeDate="11/04/2019">PORT</word>
+    <word changeDate="11/04/2019">PORTS</word>
+    <word changeDate="11/04/2019">PRISTAV</word>
+    <word changeDate="11/04/2019">SATAMA</word>
+</synonym>
+<synonym key="BURAO">
+    <word changeDate="11/04/2019">BURCO</word>
+    <word changeDate="11/04/2019">BURO</word>
+</synonym>
+<synonym key="BUREAU">
+    <word changeDate="11/04/2019">BUREAUS</word>
+</synonym>
+<synonym key="BUSINESS">
+    <word changeDate="11/04/2019">BUSINESSES</word>
+</synonym>
+<synonym key="BYPRODUCT">
+    <word changeDate="11/04/2019">BYPRODUCTS</word>
+</synonym>
+<synonym key="CA">
+    <word changeDate="11/04/2019">CAL</word>
+    <word changeDate="11/04/2019">CALIF</word>
+    <word changeDate="11/04/2019">CALIFORNIA</word>
+</synonym>
+<synonym key="CABLE">
+    <word changeDate="11/04/2019">CABLES</word>
+</synonym>
+<synonym key="CACHE">
+    <word changeDate="11/04/2019">CACHES</word>
+</synonym>
+<synonym key="CAESAR">
+    <word changeDate="11/04/2019">CAESARS</word>
+    <word changeDate="11/04/2019">CESAR</word>
+</synonym>
+<synonym key="CAFE">
+    <word changeDate="11/04/2019">CAFES</word>
+</synonym>
+<synonym key="CAFETERO">
+    <word changeDate="11/04/2019">CAFETEROS</word>
+</synonym>
+<synonym key="CAFFA">
+    <word changeDate="11/04/2019">FEODOSIA</word>
+    <word changeDate="11/04/2019">FEODOSIJA</word>
+    <word changeDate="11/04/2019">FEODOSIYA</word>
+    <word changeDate="11/04/2019">FEODOSSIA</word>
+    <word changeDate="11/04/2019">FEODOSSIJA</word>
+    <word changeDate="11/04/2019">FEODOSYA</word>
+    <word changeDate="11/04/2019">FYEODOSIYA</word>
+    <word changeDate="11/04/2019">KAFFA</word>
+    <word changeDate="11/04/2019">KEFE</word>
+</synonym>
+<synonym key="CAIRE">
+    <word changeDate="11/04/2019">CAIRO</word>
+    <word changeDate="11/04/2019">KAIRO</word>
+</synonym>
+<synonym key="CAISE">
+    <word changeDate="11/04/2019">CAISSE</word>
+    <word changeDate="11/04/2019">CAISSES</word>
+</synonym>
+<synonym key="CAJA">
+    <word changeDate="11/04/2019">CAJAS</word>
+</synonym>
+<synonym key="CALEDONIA">
+    <word changeDate="11/04/2019">CALENDONIE</word>
+</synonym>
+<synonym key="CALIBRATION">
+    <word changeDate="11/04/2019">CALIBRATIONS</word>
+</synonym>
+<synonym key="CALL">
+    <word changeDate="11/04/2019">CALLS</word>
+</synonym>
+<synonym key="CAMAGUEEI">
+    <word changeDate="11/04/2019">CAMAGUEI</word>
+    <word changeDate="11/04/2019">CAMAGUEY</word>
+    <word changeDate="11/04/2019">KAMAGUEHJJ</word>
+    <word changeDate="11/04/2019">KAMAGUEI</word>
+    <word changeDate="11/04/2019">KAMAGUEJ</word>
+    <word changeDate="11/04/2019">KAMAGUEY</word>
+</synonym>
+<synonym key="CAMBI">
+    <word changeDate="11/04/2019">CAMBIO</word>
+    <word changeDate="11/04/2019">CAMBIOS</word>
+    <word changeDate="11/04/2019">EXCH</word>
+    <word changeDate="11/04/2019">EXCHANGE</word>
+    <word changeDate="11/04/2019">EXCHANGES</word>
+    <word changeDate="11/04/2019">EXHANGE</word>
+</synonym>
+<synonym key="CAMBODIAN">
+    <word changeDate="11/04/2019">CAMBODIANS</word>
+</synonym>
+<synonym key="CAMILIO">
+    <word changeDate="11/04/2019">CAMILO</word>
+</synonym>
+<synonym key="CAMINO">
+    <word changeDate="11/04/2019">CAMINOS</word>
+</synonym>
+<synonym key="CAMP">
+    <word changeDate="11/04/2019">CAMPS</word>
+</synonym>
+<synonym key="CAMPO">
+    <word changeDate="11/04/2019">CAMPOS</word>
+</synonym>
+<synonym key="CANADA">
+    <word changeDate="11/04/2019">KANADA</word>
+</synonym>
+<synonym key="CANADIAN">
+    <word changeDate="11/04/2019">CANADIENNE</word>
+</synonym>
+<synonym key="CANAL">
+    <word changeDate="11/04/2019">CANALS</word>
+</synonym>
+<synonym key="CAPITAL">
+    <word changeDate="11/04/2019">CAPITALS</word>
+</synonym>
+<synonym key="CAPITALIZADOR">
+    <word changeDate="11/04/2019">CAPITALIZADORA</word>
+</synonym>
+<synonym key="CAR">
+    <word changeDate="11/04/2019">CARS</word>
+</synonym>
+<synonym key="CARBON">
+    <word changeDate="11/04/2019">CARBONS</word>
+</synonym>
+<synonym key="CARDOSA">
+    <word changeDate="11/04/2019">CORDOSA</word>
+    <word changeDate="11/04/2019">CORDOZA</word>
+</synonym>
+<synonym key="CARGA">
+    <word changeDate="11/04/2019">CARGAS</word>
+</synonym>
+<synonym key="CARGO">
+    <word changeDate="11/04/2019">CARGOS</word>
+</synonym>
+<synonym key="CARIBBEAN">
+    <word changeDate="11/04/2019">CARIBEAN</word>
+</synonym>
+<synonym key="CARNAVAL">
+    <word changeDate="11/04/2019">CARNIVAL</word>
+</synonym>
+<synonym key="CAROLINA">
+    <word changeDate="11/04/2019">CAROLINAS</word>
+</synonym>
+<synonym key="CARRIER">
+    <word changeDate="11/04/2019">CARRIERS</word>
+</synonym>
+<synonym key="CARTEL">
+    <word changeDate="11/04/2019">CARTELS</word>
+</synonym>
+<synonym key="CARTHAGO">
+    <word changeDate="11/04/2019">KARTHAJ</word>
+</synonym>
+<synonym key="CASA">
+    <word changeDate="11/04/2019">CASAS</word>
+</synonym>
+<synonym key="CASE">
+    <word changeDate="11/04/2019">CASES</word>
+</synonym>
+<synonym key="CASITA">
+    <word changeDate="11/04/2019">CASITAS</word>
+</synonym>
+<synonym key="CASSA">
+    <word changeDate="11/04/2019">CASSE</word>
+</synonym>
+<synonym key="CASSALA">
+    <word changeDate="11/04/2019">KASALA</word>
+    <word changeDate="11/04/2019">KASSALA</word>
+    <word changeDate="11/04/2019">KASSALE</word>
+    <word changeDate="11/04/2019">KESALA</word>
+    <word changeDate="11/04/2019">KESSALA</word>
+</synonym>
+<synonym key="CASTRO">
+    <word changeDate="11/04/2019">KASTRO</word>
+</synonym>
+<synonym key="CATHOLIC">
+    <word changeDate="11/04/2019">CATTOLICA</word>
+</synonym>
+<synonym key="CAYMAN">
+    <word changeDate="11/04/2019">CAYMEN</word>
+</synonym>
+<synonym key="CCHONGDZIN">
+    <word changeDate="11/04/2019">CHHANDZHIN</word>
+    <word changeDate="11/04/2019">CHKHANDZHIN</word>
+    <word changeDate="11/04/2019">CHKHONDZHIN</word>
+    <word changeDate="11/04/2019">CHONGDZHIN</word>
+    <word changeDate="11/04/2019">CHONGJIN</word>
+    <word changeDate="11/04/2019">CONGDZIN</word>
+    <word changeDate="11/04/2019">CSHONGDZSIN</word>
+    <word changeDate="11/04/2019">CZHONGDZIN</word>
+    <word changeDate="11/04/2019">TSCHCHANDSCHIN</word>
+    <word changeDate="11/04/2019">TSCHCHONDSCHIN</word>
+    <word changeDate="11/04/2019">TSCHONGDSCHIN</word>
+</synonym>
+<synonym key="CEASARS">
+    <word changeDate="11/04/2019">CEASERS</word>
+</synonym>
+<synonym key="CELL">
+    <word changeDate="11/04/2019">CELLS</word>
+</synonym>
+<synonym key="CELLULOSA">
+    <word changeDate="11/04/2019">CELLULOSE</word>
+</synonym>
+<synonym key="CEMENT">
+    <word changeDate="11/04/2019">CEMENTO</word>
+    <word changeDate="11/04/2019">CEMENTOS</word>
+</synonym>
+<synonym key="CENTER">
+    <word changeDate="11/04/2019">CENTERS</word>
+    <word changeDate="11/04/2019">CENTRE</word>
+    <word changeDate="11/04/2019">CENTRO</word>
+    <word changeDate="11/04/2019">CENTROS</word>
+</synonym>
+<synonym key="CENTRADE">
+    <word changeDate="11/04/2019">CENTRAIS</word>
+    <word changeDate="11/04/2019">CENTRAL</word>
+    <word changeDate="11/04/2019">CENTRALE</word>
+    <word changeDate="11/04/2019">CENTRALES</word>
+    <word changeDate="11/04/2019">CNTRL</word>
+    <word changeDate="11/04/2019">KOEZEP</word>
+    <word changeDate="11/04/2019">KOZEP</word>
+    <word changeDate="11/04/2019">NEGARA</word>
+</synonym>
+<synonym key="CENTRALBANK">
+    <word changeDate="11/04/2019">CENTROBANCA</word>
+</synonym>
+<synonym key="CENTURIES">
+    <word changeDate="11/04/2019">CENTURY</word>
+</synonym>
+<synonym key="CERAMIC">
+    <word changeDate="11/04/2019">CERAMICS</word>
+</synonym>
+<synonym key="CESKOSLOVENSKA">
+    <word changeDate="11/04/2019">CZECHOSLOVAKIA</word>
+</synonym>
+<synonym key="CHAD">
+    <word changeDate="11/04/2019">TCHAD</word>
+    <word changeDate="11/04/2019">TCHADE</word>
+    <word changeDate="11/04/2019">TCHADO</word>
+    <word changeDate="11/04/2019">TSCHAD</word>
+</synonym>
+<synonym key="CHAIKOVSKY">
+    <word changeDate="11/04/2019">CHAYKOVSKIY</word>
+</synonym>
+<synonym key="CHAMCHAN">
+    <word changeDate="11/04/2019">CHAMCHYN</word>
+    <word changeDate="11/04/2019">HAMHAN</word>
+    <word changeDate="11/04/2019">HAMHUNG</word>
+    <word changeDate="11/04/2019">KHAMKHAN</word>
+    <word changeDate="11/04/2019">KHAMKHYN</word>
+</synonym>
+<synonym key="CHAMPION">
+    <word changeDate="11/04/2019">CHAMPIONS</word>
+</synonym>
+<synonym key="CHANG">
+    <word changeDate="11/04/2019">CHEONG</word>
+    <word changeDate="11/04/2019">CHEUNG</word>
+    <word changeDate="11/04/2019">CHONG</word>
+    <word changeDate="11/04/2019">ZHANG</word>
+</synonym>
+<synonym key="CHANMYATHASI">
+    <word changeDate="11/04/2019">CHANMYATHAZI</word>
+</synonym>
+<synonym key="CHANNAM">
+    <word changeDate="11/04/2019">CHYNNAM</word>
+    <word changeDate="11/04/2019">HANNAM</word>
+    <word changeDate="11/04/2019">HUNGNAM</word>
+    <word changeDate="11/04/2019">KHANNAM</word>
+    <word changeDate="11/04/2019">KHYNNAM</word>
+</synonym>
+<synonym key="CHANNEL">
+    <word changeDate="11/04/2019">CHANNELS</word>
+</synonym>
+<synonym key="CHARITIES">
+    <word changeDate="11/04/2019">CHARITY</word>
+</synonym>
+<synonym key="CHARL">
+    <word changeDate="11/04/2019">CHARLES</word>
+    <word changeDate="11/04/2019">CHARLZ</word>
+    <word changeDate="11/04/2019">KAROL</word>
+    <word changeDate="11/04/2019">TCHARLS</word>
+    <word changeDate="11/04/2019">TSCHARLS</word>
+</synonym>
+<synonym key="CHAVES">
+    <word changeDate="11/04/2019">CHAVEZ</word>
+</synonym>
+<synonym key="CHAWANA">
+    <word changeDate="11/04/2019">GAVANA</word>
+    <word changeDate="11/04/2019">GAWANA</word>
+    <word changeDate="11/04/2019">HAVANA</word>
+    <word changeDate="11/04/2019">HAVANNA</word>
+    <word changeDate="11/04/2019">HAWANA</word>
+    <word changeDate="11/04/2019">KHAVANA</word>
+</synonym>
+<synonym key="CHEBLI">
+    <word changeDate="11/04/2019">CHIBLI</word>
+</synonym>
+<synonym key="CHECK">
+    <word changeDate="11/04/2019">CHEQUES</word>
+</synonym>
+<synonym key="CHEDSCHU">
+    <word changeDate="11/04/2019">CHETSCHSCHU</word>
+    <word changeDate="11/04/2019">HAEJU</word>
+    <word changeDate="11/04/2019">HEDZHU</word>
+    <word changeDate="11/04/2019">HEDZSU</word>
+    <word changeDate="11/04/2019">HEDZU</word>
+    <word changeDate="11/04/2019">KHECHZHU</word>
+    <word changeDate="11/04/2019">KHEDZHU</word>
+    <word changeDate="11/04/2019">KHEHCHZHU</word>
+    <word changeDate="11/04/2019">KHEHDZHU</word>
+</synonym>
+<synonym key="CHEM">
+    <word changeDate="11/04/2019">CHEMICAL</word>
+    <word changeDate="11/04/2019">CHEMICALS</word>
+    <word changeDate="11/04/2019">CHEMS</word>
+</synonym>
+<synonym key="CHERSKIY">
+    <word changeDate="11/04/2019">CHERSKY</word>
+</synonym>
+<synonym key="CHGO">
+    <word changeDate="11/04/2019">CHICAGO</word>
+</synonym>
+<synonym key="CHIMINYA">
+    <word changeDate="11/04/2019">CHININYA</word>
+</synonym>
+<synonym key="CHINA">
+    <word changeDate="11/04/2019">CHINE</word>
+    <word changeDate="11/04/2019">KINA</word>
+    <word changeDate="11/04/2019">SINO</word>
+</synonym>
+<synonym key="CHIPRE">
+    <word changeDate="11/04/2019">CHYPRE</word>
+    <word changeDate="11/04/2019">CIPRO</word>
+    <word changeDate="11/04/2019">CYPRUS</word>
+    <word changeDate="11/04/2019">ZYPERN</word>
+</synonym>
+<synonym key="CHISIMAIO">
+    <word changeDate="11/04/2019">CHISIMAYU</word>
+    <word changeDate="11/04/2019">KISIMAYO</word>
+    <word changeDate="11/04/2019">KISIMAYU</word>
+    <word changeDate="11/04/2019">KISMAANYO</word>
+    <word changeDate="11/04/2019">KISMAAYO</word>
+    <word changeDate="11/04/2019">KISMAYO</word>
+    <word changeDate="11/04/2019">KISMAYU</word>
+</synonym>
+<synonym key="CHITGAR">
+    <word changeDate="11/04/2019">GHODS</word>
+    <word changeDate="11/04/2019">QODS</word>
+</synonym>
+<synonym key="CHRIST">
+    <word changeDate="11/04/2019">CRISTO</word>
+</synonym>
+<synonym key="CHRISTIANA">
+    <word changeDate="11/04/2019">CHRISTIANIA</word>
+</synonym>
+<synonym key="CHUNSKIY">
+    <word changeDate="11/04/2019">CHUNSKY</word>
+</synonym>
+<synonym key="CHURCH">
+    <word changeDate="11/04/2019">CHURCHES</word>
+    <word changeDate="11/04/2019">IGLESIA</word>
+</synonym>
+<synonym key="CIENFUEGOS">
+    <word changeDate="11/04/2019">SJENFUEGOS</word>
+    <word changeDate="11/04/2019">SYENFUEGOS</word>
+</synonym>
+<synonym key="CIGAR">
+    <word changeDate="11/04/2019">CIGARS</word>
+</synonym>
+<synonym key="CIGARETTE">
+    <word changeDate="11/04/2019">CIGARETTES</word>
+</synonym>
+<synonym key="CINEMA">
+    <word changeDate="11/04/2019">CINEMAS</word>
+</synonym>
+<synonym key="CIRCLE">
+    <word changeDate="11/04/2019">CIRCLES</word>
+</synonym>
+<synonym key="CIRCUITO">
+    <word changeDate="11/04/2019">CIRCUITOS</word>
+</synonym>
+<synonym key="CITE">
+    <word changeDate="11/04/2019">CITIES</word>
+    <word changeDate="11/04/2019">CITTA</word>
+    <word changeDate="11/04/2019">CITY</word>
+    <word changeDate="11/04/2019">CIUDAD</word>
+    <word changeDate="11/04/2019">CIUDADES</word>
+</synonym>
+<synonym key="CITIZEN">
+    <word changeDate="11/04/2019">CITIZENS</word>
+</synonym>
+<synonym key="CLARA">
+    <word changeDate="11/04/2019">KLARA</word>
+</synonym>
+<synonym key="CLASS">
+    <word changeDate="11/04/2019">CLASSES</word>
+</synonym>
+<synonym key="CLIFF">
+    <word changeDate="11/04/2019">CLIFFS</word>
+</synonym>
+<synonym key="CLINICA">
+    <word changeDate="11/04/2019">CLINICAS</word>
+</synonym>
+<synonym key="CLUB">
+    <word changeDate="11/04/2019">CLUBS</word>
+</synonym>
+<synonym key="CO">
+    <word changeDate="11/04/2019">COMPAGNIE</word>
+    <word changeDate="11/04/2019">COMPANHIA</word>
+    <word changeDate="11/04/2019">COMPANIA</word>
+    <word changeDate="11/04/2019">COMPANIAS</word>
+    <word changeDate="11/04/2019">COMPANIE</word>
+    <word changeDate="11/04/2019">COMPANIES</word>
+    <word changeDate="11/04/2019">COMPANY</word>
+</synonym>
+<synonym key="COALITION">
+    <word changeDate="11/04/2019">COALTIONS</word>
+</synonym>
+<synonym key="COAST">
+    <word changeDate="11/04/2019">COASTS</word>
+</synonym>
+<synonym key="COCINA">
+    <word changeDate="11/04/2019">COCINAS</word>
+</synonym>
+<synonym key="COLL">
+    <word changeDate="11/04/2019">COLLECTION</word>
+    <word changeDate="11/04/2019">COLLECTIONS</word>
+</synonym>
+<synonym key="COLOMBIA">
+    <word changeDate="11/04/2019">COLOMBIE</word>
+    <word changeDate="11/04/2019">KOLUMBIEN</word>
+</synonym>
+<synonym key="COLOMBIAN">
+    <word changeDate="11/04/2019">COLOMBIANA</word>
+    <word changeDate="11/04/2019">COLOMBIANO</word>
+</synonym>
+<synonym key="COLONIES">
+    <word changeDate="11/04/2019">COLONY</word>
+</synonym>
+<synonym key="COLOR">
+    <word changeDate="11/04/2019">COLORS</word>
+    <word changeDate="11/04/2019">COLOURS</word>
+</synonym>
+<synonym key="COMBATANT">
+    <word changeDate="11/04/2019">COMBATANTS</word>
+    <word changeDate="11/04/2019">COMBATENT</word>
+    <word changeDate="11/04/2019">COMBATTANT</word>
+    <word changeDate="11/04/2019">COMBATTENT</word>
+</synonym>
+<synonym key="COMERCE">
+    <word changeDate="11/04/2019">COMERCIA</word>
+    <word changeDate="11/04/2019">COMERCIO</word>
+    <word changeDate="11/04/2019">COMMERCE</word>
+    <word changeDate="11/04/2019">COMMERCIO</word>
+    <word changeDate="11/04/2019">COMMERZ</word>
+</synonym>
+<synonym key="COMERCIAL">
+    <word changeDate="11/04/2019">COMERICIALE</word>
+    <word changeDate="11/04/2019">COMMERCIAL</word>
+    <word changeDate="11/04/2019">COMMERCIALE</word>
+    <word changeDate="11/04/2019">COMMERCIALS</word>
+    <word changeDate="11/04/2019">COMMERICAL</word>
+    <word changeDate="11/04/2019">COMMERICIAL</word>
+    <word changeDate="11/04/2019">COMML</word>
+</synonym>
+<synonym key="COMET">
+    <word changeDate="11/04/2019">COMETS</word>
+</synonym>
+<synonym key="COMMISSION">
+    <word changeDate="11/04/2019">COMMISSIONS</word>
+</synonym>
+<synonym key="COMMITTEE">
+    <word changeDate="11/04/2019">COMMITTEES</word>
+</synonym>
+<synonym key="COMMODITIES">
+    <word changeDate="11/04/2019">COMMODITY</word>
+</synonym>
+<synonym key="COMMUNICATION">
+    <word changeDate="11/04/2019">COMMUNICATIONS</word>
+    <word changeDate="11/04/2019">COMUNICAZIONI</word>
+</synonym>
+<synonym key="COMMUNIST">
+    <word changeDate="11/04/2019">COMMUNISTS</word>
+    <word changeDate="11/04/2019">KOMUNISTICKA</word>
+</synonym>
+<synonym key="COMMUNITIES">
+    <word changeDate="11/04/2019">COMMUNITY</word>
+</synonym>
+<synonym key="COMPLEX">
+    <word changeDate="11/04/2019">COMPLEXES</word>
+</synonym>
+<synonym key="COMPONENT">
+    <word changeDate="11/04/2019">COMPONENTS</word>
+</synonym>
+<synonym key="COMPOUND">
+    <word changeDate="11/04/2019">COMPOUNDS</word>
+</synonym>
+<synonym key="COMPT">
+    <word changeDate="11/04/2019">COMPTROLLER</word>
+    <word changeDate="11/04/2019">COMPTROLLERS</word>
+</synonym>
+<synonym key="COMPUTER">
+    <word changeDate="11/04/2019">COMPUTERS</word>
+</synonym>
+<synonym key="COMUNICACION">
+    <word changeDate="11/04/2019">COMUNICACIONES</word>
+</synonym>
+<synonym key="COMUNICATION">
+    <word changeDate="11/04/2019">COMUNICATIONS</word>
+</synonym>
+<synonym key="CONCEPT">
+    <word changeDate="11/04/2019">CONCEPTS</word>
+</synonym>
+<synonym key="CONDOR">
+    <word changeDate="11/04/2019">CONDORS</word>
+</synonym>
+<synonym key="CONFEDERACION">
+    <word changeDate="11/04/2019">CONFEDERATION</word>
+</synonym>
+<synonym key="CONN">
+    <word changeDate="11/04/2019">CONNECTICUT</word>
+    <word changeDate="11/04/2019">CT</word>
+</synonym>
+<synonym key="CONSIGNACIONES">
+    <word changeDate="11/04/2019">CONSIGNATIONS</word>
+</synonym>
+<synonym key="CONSOLIDADA">
+    <word changeDate="11/04/2019">CONSOLIDATED</word>
+</synonym>
+<synonym key="CONSOLIDADO">
+    <word changeDate="11/04/2019">CONSOLODATED</word>
+</synonym>
+<synonym key="CONST">
+    <word changeDate="11/04/2019">CONSTRUCCION</word>
+    <word changeDate="11/04/2019">CONSTRUCCIONES</word>
+    <word changeDate="11/04/2019">CONSTRUCTION</word>
+</synonym>
+<synonym key="CONSTITUCION">
+    <word changeDate="11/04/2019">CONSTITUTION</word>
+</synonym>
+<synonym key="CONSTRUCTEURS">
+    <word changeDate="11/04/2019">CONSTRUCTOR</word>
+    <word changeDate="11/04/2019">CONSTRUCTORES</word>
+    <word changeDate="11/04/2019">CONSTRUCTORS</word>
+    <word changeDate="11/04/2019">CONSTRUTOR</word>
+    <word changeDate="11/04/2019">CONSTRUTORA</word>
+</synonym>
+<synonym key="CONSUMER">
+    <word changeDate="11/04/2019">CONSUMERS</word>
+</synonym>
+<synonym key="CONTAINER">
+    <word changeDate="11/04/2019">CONTAINERS</word>
+</synonym>
+<synonym key="CONTINENT">
+    <word changeDate="11/04/2019">CONTINENTS</word>
+</synonym>
+<synonym key="CONTINENTAL">
+    <word changeDate="11/04/2019">CONTINENTALE</word>
+</synonym>
+<synonym key="CONTRACTOR">
+    <word changeDate="11/04/2019">CONTRACTORS</word>
+</synonym>
+<synonym key="CONTROL">
+    <word changeDate="11/04/2019">CONTROLS</word>
+    <word changeDate="11/04/2019">CTRL</word>
+</synonym>
+<synonym key="CONTROLLER">
+    <word changeDate="11/04/2019">CONTROLLERS</word>
+</synonym>
+<synonym key="COOPERATIEVE">
+    <word changeDate="11/04/2019">COOPERATIVA</word>
+    <word changeDate="11/04/2019">COOPERATIVAS</word>
+    <word changeDate="11/04/2019">COOPERATIVE</word>
+    <word changeDate="11/04/2019">COOPERATIVEA</word>
+    <word changeDate="11/04/2019">COOPERATIVES</word>
+    <word changeDate="11/04/2019">COOPERATIVO</word>
+    <word changeDate="11/04/2019">KOOPERATIVE</word>
+    <word changeDate="11/04/2019">OPERATIVE</word>
+</synonym>
+<synonym key="COPENHAGEN">
+    <word changeDate="11/04/2019">KJOBENHAVN</word>
+    <word changeDate="11/04/2019">KJOBENHAVNS</word>
+    <word changeDate="11/04/2019">KOBENHAVN</word>
+</synonym>
+<synonym key="COPIES">
+    <word changeDate="11/04/2019">COPY</word>
+</synonym>
+<synonym key="COREA">
+    <word changeDate="11/04/2019">COREE</word>
+    <word changeDate="11/04/2019">COREEA</word>
+    <word changeDate="11/04/2019">COREIA</word>
+    <word changeDate="11/04/2019">KOREA</word>
+    <word changeDate="11/04/2019">KOREAI</word>
+    <word changeDate="11/04/2019">KOREAN</word>
+    <word changeDate="11/04/2019">KOREANS</word>
+    <word changeDate="11/04/2019">KOREAS</word>
+    <word changeDate="11/04/2019">KOREISKAYA</word>
+    <word changeDate="11/04/2019">KOREJA</word>
+    <word changeDate="11/04/2019">KOREJJSKAJA</word>
+    <word changeDate="11/04/2019">KOREJSKA</word>
+    <word changeDate="11/04/2019">KOREJSKAJA</word>
+    <word changeDate="11/04/2019">KOREJSKATA</word>
+    <word changeDate="11/04/2019">KOREYA</word>
+    <word changeDate="11/04/2019">KOREYSKATA</word>
+</synonym>
+<synonym key="CORP">
+    <word changeDate="11/04/2019">CORPORACION</word>
+    <word changeDate="11/04/2019">CORPORACIONES</word>
+    <word changeDate="11/04/2019">CORPORATION</word>
+    <word changeDate="11/04/2019">CORPORATIONS</word>
+</synonym>
+<synonym key="CORRESPONDENCE">
+    <word changeDate="11/04/2019">CORRISPONDENZE</word>
+</synonym>
+<synonym key="CORTES">
+    <word changeDate="11/04/2019">CORTEZ</word>
+</synonym>
+<synonym key="COUNCIL">
+    <word changeDate="11/04/2019">COUNCILS</word>
+    <word changeDate="11/04/2019">RADA</word>
+</synonym>
+<synonym key="COUNTIES">
+    <word changeDate="11/04/2019">COUNTY</word>
+</synonym>
+<synonym key="COUNTRIES">
+    <word changeDate="11/04/2019">COUNTRY</word>
+</synonym>
+<synonym key="COURIER">
+    <word changeDate="11/04/2019">COURIERS</word>
+</synonym>
+<synonym key="CR">
+    <word changeDate="11/04/2019">CRED</word>
+    <word changeDate="11/04/2019">CREDIET</word>
+    <word changeDate="11/04/2019">CREDIT</word>
+    <word changeDate="11/04/2019">CREDITANSTALT</word>
+    <word changeDate="11/04/2019">CREDITO</word>
+    <word changeDate="11/04/2019">CREDITOS</word>
+    <word changeDate="11/04/2019">CREDITS</word>
+    <word changeDate="11/04/2019">KREDIET</word>
+</synonym>
+<synonym key="CREDIETBANK">
+    <word changeDate="11/04/2019">CREDITBANK</word>
+    <word changeDate="11/04/2019">KREDIETBANK</word>
+</synonym>
+<synonym key="CREEK">
+    <word changeDate="11/04/2019">CREEKS</word>
+</synonym>
+<synonym key="CRIMEA">
+    <word changeDate="08/05/2020">KRIMEA</word>
+</synonym>
+<synonym key="CROACIA">
+    <word changeDate="11/04/2019">CROATIA</word>
+    <word changeDate="11/04/2019">CROATIE</word>
+    <word changeDate="11/04/2019">CROAZIA</word>
+    <word changeDate="11/04/2019">KROATIE</word>
+    <word changeDate="11/04/2019">KROATIEN</word>
+</synonym>
+<synonym key="CROSS">
+    <word changeDate="11/04/2019">CROSSES</word>
+</synonym>
+<synonym key="CRUISE">
+    <word changeDate="11/04/2019">CRUISES</word>
+</synonym>
+<synonym key="CRUSADER">
+    <word changeDate="11/04/2019">CRUSADERS</word>
+</synonym>
+<synonym key="CRYSTAL">
+    <word changeDate="11/04/2019">CRYSTALS</word>
+</synonym>
+<synonym key="CUBA">
+    <word changeDate="11/04/2019">CUBAN</word>
+    <word changeDate="11/04/2019">CUBANA</word>
+    <word changeDate="11/04/2019">CUBANAS</word>
+    <word changeDate="11/04/2019">CUBANO</word>
+    <word changeDate="11/04/2019">CUBANOS</word>
+    <word changeDate="11/04/2019">CUBAS</word>
+    <word changeDate="11/04/2019">KOUBA</word>
+    <word changeDate="11/04/2019">KUBA</word>
+    <word changeDate="11/04/2019">KUBAI</word>
+    <word changeDate="11/04/2019">KUBAN</word>
+    <word changeDate="11/04/2019">KUBANISCH</word>
+    <word changeDate="11/04/2019">KUBANISCHE</word>
+    <word changeDate="11/04/2019">KUBANSKA</word>
+    <word changeDate="11/04/2019">KUBANSKOE</word>
+    <word changeDate="11/04/2019">KUBANSKOJE</word>
+    <word changeDate="11/04/2019">KUBINSKAJA</word>
+    <word changeDate="11/04/2019">KUBINSKAYA</word>
+    <word changeDate="11/04/2019">KUBINSKI</word>
+    <word changeDate="11/04/2019">KUBINSKIE</word>
+    <word changeDate="11/04/2019">KUBINSKIJE</word>
+    <word changeDate="11/04/2019">KUBINSKIJJ</word>
+    <word changeDate="11/04/2019">KUBINSKOYE</word>
+    <word changeDate="11/04/2019">KUUBA</word>
+</synonym>
+<synonym key="CUBE">
+    <word changeDate="11/04/2019">CUBES</word>
+</synonym>
+<synonym key="CULT">
+    <word changeDate="11/04/2019">CULTO</word>
+</synonym>
+<synonym key="CULTURE">
+    <word changeDate="11/04/2019">CULTURES</word>
+</synonym>
+<synonym key="CUR">
+    <word changeDate="11/04/2019">CURRENT</word>
+</synonym>
+<synonym key="CURR">
+    <word changeDate="11/04/2019">CURRENCY</word>
+    <word changeDate="11/04/2019">DIVISAS</word>
+</synonym>
+<synonym key="CYCLE">
+    <word changeDate="11/04/2019">CYCLES</word>
+</synonym>
+<synonym key="DAAWA">
+    <word changeDate="11/04/2019">DAWA</word>
+</synonym>
+<synonym key="DALGO">
+    <word changeDate="11/04/2019">DALQO</word>
+    <word changeDate="11/04/2019">DALQU</word>
+    <word changeDate="11/04/2019">DELGO</word>
+    <word changeDate="11/04/2019">DULGO</word>
+</synonym>
+<synonym key="DAMAS">
+    <word changeDate="11/04/2019">DAMASC</word>
+    <word changeDate="11/04/2019">DAMASCO</word>
+    <word changeDate="11/04/2019">DAMASCU</word>
+    <word changeDate="11/04/2019">DAMASCUS</word>
+    <word changeDate="11/04/2019">DAMASEK</word>
+    <word changeDate="11/04/2019">DAMASK</word>
+    <word changeDate="11/04/2019">DAMASKAS</word>
+    <word changeDate="11/04/2019">DAMASKO</word>
+    <word changeDate="11/04/2019">DAMASKOS</word>
+    <word changeDate="11/04/2019">DAMASKUS</word>
+    <word changeDate="11/04/2019">DAMASZEK</word>
+    <word changeDate="11/04/2019">DIMAJK</word>
+</synonym>
+<synonym key="DANMARKS">
+    <word changeDate="11/04/2019">DENMARK</word>
+    <word changeDate="11/04/2019">DENMARKS</word>
+</synonym>
+<synonym key="DAY">
+    <word changeDate="11/04/2019">DAYS</word>
+</synonym>
+<synonym key="DEFENCE">
+    <word changeDate="11/04/2019">DEFENCES</word>
+    <word changeDate="11/04/2019">DEFENSE</word>
+    <word changeDate="11/04/2019">DEFENSES</word>
+</synonym>
+<synonym key="DEFENDER">
+    <word changeDate="11/04/2019">DEFENDERS</word>
+</synonym>
+<synonym key="DEM">
+    <word changeDate="11/04/2019">DEMOCRATIC</word>
+    <word changeDate="11/04/2019">DEMOCRATICA</word>
+    <word changeDate="11/04/2019">DEMOKRAATTINEN</word>
+    <word changeDate="11/04/2019">DEMOKRATICHESKAJA</word>
+    <word changeDate="11/04/2019">DEMOKRATICHESKAYA</word>
+    <word changeDate="11/04/2019">DEMOKRATICHNA</word>
+    <word changeDate="11/04/2019">DEMOKRATICKA</word>
+    <word changeDate="11/04/2019">DEMOKRATIKUS</word>
+    <word changeDate="11/04/2019">DEMOKRATISCHEN</word>
+    <word changeDate="11/04/2019">DEMOKRATITSCHESKAJA</word>
+    <word changeDate="11/04/2019">DEMOKRATITSCHNA</word>
+    <word changeDate="11/04/2019">LUDOVODEMOKRATICKA</word>
+</synonym>
+<synonym key="DEMOCRACIES">
+    <word changeDate="11/04/2019">DEMOCRACY</word>
+</synonym>
+<synonym key="DENIZFACTORING">
+    <word changeDate="11/04/2019">DENIZFAKTORING</word>
+</synonym>
+<synonym key="DEPARTMENT">
+    <word changeDate="11/04/2019">DEPARTMENTS</word>
+    <word changeDate="11/04/2019">DEPT</word>
+</synonym>
+<synonym key="DEPOSIT">
+    <word changeDate="11/04/2019">DEPOSITARY</word>
+    <word changeDate="11/04/2019">DEPOSITEN</word>
+    <word changeDate="11/04/2019">DEPOSITI</word>
+    <word changeDate="11/04/2019">DEPOSITO</word>
+    <word changeDate="11/04/2019">DEPOSITOKAS</word>
+    <word changeDate="11/04/2019">DEPOSITORY</word>
+    <word changeDate="11/04/2019">DEPOSITOS</word>
+    <word changeDate="11/04/2019">DEPOT</word>
+    <word changeDate="11/04/2019">DEPOTS</word>
+</synonym>
+<synonym key="DESIGN">
+    <word changeDate="11/04/2019">DESIGNS</word>
+</synonym>
+<synonym key="DEV">
+    <word changeDate="11/04/2019">DEVEL</word>
+    <word changeDate="11/04/2019">DEVELOPMENT</word>
+    <word changeDate="11/04/2019">DEVELOPMENTS</word>
+    <word changeDate="11/04/2019">DEVELOPPEMENT</word>
+    <word changeDate="11/04/2019">DEVELOPPMENT</word>
+    <word changeDate="11/04/2019">FEJLESZTESI</word>
+</synonym>
+<synonym key="DEVRIMCI">
+    <word changeDate="11/04/2019">DEVRIMICI</word>
+</synonym>
+<synonym key="DHUBBANI">
+    <word changeDate="11/04/2019">DHUBHANI</word>
+    <word changeDate="11/04/2019">ZAHBANI</word>
+</synonym>
+<synonym key="DIAMOND">
+    <word changeDate="11/04/2019">DIAMONDS</word>
+</synonym>
+<synonym key="DIAS">
+    <word changeDate="11/04/2019">DIAZ</word>
+</synonym>
+<synonym key="DIRECTORATE">
+    <word changeDate="11/04/2019">DIRECTORATES</word>
+</synonym>
+<synonym key="DISC">
+    <word changeDate="11/04/2019">DISCOUNT</word>
+    <word changeDate="11/04/2019">DISKONT</word>
+</synonym>
+<synonym key="DISCOTECA">
+    <word changeDate="11/04/2019">DISCOTECAS</word>
+</synonym>
+<synonym key="DIST">
+    <word changeDate="11/04/2019">DISTRICT</word>
+</synonym>
+<synonym key="DISTRIBUCION">
+    <word changeDate="11/04/2019">DISTRIBUCIONES</word>
+</synonym>
+<synonym key="DISTRIBUIDOR">
+    <word changeDate="11/04/2019">DISTRIBUIDORES</word>
+</synonym>
+<synonym key="DISTRIBUIDORA">
+    <word changeDate="11/04/2019">DISTRIBUTOR</word>
+    <word changeDate="11/04/2019">DISTRIBUTORS</word>
+</synonym>
+<synonym key="DIV">
+    <word changeDate="11/04/2019">DIVISAO</word>
+    <word changeDate="11/04/2019">DIVISION</word>
+    <word changeDate="11/04/2019">DIVISIONS</word>
+</synonym>
+<synonym key="DIVERSION">
+    <word changeDate="11/04/2019">DIVERSIONS</word>
+</synonym>
+<synonym key="DJORDJ">
+    <word changeDate="11/04/2019">DZHORDZH</word>
+    <word changeDate="11/04/2019">GEO</word>
+    <word changeDate="11/04/2019">GEORG</word>
+    <word changeDate="11/04/2019">GEORGE</word>
+</synonym>
+<synonym key="DOLKUN">
+    <word changeDate="11/04/2019">DOLQUN</word>
+</synonym>
+<synonym key="DOLL">
+    <word changeDate="11/04/2019">DOLLS</word>
+</synonym>
+<synonym key="DOLPHIN">
+    <word changeDate="11/04/2019">DOLPHINS</word>
+</synonym>
+<synonym key="DOMBAROVSKIY">
+    <word changeDate="11/04/2019">DOMBAROVSKY</word>
+</synonym>
+<synonym key="DOMINICAN">
+    <word changeDate="11/04/2019">DOMINICANA</word>
+    <word changeDate="11/04/2019">DOMINICANO</word>
+</synonym>
+<synonym key="DOMINION">
+    <word changeDate="11/04/2019">DOMINIONS</word>
+    <word changeDate="11/04/2019">DOMONION</word>
+</synonym>
+<synonym key="DONATION">
+    <word changeDate="11/04/2019">DONATIONS</word>
+</synonym>
+<synonym key="DONBAS">
+    <word changeDate="07/12/2023">DONBASIN</word>
+    <word changeDate="11/04/2019">DONBASS</word>
+    <word changeDate="07/12/2023">DONBASSIN</word>
+</synonym>
+<synonym key="DONETSK">
+    <word changeDate="07/11/2023">DONETSKA</word>
+    <word changeDate="11/21/2023">DONETSKAIA</word>
+    <word changeDate="11/21/2023">DONETSKAYA</word>
+    <word changeDate="11/21/2023">DONETSKE</word>
+    <word changeDate="11/21/2023">DONETSKI</word>
+    <word changeDate="11/21/2023">DONETSKIE</word>
+    <word changeDate="11/21/2023">DONETSKIH</word>
+    <word changeDate="11/21/2023">DONETSKII</word>
+    <word changeDate="11/21/2023">DONETSKIKH</word>
+    <word changeDate="11/21/2023">DONETSKIM</word>
+    <word changeDate="11/21/2023">DONETSKIMI</word>
+    <word changeDate="07/11/2023">DONETSKIN</word>
+    <word changeDate="11/21/2023">DONETSKIY</word>
+    <word changeDate="11/21/2023">DONETSKIYE</word>
+    <word changeDate="11/21/2023">DONETSKOE</word>
+    <word changeDate="11/21/2023">DONETSKOGO</word>
+    <word changeDate="11/21/2023">DONETSKOHO</word>
+    <word changeDate="11/21/2023">DONETSKOI</word>
+    <word changeDate="11/21/2023">DONETSKOIU</word>
+    <word changeDate="11/21/2023">DONETSKOJU</word>
+    <word changeDate="11/21/2023">DONETSKOM</word>
+    <word changeDate="11/21/2023">DONETSKOMU</word>
+    <word changeDate="11/21/2023">DONETSKOVO</word>
+    <word changeDate="11/21/2023">DONETSKOY</word>
+    <word changeDate="11/21/2023">DONETSKOYE</word>
+    <word changeDate="11/21/2023">DONETSKOYU</word>
+    <word changeDate="11/21/2023">DONETSKU</word>
+    <word changeDate="11/21/2023">DONETSKUIU</word>
+    <word changeDate="11/21/2023">DONETSKUYU</word>
+    <word changeDate="11/21/2023">DONETSKYY</word>
+</synonym>
+<synonym key="DONGGOLA">
+    <word changeDate="11/04/2019">DONGLA</word>
+    <word changeDate="11/04/2019">DONQOLA</word>
+    <word changeDate="11/04/2019">DUNGLA</word>
+    <word changeDate="11/04/2019">DUNQULA</word>
+</synonym>
+<synonym key="DONUT">
+    <word changeDate="11/04/2019">DONUTS</word>
+    <word changeDate="11/04/2019">DOUGHNUT</word>
+    <word changeDate="11/04/2019">DOUGHNUTS</word>
+</synonym>
+<synonym key="DOROOD">
+    <word changeDate="11/04/2019">DORUD</word>
+</synonym>
+<synonym key="DPRK">
+    <word changeDate="11/04/2019">KNDR</word>
+    <word changeDate="11/04/2019">KRLD</word>
+</synonym>
+<synonym key="DRAGON">
+    <word changeDate="11/04/2019">DRAGONS</word>
+</synonym>
+<synonym key="DRUG">
+    <word changeDate="11/04/2019">DRUGS</word>
+</synonym>
+<synonym key="DRUSCHBA">
+    <word changeDate="11/04/2019">DRUSHBA</word>
+    <word changeDate="11/04/2019">DRUZHBA</word>
+</synonym>
+<synonym key="DSHANKOI">
+    <word changeDate="11/04/2019">DZHANHOI</word>
+    <word changeDate="11/04/2019">DZHANKOI</word>
+    <word changeDate="11/04/2019">DZHANKOJ</word>
+    <word changeDate="11/04/2019">DZHANKOY</word>
+</synonym>
+<synonym key="DUCHESS">
+    <word changeDate="11/04/2019">DUTCHESS</word>
+</synonym>
+<synonym key="DUESSELDORF">
+    <word changeDate="11/04/2019">DUSSELDORF</word>
+</synonym>
+<synonym key="DUTIES">
+    <word changeDate="11/04/2019">DUTY</word>
+</synonym>
+<synonym key="DVIZHENIE">
+    <word changeDate="11/04/2019">HNUTI</word>
+    <word changeDate="11/04/2019">MOVEMENT</word>
+    <word changeDate="11/04/2019">MOVEMENTS</word>
+</synonym>
+<synonym key="DYNAMIC">
+    <word changeDate="11/04/2019">DYNAMICS</word>
+</synonym>
+<synonym key="DZHIKHADA">
+    <word changeDate="11/04/2019">DZIKHADA</word>
+    <word changeDate="11/04/2019">JIHAD</word>
+</synonym>
+<synonym key="DZONG">
+    <word changeDate="11/04/2019">JONG</word>
+    <word changeDate="11/04/2019">JUNG</word>
+</synonym>
+<synonym key="EA">
+    <word changeDate="11/04/2019">EAST</word>
+    <word changeDate="11/04/2019">EASTERN</word>
+    <word changeDate="11/04/2019">ESTE</word>
+    <word changeDate="11/04/2019">OST</word>
+</synonym>
+<synonym key="EAGLE">
+    <word changeDate="11/04/2019">EAGLES</word>
+</synonym>
+<synonym key="ECON">
+    <word changeDate="11/04/2019">ECONOMIC</word>
+    <word changeDate="11/04/2019">ECONOMICA</word>
+    <word changeDate="11/04/2019">ECONOMICAS</word>
+    <word changeDate="11/04/2019">ECONOMICO</word>
+    <word changeDate="11/04/2019">ECONOMICS</word>
+    <word changeDate="11/04/2019">ECONOMIQUE</word>
+</synonym>
+<synonym key="ECONOMIES">
+    <word changeDate="11/04/2019">ECONOMY</word>
+</synonym>
+<synonym key="ECUADOR">
+    <word changeDate="11/04/2019">EQUADOR</word>
+    <word changeDate="11/04/2019">EQUATEUR</word>
+</synonym>
+<synonym key="EDINBURG">
+    <word changeDate="11/04/2019">EDINBURGH</word>
+    <word changeDate="11/04/2019">EDINGBURGH</word>
+</synonym>
+<synonym key="EDUARDO">
+    <word changeDate="11/04/2019">EDWARD</word>
+    <word changeDate="11/04/2019">EDWARDO</word>
+</synonym>
+<synonym key="EDUCATIONAL">
+    <word changeDate="11/04/2019">OKTATAS</word>
+</synonym>
+<synonym key="EELAM">
+    <word changeDate="11/04/2019">EILAMU</word>
+</synonym>
+<synonym key="EGIPETSKI">
+    <word changeDate="11/04/2019">EGYPTIAN</word>
+    <word changeDate="11/04/2019">EGYPTIANS</word>
+</synonym>
+<synonym key="EIFEL">
+    <word changeDate="11/04/2019">EIFFEL</word>
+</synonym>
+<synonym key="ELASHI">
+    <word changeDate="11/04/2019">ELASHYI</word>
+</synonym>
+<synonym key="ELECTRIC">
+    <word changeDate="11/04/2019">ELECTRICA</word>
+    <word changeDate="11/04/2019">ELECTRIQUE</word>
+    <word changeDate="11/04/2019">ELECTRO</word>
+    <word changeDate="11/04/2019">ELETRICAS</word>
+</synonym>
+<synonym key="ELECTRICIDAD">
+    <word changeDate="11/04/2019">ELECTRICITY</word>
+</synonym>
+<synonym key="ELECTRIFICACION">
+    <word changeDate="11/04/2019">ELECTRIFICATION</word>
+</synonym>
+<synonym key="ELECTRONIC">
+    <word changeDate="11/04/2019">ELECTRONICA</word>
+    <word changeDate="11/04/2019">ELECTRONICS</word>
+    <word changeDate="11/04/2019">ELEKTRONIK</word>
+    <word changeDate="11/04/2019">ELETRONICA</word>
+</synonym>
+<synonym key="ELECTRONICO">
+    <word changeDate="11/04/2019">ELECTRONICOS</word>
+</synonym>
+<synonym key="ELGADAFFI">
+    <word changeDate="11/04/2019">ELGADAFFY</word>
+    <word changeDate="11/04/2019">ELGADAFI</word>
+    <word changeDate="11/04/2019">ELGADAFY</word>
+    <word changeDate="11/04/2019">ELGADDAFI</word>
+    <word changeDate="11/04/2019">ELGADHAFI</word>
+    <word changeDate="11/04/2019">ELGATHAFI</word>
+    <word changeDate="11/04/2019">ELGHADAFI</word>
+    <word changeDate="11/04/2019">ELGHADDAFI</word>
+    <word changeDate="11/04/2019">ELGHEDDAFI</word>
+    <word changeDate="11/04/2019">ELKADHAFI</word>
+    <word changeDate="11/04/2019">ELKAZZAFI</word>
+    <word changeDate="11/04/2019">ELKHADAFY</word>
+    <word changeDate="11/04/2019">ELKHADDAFI</word>
+    <word changeDate="11/04/2019">ELQADHAFI</word>
+    <word changeDate="11/04/2019">ELQADHAHAFI</word>
+</synonym>
+<synonym key="ELNILEIN">
+    <word changeDate="11/04/2019">NILEIN</word>
+</synonym>
+<synonym key="EMAM">
+    <word changeDate="11/04/2019">IMAM</word>
+</synonym>
+<synonym key="EMAMRUD">
+    <word changeDate="11/04/2019">SHAHROUD</word>
+    <word changeDate="11/04/2019">SHAHRUD</word>
+</synonym>
+<synonym key="EMIRATE">
+    <word changeDate="11/04/2019">EMIRATES</word>
+</synonym>
+<synonym key="EMPLOYEE">
+    <word changeDate="11/04/2019">EMPLOYEES</word>
+</synonym>
+<synonym key="ENERGIA">
+    <word changeDate="11/04/2019">ENERGY</word>
+</synonym>
+<synonym key="ENERGOPROJECT">
+    <word changeDate="11/04/2019">ENERGOPROJEKT</word>
+</synonym>
+<synonym key="ENFORCEMENT">
+    <word changeDate="11/04/2019">ENFORCEMENTS</word>
+</synonym>
+<synonym key="ENGINEER">
+    <word changeDate="11/04/2019">ENGINEERS</word>
+</synonym>
+<synonym key="ENTERPRAIZ">
+    <word changeDate="11/04/2019">ENTERPRISE</word>
+    <word changeDate="11/04/2019">ENTERPRISES</word>
+    <word changeDate="11/04/2019">ENTREPRISE</word>
+</synonym>
+<synonym key="EQUIP">
+    <word changeDate="11/04/2019">EQUIPMENT</word>
+    <word changeDate="11/04/2019">EQUIPMENTS</word>
+</synonym>
+<synonym key="EQUITIES">
+    <word changeDate="11/04/2019">EQUITY</word>
+</synonym>
+<synonym key="ERA">
+    <word changeDate="11/04/2019">ERAS</word>
+</synonym>
+<synonym key="ERITREA">
+    <word changeDate="11/04/2019">ERYTHREE</word>
+</synonym>
+<synonym key="ESFAHAN">
+    <word changeDate="11/04/2019">ISFACHAN</word>
+    <word changeDate="11/04/2019">ISFAHAN</word>
+    <word changeDate="11/04/2019">ISFAHANE</word>
+    <word changeDate="11/04/2019">ISFAKHAN</word>
+    <word changeDate="11/04/2019">ISZFAHAN</word>
+</synonym>
+<synonym key="ESLAM">
+    <word changeDate="11/04/2019">ISLAM</word>
+    <word changeDate="11/04/2019">ISLAMIC</word>
+    <word changeDate="11/04/2019">ISLAMIQUE</word>
+    <word changeDate="11/04/2019">ISLAMSKE</word>
+    <word changeDate="11/04/2019">ISLAMSKI</word>
+    <word changeDate="11/04/2019">ISLAMSKOGO</word>
+    <word changeDate="11/04/2019">ISLAMSKUU</word>
+</synonym>
+<synonym key="ESLAMSHAHR">
+    <word changeDate="11/04/2019">ISLAMSHAHR</word>
+</synonym>
+<synonym key="ESPAGNE">
+    <word changeDate="11/04/2019">ESPANA</word>
+    <word changeDate="11/04/2019">ESPANHA</word>
+    <word changeDate="11/04/2019">SPAGNA</word>
+    <word changeDate="11/04/2019">SPAIN</word>
+    <word changeDate="11/04/2019">SPANIEN</word>
+    <word changeDate="11/04/2019">SPANJE</word>
+</synonym>
+<synonym key="ESPANOL">
+    <word changeDate="11/04/2019">ESPANOLA</word>
+    <word changeDate="11/04/2019">HISPANO</word>
+    <word changeDate="11/04/2019">SPANISH</word>
+</synonym>
+<synonym key="ESPIRIT">
+    <word changeDate="11/04/2019">ESPIRITO</word>
+    <word changeDate="11/04/2019">SPIRIT</word>
+    <word changeDate="11/04/2019">SPIRITO</word>
+</synonym>
+<synonym key="EST">
+    <word changeDate="11/04/2019">ESTABLISHMENT</word>
+    <word changeDate="11/04/2019">ETABLISSEMENT</word>
+</synonym>
+<synonym key="ESTADO">
+    <word changeDate="11/04/2019">ETAT</word>
+    <word changeDate="11/04/2019">STAATS</word>
+    <word changeDate="11/04/2019">STATE</word>
+    <word changeDate="11/04/2019">STATES</word>
+    <word changeDate="11/04/2019">STATNI</word>
+    <word changeDate="11/04/2019">STATO</word>
+</synonym>
+<synonym key="ESTATE">
+    <word changeDate="11/04/2019">ESTATES</word>
+</synonym>
+<synonym key="ESTEVES">
+    <word changeDate="11/04/2019">ESTEVEZ</word>
+</synonym>
+<synonym key="ESZAK">
+    <word changeDate="11/04/2019">NORD</word>
+    <word changeDate="11/04/2019">NORTE</word>
+    <word changeDate="11/04/2019">NORTH</word>
+    <word changeDate="11/04/2019">NORTHERN</word>
+    <word changeDate="11/04/2019">POHJOIS</word>
+    <word changeDate="11/04/2019">POHJOISEEN</word>
+    <word changeDate="11/04/2019">POLNOCNA</word>
+    <word changeDate="11/04/2019">POLNOCNY</word>
+    <word changeDate="11/04/2019">SEVEREN</word>
+    <word changeDate="11/04/2019">SEVERNA</word>
+    <word changeDate="11/04/2019">SEVERNAJA</word>
+    <word changeDate="11/04/2019">SEVERNAYA</word>
+    <word changeDate="11/04/2019">SEVERNI</word>
+    <word changeDate="11/04/2019">SEVERNYI</word>
+    <word changeDate="11/04/2019">SEVERNYJJ</word>
+    <word changeDate="11/04/2019">SEWEREN</word>
+    <word changeDate="11/04/2019">SEWERNA</word>
+    <word changeDate="11/04/2019">SEWERNAJA</word>
+    <word changeDate="11/04/2019">SEWERNYJ</word>
+</synonym>
+<synonym key="EUPATORIA">
+    <word changeDate="11/04/2019">EUPATORIO</word>
+    <word changeDate="11/04/2019">EVPATORIA</word>
+    <word changeDate="11/04/2019">EVPATORIJA</word>
+    <word changeDate="11/04/2019">EVPATORYA</word>
+    <word changeDate="11/04/2019">GAZLEVI</word>
+    <word changeDate="11/04/2019">JEVPATORIJA</word>
+    <word changeDate="11/04/2019">JEWPATORIJA</word>
+    <word changeDate="11/04/2019">YEVPATORIA</word>
+</synonym>
+<synonym key="EURO">
+    <word changeDate="11/04/2019">EUROS</word>
+</synonym>
+<synonym key="EUROPA">
+    <word changeDate="11/04/2019">EUROPE</word>
+</synonym>
+<synonym key="EUROPEAN">
+    <word changeDate="11/04/2019">EUROPEEN</word>
+    <word changeDate="11/04/2019">EUROPEENE</word>
+    <word changeDate="11/04/2019">EUROPEENNE</word>
+    <word changeDate="11/04/2019">EUROPEO</word>
+    <word changeDate="11/04/2019">EUROPEU</word>
+</synonym>
+<synonym key="EXCAVATION">
+    <word changeDate="11/04/2019">EXCAVATIONS</word>
+</synonym>
+<synonym key="EXECUTIVE">
+    <word changeDate="11/04/2019">EXECUTIVES</word>
+</synonym>
+<synonym key="EXHIBITION">
+    <word changeDate="11/04/2019">EXHIBITIONS</word>
+</synonym>
+<synonym key="EXP">
+    <word changeDate="11/04/2019">EXPORT</word>
+    <word changeDate="11/04/2019">EXPORTACION</word>
+    <word changeDate="11/04/2019">EXPORTACIONES</word>
+    <word changeDate="11/04/2019">EXPORTATION</word>
+    <word changeDate="11/04/2019">EXPORTNI</word>
+    <word changeDate="11/04/2019">EXPORTS</word>
+</synonym>
+<synonym key="EXPLORATION">
+    <word changeDate="11/04/2019">EXPLORATIONS</word>
+</synonym>
+<synonym key="EXTERIOR">
+    <word changeDate="11/04/2019">EXTERIORS</word>
+</synonym>
+<synonym key="FABRIC">
+    <word changeDate="11/04/2019">FABRICS</word>
+</synonym>
+<synonym key="FACTORIES">
+    <word changeDate="11/04/2019">FACTORY</word>
+</synonym>
+<synonym key="FACTORING">
+    <word changeDate="11/04/2019">FAKTORING</word>
+</synonym>
+<synonym key="FAIR">
+    <word changeDate="11/04/2019">FAIRS</word>
+</synonym>
+<synonym key="FALCON">
+    <word changeDate="11/04/2019">FALCONS</word>
+</synonym>
+<synonym key="FAMIGLIA">
+    <word changeDate="11/04/2019">FAMILIA</word>
+    <word changeDate="11/04/2019">FAMILIE</word>
+    <word changeDate="11/04/2019">FAMILIES</word>
+    <word changeDate="11/04/2019">FAMILLE</word>
+    <word changeDate="11/04/2019">FAMILY</word>
+</synonym>
+<synonym key="FANTASIES">
+    <word changeDate="11/04/2019">FANTASY</word>
+</synonym>
+<synonym key="FARM">
+    <word changeDate="11/04/2019">FARMS</word>
+</synonym>
+<synonym key="FARMACIA">
+    <word changeDate="11/04/2019">FARMACIAS</word>
+</synonym>
+<synonym key="FASHION">
+    <word changeDate="11/04/2019">FASHIONS</word>
+</synonym>
+<synonym key="FATWA">
+    <word changeDate="11/04/2019">FATWAS</word>
+</synonym>
+<synonym key="FED">
+    <word changeDate="11/04/2019">FEDERAL</word>
+</synonym>
+<synonym key="FEDEL">
+    <word changeDate="11/04/2019">FIDEL</word>
+</synonym>
+<synonym key="FEDERACION">
+    <word changeDate="11/04/2019">FEDERATION</word>
+    <word changeDate="11/04/2019">FEDERATIONS</word>
+</synonym>
+<synonym key="FERNANDES">
+    <word changeDate="11/04/2019">FERNANDEZ</word>
+</synonym>
+<synonym key="FERTILISER">
+    <word changeDate="11/04/2019">FERTILIZANTES</word>
+    <word changeDate="11/04/2019">FERTILIZER</word>
+</synonym>
+<synonym key="FIBER">
+    <word changeDate="11/04/2019">FIBERS</word>
+    <word changeDate="11/04/2019">FIBRE</word>
+    <word changeDate="11/04/2019">FIBRES</word>
+</synonym>
+<synonym key="FIDUCIAIRE">
+    <word changeDate="11/04/2019">FIDUCIARE</word>
+    <word changeDate="11/04/2019">FIDUCIARIO</word>
+    <word changeDate="11/04/2019">FIDUCIARY</word>
+</synonym>
+<synonym key="FIELD">
+    <word changeDate="11/04/2019">FIELDS</word>
+</synonym>
+<synonym key="FIESTA">
+    <word changeDate="11/04/2019">FIESTAS</word>
+</synonym>
+<synonym key="FIGHTER">
+    <word changeDate="11/04/2019">FIGHTERS</word>
+</synonym>
+<synonym key="FILIPINAS">
+    <word changeDate="11/04/2019">PHILIPPINE</word>
+    <word changeDate="11/04/2019">PHILIPPINES</word>
+</synonym>
+<synonym key="FILM">
+    <word changeDate="11/04/2019">FILMS</word>
+</synonym>
+<synonym key="FILS">
+    <word changeDate="11/04/2019">SON</word>
+    <word changeDate="11/04/2019">SONS</word>
+</synonym>
+<synonym key="FIN">
+    <word changeDate="11/04/2019">FINANCIAL</word>
+    <word changeDate="11/04/2019">FINANCIERA</word>
+    <word changeDate="11/04/2019">FINANZIARIO</word>
+</synonym>
+<synonym key="FINANCE">
+    <word changeDate="11/04/2019">FINANCES</word>
+    <word changeDate="11/04/2019">FINANZAS</word>
+    <word changeDate="11/04/2019">FINANZIARIA</word>
+</synonym>
+<synonym key="FINLAND">
+    <word changeDate="11/04/2019">FINLANDS</word>
+</synonym>
+<synonym key="FIRENZE">
+    <word changeDate="11/04/2019">FLORENCE</word>
+</synonym>
+<synonym key="FL">
+    <word changeDate="11/04/2019">FLA</word>
+    <word changeDate="11/04/2019">FLORIDA</word>
+</synonym>
+<synonym key="FLAMINGO">
+    <word changeDate="11/04/2019">FLAMINGOS</word>
+</synonym>
+<synonym key="FLIGHT">
+    <word changeDate="11/04/2019">FLIGHTS</word>
+</synonym>
+<synonym key="FLOOR">
+    <word changeDate="11/04/2019">FLOORS</word>
+</synonym>
+<synonym key="FLORES">
+    <word changeDate="11/04/2019">FLOREZ</word>
+</synonym>
+<synonym key="FLOWER">
+    <word changeDate="11/04/2019">FLOWERS</word>
+</synonym>
+<synonym key="FLUID">
+    <word changeDate="11/04/2019">FLUIDS</word>
+</synonym>
+<synonym key="FOLAD">
+    <word changeDate="11/04/2019">FULAD</word>
+</synonym>
+<synonym key="FOLKEREPUBLIK">
+    <word changeDate="07/11/2023">FOLKEREPUBLIKK</word>
+    <word changeDate="07/11/2023">FOLKEREPUBLIKKEN</word>
+    <word changeDate="07/11/2023">FOLKREPUBLIKEN</word>
+    <word changeDate="07/11/2023">KANSANTASAVALTA</word>
+</synonym>
+<synonym key="FOLLOWER">
+    <word changeDate="11/04/2019">FOLLOWERS</word>
+</synonym>
+<synonym key="FOLYO">
+    <word changeDate="11/04/2019">JOKI</word>
+    <word changeDate="11/04/2019">RAU</word>
+    <word changeDate="11/04/2019">REKA</word>
+    <word changeDate="11/04/2019">RIEKA</word>
+    <word changeDate="11/04/2019">RIO</word>
+</synonym>
+<synonym key="FONDATION">
+    <word changeDate="11/04/2019">FONDAZIONE</word>
+    <word changeDate="11/04/2019">FOUNDATION</word>
+    <word changeDate="11/04/2019">FOUNDATIONS</word>
+    <word changeDate="11/04/2019">FUNDACAO</word>
+    <word changeDate="11/04/2019">FUNDACION</word>
+    <word changeDate="11/04/2019">FUNDACIONES</word>
+    <word changeDate="11/04/2019">STIFTUNG</word>
+</synonym>
+<synonym key="FOOD">
+    <word changeDate="11/04/2019">FOODS</word>
+</synonym>
+<synonym key="FORCE">
+    <word changeDate="11/04/2019">FORCES</word>
+</synonym>
+<synonym key="FOREST">
+    <word changeDate="11/04/2019">FORESTS</word>
+</synonym>
+<synonym key="FORM">
+    <word changeDate="11/04/2019">FORMS</word>
+</synonym>
+<synonym key="FORTUNA">
+    <word changeDate="11/04/2019">FORTUNE</word>
+</synonym>
+<synonym key="FOUNDRIES">
+    <word changeDate="11/04/2019">FOUNDRY</word>
+</synonym>
+<synonym key="FOUNTAIN">
+    <word changeDate="11/04/2019">FOUNTAINS</word>
+</synonym>
+<synonym key="FOX">
+    <word changeDate="11/04/2019">FOXES</word>
+</synonym>
+<synonym key="FRANCA">
+    <word changeDate="11/04/2019">FRANCE</word>
+    <word changeDate="11/04/2019">FRANCIA</word>
+    <word changeDate="11/04/2019">FRANKREICH</word>
+    <word changeDate="11/04/2019">FRANKRIJK</word>
+    <word changeDate="11/04/2019">FRANKRIKE</word>
+</synonym>
+<synonym key="FRANCAIS">
+    <word changeDate="11/04/2019">FRANCAISE</word>
+    <word changeDate="11/04/2019">FRANCAISES</word>
+    <word changeDate="11/04/2019">FRANCASIE</word>
+    <word changeDate="11/04/2019">FRANCES</word>
+    <word changeDate="11/04/2019">FRENCH</word>
+</synonym>
+<synonym key="FREEDOM">
+    <word changeDate="11/04/2019">FREEDOMS</word>
+</synonym>
+<synonym key="FREIBURG">
+    <word changeDate="11/04/2019">FREIBURGER</word>
+    <word changeDate="11/04/2019">FRIBOURG</word>
+</synonym>
+<synonym key="FREIGHT">
+    <word changeDate="11/04/2019">FREIT</word>
+</synonym>
+<synonym key="FRIEND">
+    <word changeDate="11/04/2019">FRIENDS</word>
+</synonym>
+<synonym key="FRIENDSHIP">
+    <word changeDate="11/04/2019">FRIENDSHIPS</word>
+</synonym>
+<synonym key="FRUIT">
+    <word changeDate="11/04/2019">FRUITS</word>
+    <word changeDate="11/04/2019">FRUTAS</word>
+</synonym>
+<synonym key="FRUNSENKOYE">
+    <word changeDate="11/04/2019">PARTENIT</word>
+</synonym>
+<synonym key="FUENTE">
+    <word changeDate="11/04/2019">FUENTES</word>
+</synonym>
+<synonym key="FUTUR">
+    <word changeDate="11/04/2019">FUTURE</word>
+</synonym>
+<synonym key="GA">
+    <word changeDate="11/04/2019">GEORGIA</word>
+    <word changeDate="11/04/2019">GEORGIE</word>
+</synonym>
+<synonym key="GAALKACYO">
+    <word changeDate="11/04/2019">GALCAIO</word>
+    <word changeDate="11/04/2019">GALKAIO</word>
+    <word changeDate="11/04/2019">GALKAYO</word>
+    <word changeDate="11/04/2019">GALKAYU</word>
+    <word changeDate="11/04/2019">GALLACAIO</word>
+</synonym>
+<synonym key="GADAFFI">
+    <word changeDate="11/04/2019">GADAFFY</word>
+    <word changeDate="11/04/2019">GADAFI</word>
+    <word changeDate="11/04/2019">GADAFY</word>
+    <word changeDate="11/04/2019">GADDAFFI</word>
+    <word changeDate="11/04/2019">GADDAFFY</word>
+    <word changeDate="11/04/2019">GADDAFI</word>
+    <word changeDate="11/04/2019">GADDAFY</word>
+    <word changeDate="11/04/2019">GADHAFFI</word>
+    <word changeDate="11/04/2019">GADHAFFY</word>
+    <word changeDate="11/04/2019">GADHAFI</word>
+    <word changeDate="11/04/2019">GADHAFY</word>
+    <word changeDate="11/04/2019">GATHAFI</word>
+    <word changeDate="11/04/2019">GHADAFI</word>
+    <word changeDate="11/04/2019">GHADDAFI</word>
+    <word changeDate="11/04/2019">GHADDAFY</word>
+    <word changeDate="11/04/2019">GHEDDAFI</word>
+    <word changeDate="11/04/2019">KADAFFI</word>
+    <word changeDate="11/04/2019">KADAFFY</word>
+    <word changeDate="11/04/2019">KADAFI</word>
+    <word changeDate="11/04/2019">KADAFY</word>
+    <word changeDate="11/04/2019">KADDAFFI</word>
+    <word changeDate="11/04/2019">KADDAFFY</word>
+    <word changeDate="11/04/2019">KADDAFI</word>
+    <word changeDate="11/04/2019">KADDAFY</word>
+    <word changeDate="11/04/2019">KADHAFFI</word>
+    <word changeDate="11/04/2019">KADHAFFY</word>
+    <word changeDate="11/04/2019">KADHAFI</word>
+    <word changeDate="11/04/2019">KADHAFY</word>
+    <word changeDate="11/04/2019">KAZZAFI</word>
+    <word changeDate="11/04/2019">KHADAFY</word>
+    <word changeDate="11/04/2019">KHADDAFI</word>
+    <word changeDate="11/04/2019">QADAFFI</word>
+    <word changeDate="11/04/2019">QADAFFY</word>
+    <word changeDate="11/04/2019">QADAFI</word>
+    <word changeDate="11/04/2019">QADDAFFY</word>
+    <word changeDate="11/04/2019">QADDAFI</word>
+    <word changeDate="11/04/2019">QADDAFY</word>
+    <word changeDate="11/04/2019">QADHAFFI</word>
+    <word changeDate="11/04/2019">QADHAFFY</word>
+    <word changeDate="11/04/2019">QADHAFI</word>
+    <word changeDate="11/04/2019">QADHAFY</word>
+    <word changeDate="11/04/2019">QADHAHAFI</word>
+    <word changeDate="11/04/2019">QADHDHAFI</word>
+    <word changeDate="11/04/2019">QATHAFFI</word>
+    <word changeDate="11/04/2019">QATHAFI</word>
+    <word changeDate="11/04/2019">QUATHAFFI</word>
+    <word changeDate="11/04/2019">QUATHAFI</word>
+    <word changeDate="11/04/2019">QUDHAFFI</word>
+    <word changeDate="11/04/2019">QUDHAFFY</word>
+    <word changeDate="11/04/2019">QUDHAFI</word>
+</synonym>
+<synonym key="GAITH">
+    <word changeDate="11/04/2019">GHAITH</word>
+</synonym>
+<synonym key="GALL">
+    <word changeDate="11/04/2019">GALLEN</word>
+    <word changeDate="11/04/2019">GALLISCHE</word>
+    <word changeDate="11/04/2019">GALLO</word>
+    <word changeDate="11/04/2019">GALLOIS</word>
+</synonym>
+<synonym key="GAME">
+    <word changeDate="11/04/2019">GAMES</word>
+</synonym>
+<synonym key="GANG">
+    <word changeDate="11/04/2019">GANGS</word>
+</synonym>
+<synonym key="GARCIA">
+    <word changeDate="11/04/2019">GARSIA</word>
+    <word changeDate="11/04/2019">GARZIA</word>
+</synonym>
+<synonym key="GARDA">
+    <word changeDate="11/04/2019">GUARD</word>
+    <word changeDate="11/04/2019">GUARDS</word>
+</synonym>
+<synonym key="GARDEN">
+    <word changeDate="11/04/2019">GARDENS</word>
+</synonym>
+<synonym key="GARIB">
+    <word changeDate="11/04/2019">GHARIB</word>
+</synonym>
+<synonym key="GARMENT">
+    <word changeDate="11/04/2019">GARMENTS</word>
+</synonym>
+<synonym key="GAS">
+    <word changeDate="11/04/2019">GASES</word>
+    <word changeDate="11/04/2019">GASOLINE</word>
+    <word changeDate="11/04/2019">GASOLINERAS</word>
+</synonym>
+<synonym key="GEDAREF">
+    <word changeDate="11/04/2019">QADARIF</word>
+</synonym>
+<synonym key="GEM">
+    <word changeDate="11/04/2019">GEMS</word>
+</synonym>
+<synonym key="GENEVA">
+    <word changeDate="11/04/2019">GENEVE</word>
+    <word changeDate="11/04/2019">GENF</word>
+</synonym>
+<synonym key="GENOA">
+    <word changeDate="11/04/2019">GENOVA</word>
+</synonym>
+<synonym key="GHABESH">
+    <word changeDate="11/04/2019">GHABISH</word>
+</synonym>
+<synonym key="GHARCHAK">
+    <word changeDate="11/04/2019">QARCHAK</word>
+</synonym>
+<synonym key="GHINEA">
+    <word changeDate="11/04/2019">GUINEA</word>
+    <word changeDate="11/04/2019">GUINEE</word>
+</synonym>
+<synonym key="GIAMAICA">
+    <word changeDate="11/04/2019">JAMAICA</word>
+    <word changeDate="11/04/2019">JAMAIKA</word>
+    <word changeDate="11/04/2019">JAMAIQUE</word>
+</synonym>
+<synonym key="GIBILTERRA">
+    <word changeDate="11/04/2019">GIBRALTAR</word>
+</synonym>
+<synonym key="GLACIER">
+    <word changeDate="11/04/2019">GLACIERS</word>
+</synonym>
+<synonym key="GOD">
+    <word changeDate="11/04/2019">GODS</word>
+</synonym>
+<synonym key="GOM">
+    <word changeDate="11/04/2019">KOM</word>
+    <word changeDate="11/04/2019">KUM</word>
+    <word changeDate="11/04/2019">KUMM</word>
+    <word changeDate="11/04/2019">QOM</word>
+</synonym>
+<synonym key="GOMES">
+    <word changeDate="11/04/2019">GOMEZ</word>
+</synonym>
+<synonym key="GONZALES">
+    <word changeDate="11/04/2019">GONZALEZ</word>
+</synonym>
+<synonym key="GOOD">
+    <word changeDate="11/04/2019">GOODS</word>
+</synonym>
+<synonym key="GOTHARD">
+    <word changeDate="11/04/2019">GOTTARDO</word>
+</synonym>
+<synonym key="GOVERNMENT">
+    <word changeDate="11/04/2019">GOVT</word>
+</synonym>
+<synonym key="GP">
+    <word changeDate="11/04/2019">GROUP</word>
+    <word changeDate="11/04/2019">GROUPE</word>
+    <word changeDate="11/04/2019">GROUPS</word>
+    <word changeDate="11/04/2019">GRP</word>
+    <word changeDate="11/04/2019">GRUPO</word>
+    <word changeDate="11/04/2019">GRUPOS</word>
+    <word changeDate="11/04/2019">GRUPPA</word>
+</synonym>
+<synonym key="GRAN">
+    <word changeDate="11/04/2019">GRAND</word>
+    <word changeDate="11/04/2019">GRANDE</word>
+</synonym>
+<synonym key="GRAPHIC">
+    <word changeDate="11/04/2019">GRAPHICS</word>
+</synonym>
+<synonym key="GRECE">
+    <word changeDate="11/04/2019">GRECIA</word>
+    <word changeDate="11/04/2019">GREECE</word>
+    <word changeDate="11/04/2019">GREKLAND</word>
+    <word changeDate="11/04/2019">GRIECHENLAND</word>
+    <word changeDate="11/04/2019">GRIEKENLAND</word>
+</synonym>
+<synonym key="GREG">
+    <word changeDate="11/04/2019">GREGG</word>
+</synonym>
+<synonym key="GRIFFIN">
+    <word changeDate="11/04/2019">GRIFIN</word>
+</synonym>
+<synonym key="GRINDLAY">
+    <word changeDate="11/04/2019">GRINDLAYS</word>
+</synonym>
+<synonym key="GUARDIAN">
+    <word changeDate="11/04/2019">GUARDIANS</word>
+</synonym>
+<synonym key="GULF">
+    <word changeDate="11/04/2019">GULFS</word>
+</synonym>
+<synonym key="GUTIERRES">
+    <word changeDate="11/04/2019">GUTIERREZ</word>
+</synonym>
+<synonym key="GUYANA">
+    <word changeDate="11/04/2019">GUYANE</word>
+</synonym>
+<synonym key="GYM">
+    <word changeDate="11/04/2019">GYMS</word>
+</synonym>
+<synonym key="HACINI">
+    <word changeDate="11/04/2019">HACINY</word>
+    <word changeDate="11/04/2019">HASSINI</word>
+    <word changeDate="11/04/2019">HASSINY</word>
+    <word changeDate="11/04/2019">HECINI</word>
+    <word changeDate="11/04/2019">HOSSEINI</word>
+    <word changeDate="11/04/2019">HUSAINI</word>
+    <word changeDate="11/04/2019">HUSAYNI</word>
+    <word changeDate="11/04/2019">HUSSAINI</word>
+    <word changeDate="11/04/2019">HUSSEINI</word>
+</synonym>
+<synonym key="HAIDARI">
+    <word changeDate="11/04/2019">HEYDARIYEH</word>
+    <word changeDate="11/04/2019">HEYDARRIEH</word>
+</synonym>
+<synonym key="HALAIB">
+    <word changeDate="11/04/2019">HALAYB</word>
+    <word changeDate="11/04/2019">HALAYIB</word>
+    <word changeDate="11/04/2019">HALEIB</word>
+    <word changeDate="11/04/2019">MERSA</word>
+</synonym>
+<synonym key="HALIL">
+    <word changeDate="11/04/2019">KHALIL</word>
+</synonym>
+<synonym key="HAMBRO">
+    <word changeDate="11/04/2019">HAMBROS</word>
+</synonym>
+<synonym key="HAMBUK">
+    <word changeDate="11/04/2019">HAMGYONGBUKTO</word>
+</synonym>
+<synonym key="HAMGYONGNAMDO">
+    <word changeDate="11/04/2019">HAMNAM</word>
+</synonym>
+<synonym key="HAMIKANI">
+    <word changeDate="11/04/2019">HUMAYQANI</word>
+</synonym>
+<synonym key="HAMZAT">
+    <word changeDate="11/04/2019">KHAMZAT</word>
+</synonym>
+<synonym key="HAND">
+    <word changeDate="11/04/2019">HANDS</word>
+</synonym>
+<synonym key="HANIYA">
+    <word changeDate="11/04/2019">HANIYYEH</word>
+</synonym>
+<synonym key="HANNY">
+    <word changeDate="11/04/2019">HANOVER</word>
+</synonym>
+<synonym key="HARBOR">
+    <word changeDate="11/04/2019">HARBOURS</word>
+</synonym>
+<synonym key="HARGEISA">
+    <word changeDate="11/04/2019">HARGEYSA</word>
+    <word changeDate="11/04/2019">HARGHESSA</word>
+</synonym>
+<synonym key="HARMONIES">
+    <word changeDate="11/04/2019">HARMONY</word>
+</synonym>
+<synonym key="HARZEGOVINA">
+    <word changeDate="11/04/2019">HERZEGOVINA</word>
+    <word changeDate="11/04/2019">HERZEGOVINE</word>
+    <word changeDate="11/04/2019">HERZEGOWINA</word>
+</synonym>
+<synonym key="HASAN">
+    <word changeDate="11/04/2019">HASSAN</word>
+    <word changeDate="11/04/2019">HESEN</word>
+</synonym>
+<synonym key="HASHEM">
+    <word changeDate="11/04/2019">HASHIM</word>
+</synonym>
+<synonym key="HAWAII">
+    <word changeDate="11/04/2019">HI</word>
+</synonym>
+<synonym key="HAWK">
+    <word changeDate="11/04/2019">HAWKS</word>
+</synonym>
+<synonym key="HAXERBAK">
+    <word changeDate="11/04/2019">HAXERBIK</word>
+</synonym>
+<synonym key="HAYASHI">
+    <word changeDate="11/04/2019">HISHI</word>
+</synonym>
+<synonym key="HAZRAT">
+    <word changeDate="11/04/2019">HAZRET</word>
+</synonym>
+<synonym key="HELPER">
+    <word changeDate="11/04/2019">HELPERS</word>
+</synonym>
+<synonym key="HELSINGIN">
+    <word changeDate="11/04/2019">HELSINKI</word>
+</synonym>
+<synonym key="HELVETIA">
+    <word changeDate="11/04/2019">SCHWEIZ</word>
+    <word changeDate="11/04/2019">SCWEIZ</word>
+    <word changeDate="11/04/2019">SUISSE</word>
+    <word changeDate="11/04/2019">SVIZZERA</word>
+    <word changeDate="11/04/2019">SWITZERLAND</word>
+    <word changeDate="11/04/2019">ZWITSERLAND</word>
+</synonym>
+<synonym key="HENRI">
+    <word changeDate="11/04/2019">HENRIQUE</word>
+    <word changeDate="11/04/2019">HENRIQUES</word>
+    <word changeDate="11/04/2019">HENRY</word>
+</synonym>
+<synonym key="HERMANO">
+    <word changeDate="11/04/2019">HERMANOS</word>
+</synonym>
+<synonym key="HERNANDES">
+    <word changeDate="11/04/2019">HERNANDEZ</word>
+</synonym>
+<synonym key="HEZBALLAH">
+    <word changeDate="11/04/2019">HEZBOLLAH</word>
+    <word changeDate="11/04/2019">HIZBALLAH</word>
+    <word changeDate="11/04/2019">HIZBOLLAH</word>
+</synonym>
+<synonym key="HIKMAT">
+    <word changeDate="11/04/2019">HIKMET</word>
+</synonym>
+<synonym key="HILL">
+    <word changeDate="11/04/2019">HILLS</word>
+</synonym>
+<synonym key="HN">
+    <word changeDate="11/04/2019">HONDURAS</word>
+</synonym>
+<synonym key="HODUR">
+    <word changeDate="11/04/2019">HUDUR</word>
+    <word changeDate="11/04/2019">ODDUR</word>
+    <word changeDate="11/04/2019">XUDDUR</word>
+</synonym>
+<synonym key="HOLDING">
+    <word changeDate="11/04/2019">HOLDINGS</word>
+</synonym>
+<synonym key="HOLGUIN">
+    <word changeDate="11/04/2019">OLGIN</word>
+    <word changeDate="11/04/2019">OLYIN</word>
+    <word changeDate="11/04/2019">OLYJJN</word>
+    <word changeDate="11/04/2019">OLYJN</word>
+</synonym>
+<synonym key="HOLIDAY">
+    <word changeDate="11/04/2019">HOLIDAYS</word>
+</synonym>
+<synonym key="HOLLAND">
+    <word changeDate="11/04/2019">HOLLANDSCHE</word>
+    <word changeDate="11/04/2019">HOLLANDSE</word>
+</synonym>
+<synonym key="HOME">
+    <word changeDate="11/04/2019">HOMES</word>
+</synonym>
+<synonym key="HONGARIJE">
+    <word changeDate="11/04/2019">HONGRIE</word>
+    <word changeDate="11/04/2019">HUNGARIAN</word>
+    <word changeDate="11/04/2019">HUNGARY</word>
+    <word changeDate="11/04/2019">HUNGRIA</word>
+    <word changeDate="11/04/2019">MAGYAR</word>
+    <word changeDate="11/04/2019">UNGARN</word>
+    <word changeDate="11/04/2019">UNGERN</word>
+    <word changeDate="11/04/2019">UNGHERIA</word>
+</synonym>
+<synonym key="HONOR">
+    <word changeDate="11/04/2019">HONORS</word>
+</synonym>
+<synonym key="HONOUR">
+    <word changeDate="11/04/2019">HONOURS</word>
+</synonym>
+<synonym key="HOTEL">
+    <word changeDate="11/04/2019">HOTELERA</word>
+    <word changeDate="11/04/2019">HOTELS</word>
+</synonym>
+<synonym key="HOUSE">
+    <word changeDate="11/04/2019">HOUSES</word>
+</synonym>
+<synonym key="HUANG">
+    <word changeDate="11/04/2019">HWANG</word>
+</synonym>
+<synonym key="HUDABARDIY">
+    <word changeDate="11/04/2019">HUDABERDI</word>
+</synonym>
+<synonym key="HUDSON">
+    <word changeDate="11/04/2019">HUDSONS</word>
+</synonym>
+<synonym key="HUMAN">
+    <word changeDate="11/04/2019">HUMANS</word>
+</synonym>
+<synonym key="HUSAIN">
+    <word changeDate="11/04/2019">HUSAYN</word>
+    <word changeDate="11/04/2019">HUSEIN</word>
+    <word changeDate="11/04/2019">HUSSAIN</word>
+    <word changeDate="11/04/2019">HUSSAYN</word>
+    <word changeDate="11/04/2019">HUSSEIN</word>
+    <word changeDate="11/04/2019">HUSSIEN</word>
+</synonym>
+<synonym key="HWANGBUK">
+    <word changeDate="11/04/2019">HWANGHAEBUKTO</word>
+</synonym>
+<synonym key="IA">
+    <word changeDate="11/04/2019">IOWA</word>
+</synonym>
+<synonym key="IALTA">
+    <word changeDate="11/04/2019">JALTA</word>
+    <word changeDate="11/04/2019">JALTO</word>
+    <word changeDate="11/04/2019">YALTA</word>
+    <word changeDate="11/04/2019">YARUTA</word>
+</synonym>
+<synonym key="IANGON">
+    <word changeDate="11/04/2019">JANGON</word>
+    <word changeDate="11/04/2019">RANGOON</word>
+    <word changeDate="11/04/2019">RANGOUN</word>
+    <word changeDate="11/04/2019">RANGUN</word>
+    <word changeDate="11/04/2019">YANGON</word>
+    <word changeDate="11/04/2019">YANGOON</word>
+</synonym>
+<synonym key="IBNA">
+    <word changeDate="11/04/2019">IBNU</word>
+</synonym>
+<synonym key="ICHKI">
+    <word changeDate="11/04/2019">ICHKIGRAMMATIKOVO</word>
+    <word changeDate="11/04/2019">SOVETSKIJ</word>
+    <word changeDate="11/04/2019">SOVETSKIY</word>
+    <word changeDate="11/04/2019">SOVYETSKYY</word>
+</synonym>
+<synonym key="ID">
+    <word changeDate="11/04/2019">IDAHO</word>
+</synonym>
+<synonym key="IDEAL">
+    <word changeDate="11/04/2019">IDEALS</word>
+</synonym>
+<synonym key="IDENTITIES">
+    <word changeDate="11/04/2019">IDENTITY</word>
+</synonym>
+<synonym key="IERLAND">
+    <word changeDate="11/04/2019">IRELAND</word>
+    <word changeDate="11/04/2019">IRLAND</word>
+    <word changeDate="11/04/2019">IRLANDA</word>
+    <word changeDate="11/04/2019">IRLANDE</word>
+</synonym>
+<synonym key="IL">
+    <word changeDate="11/04/2019">ILL</word>
+    <word changeDate="11/04/2019">ILLINOIS</word>
+</synonym>
+<synonym key="IMP">
+    <word changeDate="11/04/2019">IMPORT</word>
+    <word changeDate="11/04/2019">IMPORTACION</word>
+    <word changeDate="11/04/2019">IMPORTACIONES</word>
+    <word changeDate="11/04/2019">IMPORTNI</word>
+    <word changeDate="11/04/2019">IMPORTS</word>
+</synonym>
+<synonym key="IN">
+    <word changeDate="11/04/2019">IND</word>
+    <word changeDate="11/04/2019">INDIANA</word>
+</synonym>
+<synonym key="INC">
+    <word changeDate="11/04/2019">INCORPORATED</word>
+</synonym>
+<synonym key="INDESTRIAL">
+    <word changeDate="11/04/2019">INDUST</word>
+    <word changeDate="11/04/2019">INDUSTRIA</word>
+    <word changeDate="11/04/2019">INDUSTRIAL</word>
+    <word changeDate="11/04/2019">INDUSTRIALA</word>
+    <word changeDate="11/04/2019">INDUSTRIALE</word>
+    <word changeDate="11/04/2019">INDUSTRIAS</word>
+    <word changeDate="11/04/2019">INDUSTRIE</word>
+    <word changeDate="11/04/2019">INDUSTRIEL</word>
+    <word changeDate="11/04/2019">INDUSTRIELLE</word>
+    <word changeDate="11/04/2019">INDUSTRIES</word>
+    <word changeDate="11/04/2019">INDUSTRIJA</word>
+    <word changeDate="11/04/2019">INDUSTRY</word>
+</synonym>
+<synonym key="INDIA">
+    <word changeDate="11/04/2019">INDIEN</word>
+</synonym>
+<synonym key="INDIAN">
+    <word changeDate="11/04/2019">INDIANS</word>
+</synonym>
+<synonym key="INDONESIA">
+    <word changeDate="11/04/2019">INDONESISCHE</word>
+</synonym>
+<synonym key="INFANTIL">
+    <word changeDate="11/04/2019">INFANTILES</word>
+</synonym>
+<synonym key="INSTITUT">
+    <word changeDate="11/04/2019">INSTITUTE</word>
+    <word changeDate="11/04/2019">INSTITUTET</word>
+    <word changeDate="11/04/2019">INSTITUTO</word>
+    <word changeDate="11/04/2019">INSTUTO</word>
+    <word changeDate="11/04/2019">INTEZETE</word>
+</synonym>
+<synonym key="INT">
+    <word changeDate="11/04/2019">INTERNACION</word>
+    <word changeDate="11/04/2019">INTERNACIONAL</word>
+    <word changeDate="11/04/2019">INTERNATIO</word>
+    <word changeDate="11/04/2019">INTERNATIONA</word>
+    <word changeDate="11/04/2019">INTERNATIONAL</word>
+    <word changeDate="11/04/2019">INTERNATIONALE</word>
+    <word changeDate="11/04/2019">INTERNATIONALEN</word>
+    <word changeDate="11/04/2019">INTERNATIONAUX</word>
+    <word changeDate="11/04/2019">INTL</word>
+    <word changeDate="11/04/2019">MEZHDUNARODNYI</word>
+</synonym>
+<synonym key="INTERAMERICA">
+    <word changeDate="11/04/2019">INTERAMERICAS</word>
+    <word changeDate="11/04/2019">INTERAMERICO</word>
+</synonym>
+<synonym key="INTERAMERICAN">
+    <word changeDate="11/04/2019">INTERAMERICANA</word>
+    <word changeDate="11/04/2019">INTERAMERICANO</word>
+</synonym>
+<synonym key="INTERBANCARIO">
+    <word changeDate="11/04/2019">INTERBANK</word>
+    <word changeDate="11/04/2019">INTERBANKA</word>
+    <word changeDate="11/04/2019">INTERBANQUE</word>
+</synonym>
+<synonym key="INTERIOR">
+    <word changeDate="11/04/2019">INTERIORS</word>
+</synonym>
+<synonym key="INTERMARKET">
+    <word changeDate="11/04/2019">INTERMARKETS</word>
+</synonym>
+<synonym key="INTERN">
+    <word changeDate="11/04/2019">INTERNS</word>
+</synonym>
+<synonym key="INV">
+    <word changeDate="11/04/2019">INVESTEMENT</word>
+    <word changeDate="11/04/2019">INVESTMENT</word>
+    <word changeDate="11/04/2019">INVESTMENTS</word>
+    <word changeDate="11/04/2019">INVSTMT</word>
+    <word changeDate="11/04/2019">INVSTMTS</word>
+</synonym>
+<synonym key="INVERSION">
+    <word changeDate="11/04/2019">INVERSIONES</word>
+    <word changeDate="11/04/2019">INVERSIONS</word>
+</synonym>
+<synonym key="INVEST">
+    <word changeDate="11/04/2019">INVESTA</word>
+</synonym>
+<synonym key="IRAK">
+    <word changeDate="11/04/2019">IRAQ</word>
+    <word changeDate="11/04/2019">IRAQUE</word>
+    <word changeDate="11/04/2019">LIRAQ</word>
+</synonym>
+<synonym key="IRAN">
+    <word changeDate="11/04/2019">IRANI</word>
+    <word changeDate="11/04/2019">IRANIAN</word>
+    <word changeDate="11/04/2019">IRANIANS</word>
+    <word changeDate="11/04/2019">IRANISCH</word>
+    <word changeDate="11/04/2019">IRANISCHE</word>
+    <word changeDate="11/04/2019">IRANO</word>
+    <word changeDate="11/04/2019">IRANSKA</word>
+    <word changeDate="11/04/2019">IRANSKEHO</word>
+    <word changeDate="11/04/2019">IRANSKI</word>
+    <word changeDate="11/04/2019">LIRAN</word>
+    <word changeDate="11/04/2019">PERSIA</word>
+    <word changeDate="11/04/2019">PERSIAN</word>
+    <word changeDate="11/04/2019">PERSIANS</word>
+</synonym>
+<synonym key="IRAQI">
+    <word changeDate="11/04/2019">IRAQIS</word>
+</synonym>
+<synonym key="IRISH">
+    <word changeDate="11/04/2019">IRLANDZKA</word>
+    <word changeDate="11/04/2019">IRSKA</word>
+</synonym>
+<synonym key="IRV">
+    <word changeDate="11/04/2019">IRVING</word>
+</synonym>
+<synonym key="ISHIMBAI">
+    <word changeDate="11/04/2019">ISHIMBAY</word>
+</synonym>
+<synonym key="ISL">
+    <word changeDate="11/04/2019">ISLAND</word>
+    <word changeDate="11/04/2019">ISLANDS</word>
+    <word changeDate="11/04/2019">ISLAS</word>
+    <word changeDate="11/04/2019">ISLE</word>
+</synonym>
+<synonym key="ISRAEL">
+    <word changeDate="11/04/2019">ISRAELE</word>
+</synonym>
+<synonym key="ISRAELI">
+    <word changeDate="11/04/2019">ISRAELIANA</word>
+    <word changeDate="11/04/2019">ISRAELITA</word>
+</synonym>
+<synonym key="ITALIA">
+    <word changeDate="11/04/2019">ITALIE</word>
+    <word changeDate="11/04/2019">ITALIEN</word>
+    <word changeDate="11/04/2019">ITALY</word>
+</synonym>
+<synonym key="ITALIAN">
+    <word changeDate="11/04/2019">ITALIANA</word>
+    <word changeDate="11/04/2019">ITALIANO</word>
+    <word changeDate="11/04/2019">ITALIENISCHEN</word>
+    <word changeDate="11/04/2019">ITALIENNE</word>
+    <word changeDate="11/04/2019">ITALO</word>
+</synonym>
+<synonym key="IVOIRE">
+    <word changeDate="11/04/2019">IVOIRIENNE</word>
+    <word changeDate="11/04/2019">IVORY</word>
+</synonym>
+<synonym key="JABHAT">
+    <word changeDate="11/04/2019">JABHET</word>
+</synonym>
+<synonym key="JAIME">
+    <word changeDate="11/04/2019">JAMIE</word>
+</synonym>
+<synonym key="JAMAAH">
+    <word changeDate="11/04/2019">JEMAAH</word>
+    <word changeDate="11/04/2019">JEMMAH</word>
+</synonym>
+<synonym key="JAMAL">
+    <word changeDate="11/04/2019">JAMIL</word>
+</synonym>
+<synonym key="JAPAN">
+    <word changeDate="11/04/2019">JAPAO</word>
+    <word changeDate="11/04/2019">JAPON</word>
+    <word changeDate="11/04/2019">NIPPON</word>
+</synonym>
+<synonym key="JARRAYA">
+    <word changeDate="11/04/2019">YARRAYA</word>
+</synonym>
+<synonym key="JEBSEN">
+    <word changeDate="11/04/2019">JEBSENS</word>
+</synonym>
+<synonym key="JEMEN">
+    <word changeDate="11/04/2019">YAMAN</word>
+    <word changeDate="11/04/2019">YAMEN</word>
+    <word changeDate="11/04/2019">YEMEN</word>
+</synonym>
+<synonym key="JEWELLERY">
+    <word changeDate="11/04/2019">JEWELRY</word>
+</synonym>
+<synonym key="JIMENES">
+    <word changeDate="11/04/2019">JIMENEZ</word>
+    <word changeDate="11/04/2019">JIMINEZ</word>
+</synonym>
+<synonym key="JONGIL">
+    <word changeDate="11/04/2019">JUNGIL</word>
+</synonym>
+<synonym key="JORDAAN">
+    <word changeDate="11/04/2019">JORDAN</word>
+    <word changeDate="11/04/2019">JORDANIA</word>
+    <word changeDate="11/04/2019">JORDANIE</word>
+    <word changeDate="11/04/2019">JORDANIEN</word>
+</synonym>
+<synonym key="JOSEF">
+    <word changeDate="11/04/2019">JOSEPH</word>
+</synonym>
+<synonym key="JOYCELYN">
+    <word changeDate="11/04/2019">JOYCELYNE</word>
+</synonym>
+<synonym key="JUGOSLA">
+    <word changeDate="11/04/2019">JUGOSLAVIJE</word>
+    <word changeDate="11/04/2019">JUGOSLAWIEN</word>
+    <word changeDate="11/04/2019">LUGOSLAVIA</word>
+    <word changeDate="11/04/2019">YOUGOSLAVIE</word>
+    <word changeDate="11/04/2019">YUGASLAVIA</word>
+    <word changeDate="11/04/2019">YUGOSLAVIA</word>
+</synonym>
+<synonym key="JUNIOR">
+    <word changeDate="11/04/2019">JUNIORS</word>
+</synonym>
+<synonym key="KAECHON">
+    <word changeDate="11/04/2019">KAESONG</word>
+    <word changeDate="11/04/2019">KASONG</word>
+    <word changeDate="11/04/2019">KEHSON</word>
+    <word changeDate="11/04/2019">KESON</word>
+    <word changeDate="11/04/2019">KESONG</word>
+    <word changeDate="11/04/2019">KESSON</word>
+    <word changeDate="11/04/2019">KESZONG</word>
+</synonym>
+<synonym key="KALAKASH">
+    <word changeDate="11/04/2019">KARIKAX</word>
+</synonym>
+<synonym key="KANGE">
+    <word changeDate="11/04/2019">KANGGJE</word>
+    <word changeDate="11/04/2019">KANGGYE</word>
+</synonym>
+<synonym key="KANSAS">
+    <word changeDate="11/04/2019">KS</word>
+</synonym>
+<synonym key="KARACHAEVSK">
+    <word changeDate="11/04/2019">KARACHAYEVSK</word>
+</synonym>
+<synonym key="KARADSCH">
+    <word changeDate="11/04/2019">KARADSCHA</word>
+    <word changeDate="11/04/2019">KARADSCHE</word>
+    <word changeDate="11/04/2019">KARADZ</word>
+    <word changeDate="11/04/2019">KARADZH</word>
+    <word changeDate="11/04/2019">KARADZHA</word>
+    <word changeDate="11/04/2019">KARADZHE</word>
+    <word changeDate="11/04/2019">KARADZS</word>
+    <word changeDate="11/04/2019">KARAJ</word>
+    <word changeDate="11/04/2019">KEREDSCH</word>
+    <word changeDate="11/04/2019">KEREDZH</word>
+</synonym>
+<synonym key="KASEM">
+    <word changeDate="11/04/2019">KASIM</word>
+    <word changeDate="11/04/2019">KASSEM</word>
+    <word changeDate="11/04/2019">KASSIM</word>
+    <word changeDate="11/04/2019">KEASSEM</word>
+    <word changeDate="11/04/2019">QASEM</word>
+    <word changeDate="11/04/2019">QASIM</word>
+    <word changeDate="11/04/2019">QASSEM</word>
+</synonym>
+<synonym key="KENIA">
+    <word changeDate="11/04/2019">KENYA</word>
+</synonym>
+<synonym key="KENTUCKY">
+    <word changeDate="11/04/2019">KY</word>
+</synonym>
+<synonym key="KHAIR">
+    <word changeDate="11/04/2019">KHAYR</word>
+    <word changeDate="11/04/2019">KHYR</word>
+</synonym>
+<synonym key="KHALED">
+    <word changeDate="11/04/2019">KHALEED</word>
+    <word changeDate="11/04/2019">KHALID</word>
+</synonym>
+<synonym key="KHARASHAD">
+    <word changeDate="11/04/2019">KHORASHAD</word>
+    <word changeDate="11/04/2019">KHORSHAD</word>
+</synonym>
+<synonym key="KHOMEINI">
+    <word changeDate="11/04/2019">KHOMEYNI</word>
+</synonym>
+<synonym key="KHORASAN">
+    <word changeDate="11/04/2019">KHOROSAN</word>
+</synonym>
+<synonym key="KID">
+    <word changeDate="11/04/2019">KIDS</word>
+</synonym>
+<synonym key="KINGDOM">
+    <word changeDate="11/04/2019">KINGDOMS</word>
+</synonym>
+<synonym key="KOCHENEVO">
+    <word changeDate="11/04/2019">KOCHENYOVO</word>
+</synonym>
+<synonym key="KOEZTARSASAG">
+    <word changeDate="11/04/2019">KOZTARSASAG</word>
+    <word changeDate="11/04/2019">REPUBLIC</word>
+    <word changeDate="11/04/2019">REPUBLICA</word>
+    <word changeDate="11/04/2019">REPUBLICS</word>
+    <word changeDate="11/04/2019">REPUBLIK</word>
+    <word changeDate="11/04/2019">REPUBLIKA</word>
+    <word changeDate="11/04/2019">RESPUBLIKA</word>
+</synonym>
+<synonym key="KOROLEV">
+    <word changeDate="11/04/2019">KOROLYOV</word>
+</synonym>
+<synonym key="KOSTI">
+    <word changeDate="11/04/2019">KUSTI</word>
+</synonym>
+<synonym key="KOWEIT">
+    <word changeDate="11/04/2019">KUWAIT</word>
+    <word changeDate="11/04/2019">KUWEIT</word>
+</synonym>
+<synonym key="KRIM">
+    <word changeDate="11/04/2019">KRYM</word>
+</synonym>
+<synonym key="KURDISTAN">
+    <word changeDate="11/04/2019">KURDSKYCH</word>
+</synonym>
+<synonym key="KUYBYSHEV">
+    <word changeDate="11/04/2019">SAMARA</word>
+</synonym>
+<synonym key="LA">
+    <word changeDate="11/04/2019">LOUISIANA</word>
+</synonym>
+<synonym key="LABORATORIES">
+    <word changeDate="11/04/2019">LABORATORY</word>
+</synonym>
+<synonym key="LAKE">
+    <word changeDate="11/04/2019">LAKES</word>
+</synonym>
+<synonym key="LALOVIC">
+    <word changeDate="11/04/2019">LALOVIK</word>
+</synonym>
+<synonym key="LAMP">
+    <word changeDate="11/04/2019">LAMPS</word>
+</synonym>
+<synonym key="LAND">
+    <word changeDate="11/04/2019">LANDS</word>
+</synonym>
+<synonym key="LATIN">
+    <word changeDate="11/04/2019">LATINA</word>
+    <word changeDate="11/04/2019">LATINO</word>
+</synonym>
+<synonym key="LAW">
+    <word changeDate="11/04/2019">LAWS</word>
+</synonym>
+<synonym key="LDN">
+    <word changeDate="11/04/2019">LND</word>
+    <word changeDate="11/04/2019">LONDON</word>
+    <word changeDate="11/04/2019">LONDRES</word>
+</synonym>
+<synonym key="LE">
+    <word changeDate="11/04/2019">LEE</word>
+    <word changeDate="11/04/2019">LI</word>
+</synonym>
+<synonym key="LEAF">
+    <word changeDate="11/04/2019">LEAVES</word>
+</synonym>
+<synonym key="LEAGUE">
+    <word changeDate="11/04/2019">LEAGUES</word>
+</synonym>
+<synonym key="LEBANESE">
+    <word changeDate="11/04/2019">LIBANAIS</word>
+    <word changeDate="11/04/2019">LIBANAISE</word>
+</synonym>
+<synonym key="LEBANON">
+    <word changeDate="11/04/2019">LIBAN</word>
+    <word changeDate="11/04/2019">LIBANO</word>
+    <word changeDate="11/04/2019">LIBANON</word>
+</synonym>
+<synonym key="LEGION">
+    <word changeDate="11/04/2019">LEGIONS</word>
+</synonym>
+<synonym key="LENINE">
+    <word changeDate="11/04/2019">LENINO</word>
+    <word changeDate="11/04/2019">SEMKOLODEZEY</word>
+</synonym>
+<synonym key="LIBERATION">
+    <word changeDate="11/04/2019">OSVOBOZENI</word>
+    <word changeDate="11/04/2019">OSVOBOZHDENIA</word>
+    <word changeDate="11/04/2019">SVOBODNA</word>
+</synonym>
+<synonym key="LIBERIA">
+    <word changeDate="11/04/2019">LIBERIE</word>
+    <word changeDate="11/04/2019">LIBERIJA</word>
+</synonym>
+<synonym key="LIBERTIES">
+    <word changeDate="11/04/2019">LIBERTY</word>
+</synonym>
+<synonym key="LIBIA">
+    <word changeDate="11/04/2019">LIBIAI</word>
+    <word changeDate="11/04/2019">LIBIE</word>
+    <word changeDate="11/04/2019">LIBISCHE</word>
+    <word changeDate="11/04/2019">LIBYA</word>
+    <word changeDate="11/04/2019">LIBYAN</word>
+    <word changeDate="11/04/2019">LIBYANS</word>
+    <word changeDate="11/04/2019">LIBYE</word>
+    <word changeDate="11/04/2019">LIBYEN</word>
+    <word changeDate="11/04/2019">LIBYENNE</word>
+    <word changeDate="11/04/2019">LIBYER</word>
+    <word changeDate="11/04/2019">LIBYSKE</word>
+    <word changeDate="11/04/2019">LYBIA</word>
+    <word changeDate="11/04/2019">LYBIAN</word>
+</synonym>
+<synonym key="LIDOVE">
+    <word changeDate="11/04/2019">NARODNO</word>
+    <word changeDate="11/04/2019">NEPI</word>
+    <word changeDate="11/04/2019">OBCANSKA</word>
+    <word changeDate="11/04/2019">PEO</word>
+    <word changeDate="11/04/2019">PEOP</word>
+    <word changeDate="11/04/2019">PEOPLE</word>
+    <word changeDate="11/04/2019">PEOPLES</word>
+    <word changeDate="11/04/2019">POPULARA</word>
+</synonym>
+<synonym key="LIFE">
+    <word changeDate="11/04/2019">LIVES</word>
+</synonym>
+<synonym key="LIGHT">
+    <word changeDate="11/04/2019">LIGHTS</word>
+</synonym>
+<synonym key="LIMITED">
+    <word changeDate="11/04/2019">LTD</word>
+    <word changeDate="11/04/2019">LTDA</word>
+    <word changeDate="11/04/2019">OOO</word>
+</synonym>
+<synonym key="LINE">
+    <word changeDate="11/04/2019">LINEA</word>
+    <word changeDate="11/04/2019">LINEAS</word>
+    <word changeDate="11/04/2019">LINES</word>
+</synonym>
+<synonym key="LLOYD">
+    <word changeDate="11/04/2019">LLOYDS</word>
+</synonym>
+<synonym key="LOGISTIC">
+    <word changeDate="11/04/2019">LOGISTICS</word>
+</synonym>
+<synonym key="LOPES">
+    <word changeDate="11/04/2019">LOPEZ</word>
+</synonym>
+<synonym key="LOUISE">
+    <word changeDate="11/04/2019">LUISA</word>
+</synonym>
+<synonym key="LOYALIST">
+    <word changeDate="11/04/2019">LOYALISTS</word>
+</synonym>
+<synonym key="LUBINSKIY">
+    <word changeDate="11/04/2019">LYUBINSKIY</word>
+</synonym>
+<synonym key="LUBYTINO">
+    <word changeDate="11/04/2019">LYUBYTINO</word>
+</synonym>
+<synonym key="LUGANSK">
+    <word changeDate="11/21/2023">LUGANSKAIA</word>
+    <word changeDate="11/21/2023">LUGANSKAYA</word>
+    <word changeDate="11/21/2023">LUGANSKIE</word>
+    <word changeDate="11/21/2023">LUGANSKIH</word>
+    <word changeDate="11/21/2023">LUGANSKIKH</word>
+    <word changeDate="11/21/2023">LUGANSKIM</word>
+    <word changeDate="11/21/2023">LUGANSKIMI</word>
+    <word changeDate="07/11/2023">LUGANSKIN</word>
+    <word changeDate="11/21/2023">LUGANSKIY</word>
+    <word changeDate="11/21/2023">LUGANSKIYE</word>
+    <word changeDate="11/21/2023">LUGANSKOGO</word>
+    <word changeDate="11/21/2023">LUGANSKOI</word>
+    <word changeDate="11/21/2023">LUGANSKOJU</word>
+    <word changeDate="11/21/2023">LUGANSKOM</word>
+    <word changeDate="11/21/2023">LUGANSKOMU</word>
+    <word changeDate="11/21/2023">LUGANSKOVO</word>
+    <word changeDate="11/21/2023">LUGANSKOY</word>
+    <word changeDate="11/21/2023">LUGANSKOYU</word>
+    <word changeDate="11/21/2023">LUGANSKUIU</word>
+    <word changeDate="11/21/2023">LUGANSKUYU</word>
+    <word changeDate="07/11/2023">LUHANSK</word>
+    <word changeDate="11/21/2023">LUHANSKA</word>
+    <word changeDate="11/21/2023">LUHANSKE</word>
+    <word changeDate="11/21/2023">LUHANSKI</word>
+    <word changeDate="11/21/2023">LUHANSKIH</word>
+    <word changeDate="11/21/2023">LUHANSKII</word>
+    <word changeDate="11/21/2023">LUHANSKIKH</word>
+    <word changeDate="11/21/2023">LUHANSKIM</word>
+    <word changeDate="11/21/2023">LUHANSKIMI</word>
+    <word changeDate="07/11/2023">LUHANSKIN</word>
+    <word changeDate="11/21/2023">LUHANSKOHO</word>
+    <word changeDate="11/21/2023">LUHANSKOI</word>
+    <word changeDate="11/21/2023">LUHANSKOIU</word>
+    <word changeDate="11/21/2023">LUHANSKOMU</word>
+    <word changeDate="11/21/2023">LUHANSKOYU</word>
+    <word changeDate="11/21/2023">LUHANSKU</word>
+    <word changeDate="11/21/2023">LUHANSKYY</word>
+</synonym>
+<synonym key="LUKASENKO">
+    <word changeDate="11/04/2019">LUKASHENKO</word>
+</synonym>
+<synonym key="LUNG">
+    <word changeDate="11/04/2019">LUNGS</word>
+</synonym>
+<synonym key="LUX">
+    <word changeDate="11/04/2019">LUXEMBOURG</word>
+    <word changeDate="11/04/2019">LUXEMBOURGE</word>
+    <word changeDate="11/04/2019">LUXEMBURG</word>
+</synonym>
+<synonym key="MA">
+    <word changeDate="11/04/2019">MASS</word>
+    <word changeDate="11/04/2019">MASSACHUSETTS</word>
+</synonym>
+<synonym key="MACEDONIA">
+    <word changeDate="11/04/2019">MACEDONIE</word>
+    <word changeDate="11/04/2019">MAKEDONIEN</word>
+    <word changeDate="11/04/2019">MAZEDONIEN</word>
+</synonym>
+<synonym key="MACHINE">
+    <word changeDate="11/04/2019">MACHINES</word>
+</synonym>
+<synonym key="MACHINERIES">
+    <word changeDate="11/04/2019">MACHINERY</word>
+</synonym>
+<synonym key="MADANI">
+    <word changeDate="11/04/2019">MEDANI</word>
+</synonym>
+<synonym key="MAGHDOUCHE">
+    <word changeDate="11/04/2019">MAGHDUSHAH</word>
+</synonym>
+<synonym key="MAHAMAD">
+    <word changeDate="11/04/2019">MAHAMED</word>
+    <word changeDate="11/04/2019">MAHAMMAD</word>
+    <word changeDate="11/04/2019">MAHAMMED</word>
+    <word changeDate="11/04/2019">MAHOMET</word>
+    <word changeDate="11/04/2019">MOHAMAD</word>
+    <word changeDate="11/04/2019">MOHAMED</word>
+    <word changeDate="11/04/2019">MOHAMMAD</word>
+    <word changeDate="11/04/2019">MOHAMMED</word>
+    <word changeDate="11/04/2019">MOKHAMED</word>
+    <word changeDate="11/04/2019">MOKHAMMED</word>
+    <word changeDate="11/04/2019">MUHAMAD</word>
+    <word changeDate="11/04/2019">MUHAMED</word>
+    <word changeDate="11/04/2019">MUHAMMAD</word>
+    <word changeDate="11/04/2019">MUHAMMED</word>
+    <word changeDate="11/04/2019">MUSHAMMAD</word>
+</synonym>
+<synonym key="MAHMOUD">
+    <word changeDate="11/04/2019">MAHMUD</word>
+</synonym>
+<synonym key="MAHSUM">
+    <word changeDate="11/04/2019">MEHSUM</word>
+</synonym>
+<synonym key="MAIKL">
+    <word changeDate="11/04/2019">MAJJKL</word>
+    <word changeDate="11/04/2019">MAJKAL</word>
+    <word changeDate="11/04/2019">MAJKL</word>
+    <word changeDate="11/04/2019">MAYKAL</word>
+    <word changeDate="11/04/2019">MICHAEL</word>
+    <word changeDate="11/04/2019">MICHAIL</word>
+    <word changeDate="11/04/2019">MICHAL</word>
+    <word changeDate="11/04/2019">MICHEL</word>
+    <word changeDate="11/04/2019">MIHAEL</word>
+    <word changeDate="11/04/2019">MIKE</word>
+    <word changeDate="11/04/2019">MIKHAEL</word>
+</synonym>
+<synonym key="MAIKOP">
+    <word changeDate="11/04/2019">MAYKOP</word>
+</synonym>
+<synonym key="MAINE">
+    <word changeDate="11/04/2019">ME</word>
+</synonym>
+<synonym key="MALDIVE">
+    <word changeDate="11/04/2019">MALDIVES</word>
+</synonym>
+<synonym key="MALTA">
+    <word changeDate="11/04/2019">MALTE</word>
+</synonym>
+<synonym key="MAMATKRIM">
+    <word changeDate="11/04/2019">MUHAMMATKELIM</word>
+</synonym>
+<synonym key="MAMMAT">
+    <word changeDate="11/04/2019">MUHAMMAT</word>
+</synonym>
+<synonym key="MAMTIMIN">
+    <word changeDate="11/04/2019">MUHANMET</word>
+    <word changeDate="11/04/2019">MUHANMETEMIN</word>
+</synonym>
+<synonym key="MANAG">
+    <word changeDate="11/04/2019">MANAGEMENT</word>
+    <word changeDate="11/04/2019">MGMT</word>
+    <word changeDate="11/04/2019">MGT</word>
+</synonym>
+<synonym key="MANAGEL">
+    <word changeDate="11/04/2019">MANAGIL</word>
+    <word changeDate="11/04/2019">MANQIL</word>
+</synonym>
+<synonym key="MANAGER">
+    <word changeDate="11/04/2019">MANAGERS</word>
+    <word changeDate="11/04/2019">MGR</word>
+</synonym>
+<synonym key="MANDALAI">
+    <word changeDate="11/04/2019">MANDALAJ</word>
+    <word changeDate="11/04/2019">MANDALAJJ</word>
+    <word changeDate="11/04/2019">MANDALAY</word>
+    <word changeDate="11/04/2019">MANDELEJ</word>
+    <word changeDate="11/04/2019">MANDELEY</word>
+</synonym>
+<synonym key="MANNY">
+    <word changeDate="11/04/2019">MANUFACTURER</word>
+    <word changeDate="11/04/2019">MANUFACTURERA</word>
+    <word changeDate="11/04/2019">MANUFACTURERS</word>
+</synonym>
+<synonym key="MANUFACTURING">
+    <word changeDate="11/04/2019">MFG</word>
+</synonym>
+<synonym key="MANUSCRIPT">
+    <word changeDate="11/04/2019">MANUSCRIPTS</word>
+</synonym>
+<synonym key="MARBLE">
+    <word changeDate="11/04/2019">MARBLES</word>
+</synonym>
+<synonym key="MARC">
+    <word changeDate="11/04/2019">MARCA</word>
+    <word changeDate="11/04/2019">MARCO</word>
+    <word changeDate="11/04/2019">MARCOS</word>
+    <word changeDate="11/04/2019">MARK</word>
+    <word changeDate="11/04/2019">MARKO</word>
+</synonym>
+<synonym key="MARFADI">
+    <word changeDate="11/04/2019">MARFIDI</word>
+</synonym>
+<synonym key="MARIA">
+    <word changeDate="11/04/2019">MARIE</word>
+    <word changeDate="11/04/2019">MARY</word>
+</synonym>
+<synonym key="MARINE">
+    <word changeDate="11/04/2019">MARINES</word>
+</synonym>
+<synonym key="MARITIMA">
+    <word changeDate="11/04/2019">MARITIMAS</word>
+    <word changeDate="11/04/2019">MARITIME</word>
+</synonym>
+<synonym key="MARKET">
+    <word changeDate="11/04/2019">MARKETS</word>
+</synonym>
+<synonym key="MARKOVSKIY">
+    <word changeDate="11/04/2019">MARKOVSKY</word>
+</synonym>
+<synonym key="MAROCAIN">
+    <word changeDate="11/04/2019">MAROCAN</word>
+    <word changeDate="11/04/2019">MAROCCAN</word>
+    <word changeDate="11/04/2019">MAROCCO</word>
+    <word changeDate="11/04/2019">MAROCO</word>
+    <word changeDate="11/04/2019">MARROCAIN</word>
+    <word changeDate="11/04/2019">MARROCAN</word>
+    <word changeDate="11/04/2019">MARROCCO</word>
+    <word changeDate="11/04/2019">MARROCO</word>
+    <word changeDate="11/04/2019">MOROCAIN</word>
+    <word changeDate="11/04/2019">MOROCAN</word>
+    <word changeDate="11/04/2019">MOROCCAN</word>
+    <word changeDate="11/04/2019">MOROCCO</word>
+    <word changeDate="11/04/2019">MOROCO</word>
+    <word changeDate="11/04/2019">MORROCAIN</word>
+    <word changeDate="11/04/2019">MORROCAN</word>
+    <word changeDate="11/04/2019">MORROCCAN</word>
+    <word changeDate="11/04/2019">MORROCCO</word>
+    <word changeDate="11/04/2019">MORROCO</word>
+</synonym>
+<synonym key="MARTINES">
+    <word changeDate="11/04/2019">MARTINEZ</word>
+</synonym>
+<synonym key="MARTIROK">
+    <word changeDate="11/04/2019">MARTYR</word>
+    <word changeDate="11/04/2019">MARTYRS</word>
+</synonym>
+<synonym key="MARYLAND">
+    <word changeDate="11/04/2019">MD</word>
+</synonym>
+<synonym key="MASCHCHAD">
+    <word changeDate="11/04/2019">MASHAD</word>
+    <word changeDate="11/04/2019">MASHHAD</word>
+    <word changeDate="11/04/2019">MASHKHAD</word>
+    <word changeDate="11/04/2019">MASZHAD</word>
+    <word changeDate="11/04/2019">MESCHCHED</word>
+    <word changeDate="11/04/2019">MESHED</word>
+    <word changeDate="11/04/2019">MESHHED</word>
+    <word changeDate="11/04/2019">MESHKHED</word>
+    <word changeDate="11/04/2019">MESZHED</word>
+</synonym>
+<synonym key="MASHREG">
+    <word changeDate="11/04/2019">MASHREQ</word>
+</synonym>
+<synonym key="MASTER">
+    <word changeDate="11/04/2019">MASTERS</word>
+</synonym>
+<synonym key="MATCH">
+    <word changeDate="11/04/2019">MATCHES</word>
+</synonym>
+<synonym key="MATERIAL">
+    <word changeDate="11/04/2019">MATERIALS</word>
+</synonym>
+<synonym key="MAULMAIN">
+    <word changeDate="11/04/2019">MAWLAMYAING</word>
+    <word changeDate="11/04/2019">MAWLAMYINE</word>
+    <word changeDate="11/04/2019">MOLAMJAJJN</word>
+    <word changeDate="11/04/2019">MOLAMJAJN</word>
+    <word changeDate="11/04/2019">MOLAMYAIN</word>
+    <word changeDate="11/04/2019">MOLAMYAYN</word>
+    <word changeDate="11/04/2019">MOULMEIN</word>
+    <word changeDate="11/04/2019">MOULMEJJN</word>
+    <word changeDate="11/04/2019">MOULMEJN</word>
+    <word changeDate="11/04/2019">MULMEJN</word>
+</synonym>
+<synonym key="MAURITANIE">
+    <word changeDate="11/04/2019">MAURITANIENNE</word>
+    <word changeDate="11/04/2019">MAURITANNO</word>
+</synonym>
+<synonym key="MAYOR">
+    <word changeDate="11/04/2019">MAYORS</word>
+</synonym>
+<synonym key="MAYSKIY">
+    <word changeDate="11/04/2019">MAYSKY</word>
+</synonym>
+<synonym key="MEANING">
+    <word changeDate="11/04/2019">MEANINGS</word>
+</synonym>
+<synonym key="MECHANISATION">
+    <word changeDate="11/04/2019">MECHANIZATION</word>
+</synonym>
+<synonym key="MEDAL">
+    <word changeDate="11/04/2019">MEDALS</word>
+</synonym>
+<synonym key="MEDIC">
+    <word changeDate="11/04/2019">MEDICS</word>
+</synonym>
+<synonym key="MEDITERRANEAN">
+    <word changeDate="11/04/2019">MEDITERRANEE</word>
+    <word changeDate="11/04/2019">MEDITERRANEENNE</word>
+    <word changeDate="11/04/2019">MEDITERRANEO</word>
+</synonym>
+<synonym key="MEIKTILA">
+    <word changeDate="11/04/2019">MEJJKTILA</word>
+    <word changeDate="11/04/2019">MEJKTILA</word>
+    <word changeDate="11/04/2019">MEYKTILA</word>
+    <word changeDate="11/04/2019">MIKTILA</word>
+</synonym>
+<synonym key="MEJICO">
+    <word changeDate="11/04/2019">MESSICO</word>
+    <word changeDate="11/04/2019">MEX</word>
+    <word changeDate="11/04/2019">MEXICO</word>
+    <word changeDate="11/04/2019">MEXIKO</word>
+    <word changeDate="11/04/2019">MEXIQUE</word>
+</synonym>
+<synonym key="MEJJ">
+    <word changeDate="11/04/2019">MERGUI</word>
+    <word changeDate="11/04/2019">MJEI</word>
+    <word changeDate="11/04/2019">MYEIK</word>
+    <word changeDate="11/04/2019">MYEY</word>
+</synonym>
+<synonym key="MELI">
+    <word changeDate="11/04/2019">MELII</word>
+    <word changeDate="11/04/2019">MELLI</word>
+    <word changeDate="11/04/2019">MELLIE</word>
+    <word changeDate="11/04/2019">MELLII</word>
+    <word changeDate="11/04/2019">MILLI</word>
+    <word changeDate="11/04/2019">MILLIE</word>
+</synonym>
+<synonym key="MELLONS">
+    <word changeDate="11/04/2019">MELON</word>
+</synonym>
+<synonym key="MEMORIAL">
+    <word changeDate="11/04/2019">MEMORIALS</word>
+</synonym>
+<synonym key="MENDES">
+    <word changeDate="11/04/2019">MENDEZ</word>
+</synonym>
+<synonym key="MERCANTE">
+    <word changeDate="11/04/2019">MERCHANT</word>
+    <word changeDate="11/04/2019">MERCHANTS</word>
+</synonym>
+<synonym key="MERCANTIL">
+    <word changeDate="11/04/2019">MERCANTILE</word>
+    <word changeDate="11/04/2019">MERCANTILES</word>
+</synonym>
+<synonym key="METAL">
+    <word changeDate="11/04/2019">METALS</word>
+</synonym>
+<synonym key="METALURGICAL">
+    <word changeDate="11/04/2019">METALURICAL</word>
+</synonym>
+<synonym key="METHOD">
+    <word changeDate="11/04/2019">METHODS</word>
+</synonym>
+<synonym key="METROPOLITAN">
+    <word changeDate="11/04/2019">METROPOLITANA</word>
+</synonym>
+<synonym key="MEXICAN">
+    <word changeDate="11/04/2019">MEXICANA</word>
+    <word changeDate="11/04/2019">MEXICANO</word>
+    <word changeDate="11/04/2019">MEXICANODE</word>
+    <word changeDate="11/04/2019">MEXICANOS</word>
+</synonym>
+<synonym key="MEZHDURECHENSKIY">
+    <word changeDate="11/04/2019">MEZHDURECHENSKY</word>
+</synonym>
+<synonym key="MI">
+    <word changeDate="11/04/2019">MICH</word>
+    <word changeDate="11/04/2019">MICHIGAN</word>
+</synonym>
+<synonym key="MIDDENSTAND">
+    <word changeDate="11/04/2019">MIDDENSTANDSBAN</word>
+</synonym>
+<synonym key="MIKHAYLOVSKOE">
+    <word changeDate="11/04/2019">MIKHAYLOVSKOYE</word>
+</synonym>
+<synonym key="MILAN">
+    <word changeDate="11/04/2019">MILANO</word>
+</synonym>
+<synonym key="MILITAIRE">
+    <word changeDate="11/04/2019">MILITARIES</word>
+    <word changeDate="11/04/2019">MILITARY</word>
+</synonym>
+<synonym key="MILL">
+    <word changeDate="11/04/2019">MILLS</word>
+</synonym>
+<synonym key="MILOSAVIC">
+    <word changeDate="11/04/2019">MILOSEVIC</word>
+    <word changeDate="11/04/2019">MILOSEVICH</word>
+    <word changeDate="11/04/2019">MILOSOVIC</word>
+</synonym>
+<synonym key="MINE">
+    <word changeDate="11/04/2019">MINES</word>
+</synonym>
+<synonym key="MINERAL">
+    <word changeDate="11/04/2019">MINERALS</word>
+</synonym>
+<synonym key="MINISTRIES">
+    <word changeDate="11/04/2019">MINISTRY</word>
+</synonym>
+<synonym key="MINN">
+    <word changeDate="11/04/2019">MINNESOTA</word>
+    <word changeDate="11/04/2019">MN</word>
+</synonym>
+<synonym key="MISHAAL">
+    <word changeDate="11/04/2019">MISHAL</word>
+</synonym>
+<synonym key="MISSILE">
+    <word changeDate="11/04/2019">MISSILES</word>
+</synonym>
+<synonym key="MISSISSIPPI">
+    <word changeDate="11/04/2019">MS</word>
+</synonym>
+<synonym key="MISSOURI">
+    <word changeDate="11/04/2019">MO</word>
+</synonym>
+<synonym key="MOAMAR">
+    <word changeDate="11/04/2019">MOAMER</word>
+    <word changeDate="11/04/2019">MOAMMAR</word>
+    <word changeDate="11/04/2019">MOMAR</word>
+    <word changeDate="11/04/2019">MOMMAR</word>
+    <word changeDate="11/04/2019">MUAMAR</word>
+    <word changeDate="11/04/2019">MUAMER</word>
+    <word changeDate="11/04/2019">MUAMMAR</word>
+    <word changeDate="11/04/2019">MUAMMER</word>
+    <word changeDate="11/04/2019">MUMMAR</word>
+</synonym>
+<synonym key="MODEL">
+    <word changeDate="11/04/2019">MODELS</word>
+</synonym>
+<synonym key="MOGADISCHU">
+    <word changeDate="11/04/2019">MOGADISCIO</word>
+    <word changeDate="11/04/2019">MOGADISHU</word>
+    <word changeDate="11/04/2019">MOGDIISHO</word>
+    <word changeDate="11/04/2019">MUQDISO</word>
+</synonym>
+<synonym key="MOHSEN">
+    <word changeDate="11/04/2019">MUHSIN</word>
+</synonym>
+<synonym key="MOMENTO">
+    <word changeDate="11/04/2019">MOMENTOS</word>
+</synonym>
+<synonym key="MONACO">
+    <word changeDate="11/04/2019">MONAKO</word>
+</synonym>
+<synonym key="MONIVA">
+    <word changeDate="11/04/2019">MONIWA</word>
+    <word changeDate="11/04/2019">MONYWA</word>
+    <word changeDate="11/04/2019">MUNYWA</word>
+</synonym>
+<synonym key="MONTANA">
+    <word changeDate="11/04/2019">MT</word>
+</synonym>
+<synonym key="MONTASSIR">
+    <word changeDate="11/04/2019">MUNTASIR</word>
+</synonym>
+<synonym key="MORTGAGE">
+    <word changeDate="11/04/2019">MORTGAGES</word>
+</synonym>
+<synonym key="MOSCOVSKIY">
+    <word changeDate="11/04/2019">MOSKOVSKIY</word>
+</synonym>
+<synonym key="MOSQUE">
+    <word changeDate="11/04/2019">MOSQUES</word>
+</synonym>
+<synonym key="MOTEL">
+    <word changeDate="11/04/2019">MOTELS</word>
+</synonym>
+<synonym key="MOTIVE">
+    <word changeDate="11/04/2019">MOTIVES</word>
+</synonym>
+<synonym key="MOTOR">
+    <word changeDate="11/04/2019">MOTORS</word>
+</synonym>
+<synonym key="MOTORWAY">
+    <word changeDate="11/04/2019">MOTORWAYS</word>
+</synonym>
+<synonym key="MOUKHTAR">
+    <word changeDate="11/04/2019">MOUKKTAR</word>
+    <word changeDate="11/04/2019">MOUKTER</word>
+    <word changeDate="11/04/2019">MUHTAR</word>
+    <word changeDate="11/04/2019">MUKHTAR</word>
+    <word changeDate="11/04/2019">MUKKTAR</word>
+    <word changeDate="11/04/2019">MUKTER</word>
+</synonym>
+<synonym key="MOVER">
+    <word changeDate="11/04/2019">MOVERS</word>
+</synonym>
+<synonym key="MUELLER">
+    <word changeDate="11/04/2019">MULLER</word>
+</synonym>
+<synonym key="MUGENVA">
+    <word changeDate="11/04/2019">MUVENGA</word>
+</synonym>
+<synonym key="MULTIBANCO">
+    <word changeDate="11/04/2019">MULTIBANK</word>
+</synonym>
+<synonym key="MUNOS">
+    <word changeDate="11/04/2019">MUNOZ</word>
+</synonym>
+<synonym key="MUSLIM">
+    <word changeDate="11/04/2019">MUSLIMS</word>
+</synonym>
+<synonym key="MYEONG">
+    <word changeDate="11/04/2019">MYONG</word>
+    <word changeDate="11/04/2019">MYUNG</word>
+</synonym>
+<synonym key="NACION">
+    <word changeDate="11/04/2019">NATION</word>
+    <word changeDate="11/04/2019">NATIONS</word>
+</synonym>
+<synonym key="NACIONAL">
+    <word changeDate="11/04/2019">NACIONALE</word>
+    <word changeDate="11/04/2019">NARODNI</word>
+    <word changeDate="11/04/2019">NARODOWY</word>
+    <word changeDate="11/04/2019">NATIONAL</word>
+    <word changeDate="11/04/2019">NATIONALE</word>
+    <word changeDate="11/04/2019">NATL</word>
+    <word changeDate="11/04/2019">NAZIONALE</word>
+    <word changeDate="11/04/2019">NEMZETI</word>
+    <word changeDate="11/04/2019">NEMZETTI</word>
+</synonym>
+<synonym key="NAMIBIA">
+    <word changeDate="11/04/2019">NAMIBIE</word>
+</synonym>
+<synonym key="NAMPCHO">
+    <word changeDate="11/04/2019">NAMPHO</word>
+    <word changeDate="11/04/2019">NAMPKHO</word>
+    <word changeDate="11/04/2019">NAMPO</word>
+</synonym>
+<synonym key="NAPLES">
+    <word changeDate="11/04/2019">NAPOLI</word>
+</synonym>
+<synonym key="NASAR">
+    <word changeDate="11/04/2019">NASER</word>
+    <word changeDate="11/04/2019">NASSAR</word>
+    <word changeDate="11/04/2019">NASSER</word>
+</synonym>
+<synonym key="NASIMSHAHR">
+    <word changeDate="11/04/2019">NASIMSHAR</word>
+</synonym>
+<synonym key="NATALIA">
+    <word changeDate="11/04/2019">NATALIYA</word>
+</synonym>
+<synonym key="NAVEGACION">
+    <word changeDate="11/04/2019">NAVIGATION</word>
+    <word changeDate="11/04/2019">NAVIGATIONS</word>
+</synonym>
+<synonym key="NAWSHAHR">
+    <word changeDate="11/04/2019">NOSHAHR</word>
+    <word changeDate="11/04/2019">NOUSHAHR</word>
+    <word changeDate="11/04/2019">NOWSHAHR</word>
+    <word changeDate="11/04/2019">NUSHAHR</word>
+</synonym>
+<synonym key="NAYEF">
+    <word changeDate="11/04/2019">NAYF</word>
+    <word changeDate="11/04/2019">NAYIF</word>
+</synonym>
+<synonym key="NE">
+    <word changeDate="11/04/2019">NEB</word>
+    <word changeDate="11/04/2019">NEBRASKA</word>
+</synonym>
+<synonym key="NEBLA">
+    <word changeDate="11/04/2019">NIEBLA</word>
+</synonym>
+<synonym key="NEDERLAND">
+    <word changeDate="11/04/2019">NEDERLANDS</word>
+    <word changeDate="11/04/2019">NEDERLANDSCHE</word>
+    <word changeDate="11/04/2019">NEDERLANDSE</word>
+    <word changeDate="11/04/2019">NETHERLAND</word>
+    <word changeDate="11/04/2019">NETHERLANDS</word>
+</synonym>
+<synonym key="NETWORK">
+    <word changeDate="11/04/2019">NETWORKS</word>
+</synonym>
+<synonym key="NEUVO">
+    <word changeDate="11/04/2019">NEW</word>
+    <word changeDate="11/04/2019">NOUVELLE</word>
+    <word changeDate="11/04/2019">NUEVO</word>
+    <word changeDate="11/04/2019">NUOVA</word>
+    <word changeDate="11/04/2019">NUOVO</word>
+</synonym>
+<synonym key="NEVADA">
+    <word changeDate="11/04/2019">NV</word>
+</synonym>
+<synonym key="NHEMA">
+    <word changeDate="11/04/2019">NHEMAOVA</word>
+</synonym>
+<synonym key="NIALA">
+    <word changeDate="11/04/2019">NIJALA</word>
+    <word changeDate="11/04/2019">NJALA</word>
+    <word changeDate="11/04/2019">NYALA</word>
+</synonym>
+<synonym key="NICARAGUA">
+    <word changeDate="11/04/2019">NICARAGUAY</word>
+</synonym>
+<synonym key="NICKEL">
+    <word changeDate="11/04/2019">NICKELS</word>
+</synonym>
+<synonym key="NIKIET">
+    <word changeDate="11/04/2019">NIKJET</word>
+</synonym>
+<synonym key="NIZHNEGORSKIJ">
+    <word changeDate="11/04/2019">NIZHNEGORSKIY</word>
+    <word changeDate="11/04/2019">NIZHNOGIRSKIJ</word>
+    <word changeDate="11/04/2019">NYZHNOHIRSKYY</word>
+    <word changeDate="11/04/2019">SEITLER</word>
+    <word changeDate="11/04/2019">SEYTLER</word>
+</synonym>
+<synonym key="NO">
+    <word changeDate="11/04/2019">NUMBER</word>
+    <word changeDate="11/04/2019">NUMERO</word>
+</synonym>
+<synonym key="NOBLE">
+    <word changeDate="11/04/2019">NOBLES</word>
+</synonym>
+<synonym key="NORGES">
+    <word changeDate="11/04/2019">NORVEGE</word>
+    <word changeDate="11/04/2019">NORWAY</word>
+</synonym>
+<synonym key="NORSE">
+    <word changeDate="11/04/2019">NORSK</word>
+    <word changeDate="11/04/2019">NORWEGIAN</word>
+    <word changeDate="11/04/2019">NORWEGIANS</word>
+    <word changeDate="11/04/2019">NORWEGISCHE</word>
+</synonym>
+<synonym key="NOVEL">
+    <word changeDate="11/04/2019">NOVELS</word>
+</synonym>
+<synonym key="NUCLEI">
+    <word changeDate="11/04/2019">NUCLEUS</word>
+</synonym>
+<synonym key="NUSRA">
+    <word changeDate="11/04/2019">NUSRAH</word>
+</synonym>
+<synonym key="NUTZFAHRZEUGE">
+    <word changeDate="11/04/2019">NUTZFAHRZUEGE</word>
+</synonym>
+<synonym key="OBEID">
+    <word changeDate="11/04/2019">OBIED</word>
+</synonym>
+<synonym key="OBEIDI">
+    <word changeDate="11/04/2019">UBAYDI</word>
+</synonym>
+<synonym key="OBLASTNOI">
+    <word changeDate="11/04/2019">OBLASTNOY</word>
+</synonym>
+<synonym key="OCCIDENTAL">
+    <word changeDate="11/04/2019">OCCIDENTALE</word>
+</synonym>
+<synonym key="OCEAN">
+    <word changeDate="11/04/2019">OCEANS</word>
+</synonym>
+<synonym key="ODPORU">
+    <word changeDate="11/04/2019">RESISTANCE</word>
+    <word changeDate="11/04/2019">RESISTANCES</word>
+</synonym>
+<synonym key="OEST">
+    <word changeDate="11/04/2019">WEST</word>
+    <word changeDate="11/04/2019">WESTERN</word>
+</synonym>
+<synonym key="OFF">
+    <word changeDate="11/04/2019">OFFICE</word>
+    <word changeDate="11/04/2019">OFFICES</word>
+    <word changeDate="11/04/2019">OFFS</word>
+    <word changeDate="11/04/2019">OFICINA</word>
+    <word changeDate="11/04/2019">UFFICIO</word>
+</synonym>
+<synonym key="OH">
+    <word changeDate="11/04/2019">OHIO</word>
+</synonym>
+<synonym key="OIL">
+    <word changeDate="11/04/2019">OILS</word>
+    <word changeDate="11/04/2019">PETROLES</word>
+    <word changeDate="11/04/2019">PETROLEUM</word>
+</synonym>
+<synonym key="OK">
+    <word changeDate="11/04/2019">OKLA</word>
+    <word changeDate="11/04/2019">OKLAHOMA</word>
+</synonym>
+<synonym key="OMAR">
+    <word changeDate="11/04/2019">UMAR</word>
+</synonym>
+<synonym key="ONION">
+    <word changeDate="11/04/2019">ONIONS</word>
+</synonym>
+<synonym key="ONT">
+    <word changeDate="11/04/2019">ONTARIO</word>
+</synonym>
+<synonym key="OPER">
+    <word changeDate="11/04/2019">OPERATION</word>
+    <word changeDate="11/04/2019">OPERATIONS</word>
+    <word changeDate="11/04/2019">OPERE</word>
+</synonym>
+<synonym key="OPINION">
+    <word changeDate="11/04/2019">OPINIONS</word>
+</synonym>
+<synonym key="OPORTO">
+    <word changeDate="11/04/2019">PORTO</word>
+</synonym>
+<synonym key="OR">
+    <word changeDate="11/04/2019">OREGON</word>
+</synonym>
+<synonym key="ORANGE">
+    <word changeDate="11/04/2019">ORANGES</word>
+</synonym>
+<synonym key="ORDER">
+    <word changeDate="11/04/2019">ORDERS</word>
+</synonym>
+<synonym key="ORG">
+    <word changeDate="11/04/2019">ORGANISATION</word>
+    <word changeDate="11/04/2019">ORGANISATIONS</word>
+    <word changeDate="11/04/2019">ORGANIZACE</word>
+    <word changeDate="11/04/2019">ORGANIZACION</word>
+    <word changeDate="11/04/2019">ORGANIZATION</word>
+    <word changeDate="11/04/2019">ORGANIZATIONS</word>
+    <word changeDate="11/04/2019">ORGANIZATSIA</word>
+</synonym>
+<synonym key="ORIENT">
+    <word changeDate="11/04/2019">ORIENTE</word>
+</synonym>
+<synonym key="ORSA">
+    <word changeDate="11/04/2019">ORSCHA</word>
+    <word changeDate="11/04/2019">ORSHA</word>
+    <word changeDate="11/04/2019">ORSZA</word>
+</synonym>
+<synonym key="ORTIS">
+    <word changeDate="11/04/2019">ORTIZ</word>
+</synonym>
+<synonym key="ORUMIEH">
+    <word changeDate="11/04/2019">ORUMIJE</word>
+    <word changeDate="11/04/2019">ORUMIYEH</word>
+    <word changeDate="11/04/2019">REZAIJE</word>
+    <word changeDate="11/04/2019">RIZAIYEH</word>
+    <word changeDate="11/04/2019">URMIA</word>
+    <word changeDate="11/04/2019">URMIJA</word>
+    <word changeDate="11/04/2019">URMIYA</word>
+    <word changeDate="11/04/2019">URMIYEH</word>
+    <word changeDate="11/04/2019">URUMIEH</word>
+    <word changeDate="11/04/2019">URUMIJE</word>
+    <word changeDate="11/04/2019">URUMIYEH</word>
+    <word changeDate="11/04/2019">WIRMIYE</word>
+</synonym>
+<synonym key="OSMAN">
+    <word changeDate="11/04/2019">UTHMAN</word>
+</synonym>
+<synonym key="OSMANLI">
+    <word changeDate="11/04/2019">OTTOMAN</word>
+    <word changeDate="11/04/2019">OTTOMANE</word>
+</synonym>
+<synonym key="OUGANDA">
+    <word changeDate="11/04/2019">UGANDA</word>
+</synonym>
+<synonym key="OUTDOOR">
+    <word changeDate="11/04/2019">OUTDOORS</word>
+</synonym>
+<synonym key="OVERSEA">
+    <word changeDate="11/04/2019">OVERSEAS</word>
+    <word changeDate="11/04/2019">OVERZEESE</word>
+</synonym>
+<synonym key="OYSTER">
+    <word changeDate="11/04/2019">OYSTERS</word>
+</synonym>
+<synonym key="PA">
+    <word changeDate="11/04/2019">PENN</word>
+    <word changeDate="11/04/2019">PENNSYLVANIA</word>
+</synonym>
+<synonym key="PACIFIC">
+    <word changeDate="11/04/2019">PACIFICO</word>
+</synonym>
+<synonym key="PADILA">
+    <word changeDate="11/04/2019">PADILLA</word>
+</synonym>
+<synonym key="PADOVA">
+    <word changeDate="11/04/2019">PADUA</word>
+</synonym>
+<synonym key="PAGE">
+    <word changeDate="11/04/2019">PAGES</word>
+</synonym>
+<synonym key="PAKISTAN">
+    <word changeDate="11/04/2019">PAQUISTAO</word>
+</synonym>
+<synonym key="PAKISTANI">
+    <word changeDate="11/04/2019">PAKISTANIS</word>
+</synonym>
+<synonym key="PALACE">
+    <word changeDate="11/04/2019">PALACES</word>
+    <word changeDate="11/04/2019">PALAZZO</word>
+</synonym>
+<synonym key="PALESTINE">
+    <word changeDate="11/04/2019">PALESTINIAN</word>
+    <word changeDate="11/04/2019">PALESTINIANS</word>
+    <word changeDate="11/04/2019">PALESTINY</word>
+</synonym>
+<synonym key="PALESTINIEN">
+    <word changeDate="11/04/2019">PALESTINIENS</word>
+</synonym>
+<synonym key="PANAMERICAN">
+    <word changeDate="11/04/2019">PANAMERICANO</word>
+</synonym>
+<synonym key="PAPER">
+    <word changeDate="11/04/2019">PAPERS</word>
+</synonym>
+<synonym key="PARAGUAY">
+    <word changeDate="11/04/2019">PARAGUAYO</word>
+</synonym>
+<synonym key="PARK">
+    <word changeDate="11/04/2019">PARKS</word>
+</synonym>
+<synonym key="PARTIES">
+    <word changeDate="11/04/2019">PARTY</word>
+    <word changeDate="11/04/2019">STRANA</word>
+</synonym>
+<synonym key="PARTISAN">
+    <word changeDate="11/04/2019">PARTISANS</word>
+</synonym>
+<synonym key="PARTNER">
+    <word changeDate="11/04/2019">PARTNERS</word>
+</synonym>
+<synonym key="PARTNERSHIP">
+    <word changeDate="11/04/2019">PARTNERSHIPS</word>
+</synonym>
+<synonym key="PASS">
+    <word changeDate="11/04/2019">PASSES</word>
+</synonym>
+<synonym key="PATH">
+    <word changeDate="11/04/2019">PATHS</word>
+</synonym>
+<synonym key="PAUL">
+    <word changeDate="11/04/2019">PAULO</word>
+    <word changeDate="11/04/2019">PAULS</word>
+</synonym>
+<synonym key="PAYAM">
+    <word changeDate="11/04/2019">PAYAN</word>
+</synonym>
+<synonym key="PCHENJAN">
+    <word changeDate="11/04/2019">PCHJONGJANG</word>
+    <word changeDate="11/04/2019">PHENIAN</word>
+    <word changeDate="11/04/2019">PHENJAN</word>
+    <word changeDate="11/04/2019">PHENYAN</word>
+    <word changeDate="11/04/2019">PJONGJANG</word>
+    <word changeDate="11/04/2019">PKHEN</word>
+    <word changeDate="11/04/2019">PKHENIAN</word>
+    <word changeDate="11/04/2019">PKHENYAN</word>
+    <word changeDate="11/04/2019">PYONGYANG</word>
+</synonym>
+<synonym key="PEARL">
+    <word changeDate="11/04/2019">PEARLS</word>
+</synonym>
+<synonym key="PENSION">
+    <word changeDate="11/04/2019">PENSIONES</word>
+    <word changeDate="11/04/2019">PENSIONS</word>
+</synonym>
+<synonym key="PERES">
+    <word changeDate="11/04/2019">PEREZ</word>
+</synonym>
+<synonym key="PEROU">
+    <word changeDate="11/04/2019">PERU</word>
+</synonym>
+<synonym key="PERUVIAN">
+    <word changeDate="11/04/2019">PERUVIANS</word>
+</synonym>
+<synonym key="PERVOMAISKYI">
+    <word changeDate="11/04/2019">PERVOMAYSKOYE</word>
+    <word changeDate="11/04/2019">PERVOMAYSKY</word>
+</synonym>
+<synonym key="PETER">
+    <word changeDate="11/04/2019">PITER</word>
+</synonym>
+<synonym key="PETKEVICH">
+    <word changeDate="11/04/2019">PETKEVICOVA</word>
+</synonym>
+<synonym key="PETROCHEMICAL">
+    <word changeDate="11/04/2019">PETROCHEMICALS</word>
+</synonym>
+<synonym key="PHARMACEUTICAL">
+    <word changeDate="11/04/2019">PHARMACEUTICALS</word>
+</synonym>
+<synonym key="PHILA">
+    <word changeDate="11/04/2019">PHILADELPHIA</word>
+</synonym>
+<synonym key="PHILIP">
+    <word changeDate="11/04/2019">PHILIPP</word>
+    <word changeDate="11/04/2019">PHILLIP</word>
+</synonym>
+<synonym key="PHILIPS">
+    <word changeDate="11/04/2019">PHILLIPS</word>
+</synonym>
+<synonym key="PIKALEVO">
+    <word changeDate="11/04/2019">PIKALYOVO</word>
+</synonym>
+<synonym key="PINO">
+    <word changeDate="11/04/2019">PINOT</word>
+</synonym>
+<synonym key="PIONEER">
+    <word changeDate="11/04/2019">PIONEERS</word>
+</synonym>
+<synonym key="PIPELINE">
+    <word changeDate="11/04/2019">PIPELINES</word>
+</synonym>
+<synonym key="PIRANHA">
+    <word changeDate="11/04/2019">PIRANHAS</word>
+</synonym>
+<synonym key="PIZZA">
+    <word changeDate="11/04/2019">PIZZAS</word>
+</synonym>
+<synonym key="PLACE">
+    <word changeDate="11/04/2019">PLACES</word>
+</synonym>
+<synonym key="PLACEMENT">
+    <word changeDate="11/04/2019">PLACEMENTS</word>
+</synonym>
+<synonym key="PLANT">
+    <word changeDate="11/04/2019">PLANTS</word>
+</synonym>
+<synonym key="PLASTIC">
+    <word changeDate="11/04/2019">PLASTICS</word>
+</synonym>
+<synonym key="PLAZA">
+    <word changeDate="11/04/2019">PLAZAS</word>
+</synonym>
+<synonym key="PLUS">
+    <word changeDate="11/04/2019">PLUSES</word>
+</synonym>
+<synonym key="POCHTA">
+    <word changeDate="11/04/2019">POST</word>
+    <word changeDate="11/04/2019">POSTS</word>
+</synonym>
+<synonym key="PODOROZHYE">
+    <word changeDate="11/04/2019">PODPOROZHIE</word>
+</synonym>
+<synonym key="POINT">
+    <word changeDate="11/04/2019">POINTE</word>
+</synonym>
+<synonym key="POLAND">
+    <word changeDate="11/04/2019">POLOGNE</word>
+    <word changeDate="11/04/2019">POLONIA</word>
+    <word changeDate="11/04/2019">POLSKA</word>
+    <word changeDate="11/04/2019">POLSKI</word>
+</synonym>
+<synonym key="POOL">
+    <word changeDate="11/04/2019">POOLS</word>
+</synonym>
+<synonym key="POPELAVECKI">
+    <word changeDate="11/04/2019">POPELAVESKI</word>
+    <word changeDate="11/04/2019">POPILOVETSKI</word>
+</synonym>
+<synonym key="POPULAIRE">
+    <word changeDate="11/04/2019">POPULAR</word>
+    <word changeDate="11/04/2019">POPULARE</word>
+</synonym>
+<synonym key="PORTFOLIO">
+    <word changeDate="11/04/2019">PORTFOLIOS</word>
+</synonym>
+<synonym key="PORTOGALLO">
+    <word changeDate="11/04/2019">PORTUGAL</word>
+</synonym>
+<synonym key="POSTAL">
+    <word changeDate="11/04/2019">POSTALE</word>
+    <word changeDate="11/04/2019">POSTAUX</word>
+</synonym>
+<synonym key="POWER">
+    <word changeDate="11/04/2019">PWR</word>
+</synonym>
+<synonym key="PRACUJICICH">
+    <word changeDate="11/04/2019">WORKER</word>
+    <word changeDate="11/04/2019">WORKERS</word>
+</synonym>
+<synonym key="PREACHER">
+    <word changeDate="11/04/2019">PREACHERS</word>
+</synonym>
+<synonym key="PRECISION">
+    <word changeDate="11/04/2019">PRECISON</word>
+    <word changeDate="11/04/2019">PRECSION</word>
+</synonym>
+<synonym key="PREDICATION">
+    <word changeDate="11/04/2019">PREDICATIONS</word>
+</synonym>
+<synonym key="PRINCES">
+    <word changeDate="11/04/2019">PRINCESS</word>
+    <word changeDate="11/04/2019">PRINCESSES</word>
+</synonym>
+<synonym key="PRINCIPAL">
+    <word changeDate="11/04/2019">PRINCIPALS</word>
+</synonym>
+<synonym key="PRINTING">
+    <word changeDate="11/04/2019">PRINTINGS</word>
+</synonym>
+<synonym key="PRISONER">
+    <word changeDate="11/04/2019">PRISONERS</word>
+</synonym>
+<synonym key="PRIVAT">
+    <word changeDate="11/04/2019">PRIVATA</word>
+    <word changeDate="11/04/2019">PRIVATE</word>
+    <word changeDate="11/04/2019">PRIVE</word>
+    <word changeDate="11/04/2019">PRIVEE</word>
+    <word changeDate="11/04/2019">PRIVES</word>
+</synonym>
+<synonym key="PRIVATBANK">
+    <word changeDate="11/04/2019">PRIVATBANKEN</word>
+</synonym>
+<synonym key="PROCUREMENT">
+    <word changeDate="11/04/2019">PROCUREMENTS</word>
+</synonym>
+<synonym key="PRODUCT">
+    <word changeDate="11/04/2019">PRODUCTS</word>
+</synonym>
+<synonym key="PRODUCTION">
+    <word changeDate="11/04/2019">PRODUCTIONS</word>
+</synonym>
+<synonym key="PROFESSIONAL">
+    <word changeDate="11/04/2019">PROFESSIONALS</word>
+</synonym>
+<synonym key="PROGRESO">
+    <word changeDate="11/04/2019">PROGRESS</word>
+    <word changeDate="11/04/2019">PROGRESSO</word>
+</synonym>
+<synonym key="PROJECT">
+    <word changeDate="11/04/2019">PROJECTS</word>
+</synonym>
+<synonym key="PROMOCION">
+    <word changeDate="11/04/2019">PROMOTION</word>
+</synonym>
+<synonym key="PROMOTER">
+    <word changeDate="11/04/2019">PROMOTOR</word>
+    <word changeDate="11/04/2019">PROMOTORS</word>
+</synonym>
+<synonym key="PROPERTIES">
+    <word changeDate="11/04/2019">PROPERTY</word>
+</synonym>
+<synonym key="PROPHET">
+    <word changeDate="11/04/2019">PROPHETS</word>
+</synonym>
+<synonym key="PROTECTOR">
+    <word changeDate="11/04/2019">PROTECTORS</word>
+</synonym>
+<synonym key="PROV">
+    <word changeDate="11/04/2019">PROVIDENCE</word>
+</synonym>
+<synonym key="PROVIDER">
+    <word changeDate="11/04/2019">PROVIDERS</word>
+</synonym>
+<synonym key="PROVINCIAL">
+    <word changeDate="11/04/2019">PROVINCIALE</word>
+</synonym>
+<synonym key="PROVINSBANK">
+    <word changeDate="11/04/2019">PROVINSBANKEN</word>
+</synonym>
+<synonym key="PUBLISHING">
+    <word changeDate="11/04/2019">PUBLISHINGS</word>
+</synonym>
+<synonym key="PUEBLO">
+    <word changeDate="11/04/2019">PUEBLOS</word>
+</synonym>
+<synonym key="PUMA">
+    <word changeDate="11/04/2019">PUMAS</word>
+</synonym>
+<synonym key="PURCHASE">
+    <word changeDate="11/04/2019">PURCHASES</word>
+</synonym>
+<synonym key="PURPOSE">
+    <word changeDate="11/04/2019">PURPOSES</word>
+</synonym>
+<synonym key="PYHIMYS">
+    <word changeDate="11/04/2019">SAINT</word>
+    <word changeDate="11/04/2019">SANTA</word>
+    <word changeDate="11/04/2019">SFANT</word>
+    <word changeDate="11/04/2019">ST</word>
+    <word changeDate="11/04/2019">SVAETY</word>
+    <word changeDate="11/04/2019">SVATY</word>
+    <word changeDate="11/04/2019">SZENT</word>
+</synonym>
+<synonym key="PYIGYIDAGUN">
+    <word changeDate="11/04/2019">PYIGYITAGUN</word>
+</synonym>
+<synonym key="PYONGANBUKTO">
+    <word changeDate="11/04/2019">PYONGBUK</word>
+</synonym>
+<synonym key="PYONGANNAMDO">
+    <word changeDate="11/04/2019">PYONGNAM</word>
+</synonym>
+<synonym key="QAISI">
+    <word changeDate="11/04/2019">QAYSI</word>
+</synonym>
+<synonym key="RABBI">
+    <word changeDate="11/04/2019">RABBIS</word>
+</synonym>
+<synonym key="RADIO">
+    <word changeDate="11/04/2019">RADIOS</word>
+</synonym>
+<synonym key="RAHMA">
+    <word changeDate="11/04/2019">RAHMAH</word>
+    <word changeDate="11/04/2019">RAHMEH</word>
+</synonym>
+<synonym key="RAHMAN">
+    <word changeDate="11/04/2019">RAHMEN</word>
+</synonym>
+<synonym key="RAIL">
+    <word changeDate="11/04/2019">RAILS</word>
+</synonym>
+<synonym key="RAILWAY">
+    <word changeDate="11/04/2019">RAILWAYS</word>
+</synonym>
+<synonym key="RAINBOW">
+    <word changeDate="11/04/2019">RAINBOWS</word>
+</synonym>
+<synonym key="RAMAITI">
+    <word changeDate="11/04/2019">RAMAYTI</word>
+    <word changeDate="11/04/2019">RAMEITI</word>
+    <word changeDate="11/04/2019">RAMEYTI</word>
+    <word changeDate="11/04/2019">REMAITY</word>
+    <word changeDate="11/04/2019">REMAYTY</word>
+    <word changeDate="11/04/2019">REMEITY</word>
+    <word changeDate="11/04/2019">REMEYTY</word>
+    <word changeDate="11/04/2019">RMAITEY</word>
+    <word changeDate="11/04/2019">RMAITI</word>
+    <word changeDate="11/04/2019">RMAITTI</word>
+    <word changeDate="11/04/2019">RMAITY</word>
+    <word changeDate="11/04/2019">RMAYTEY</word>
+    <word changeDate="11/04/2019">RMAYTI</word>
+    <word changeDate="11/04/2019">RMAYTTI</word>
+    <word changeDate="11/04/2019">RMAYTY</word>
+    <word changeDate="11/04/2019">RMEITEY</word>
+    <word changeDate="11/04/2019">RMEITI</word>
+    <word changeDate="11/04/2019">RMEITTI</word>
+    <word changeDate="11/04/2019">RMEYTEY</word>
+    <word changeDate="11/04/2019">RMEYTI</word>
+    <word changeDate="11/04/2019">RMEYTTI</word>
+    <word changeDate="11/04/2019">RMEYTY</word>
+    <word changeDate="11/04/2019">ROMAITI</word>
+    <word changeDate="11/04/2019">ROMAYTI</word>
+    <word changeDate="11/04/2019">ROMEITI</word>
+    <word changeDate="11/04/2019">ROMEYTI</word>
+</synonym>
+<synonym key="RAMEN">
+    <word changeDate="11/04/2019">RAMON</word>
+</synonym>
+<synonym key="RAMIRES">
+    <word changeDate="11/04/2019">RAMIREZ</word>
+</synonym>
+<synonym key="RAMOS">
+    <word changeDate="11/04/2019">RAMOZ</word>
+</synonym>
+<synonym key="RAWABA">
+    <word changeDate="11/04/2019">RAWABAH</word>
+    <word changeDate="11/04/2019">RUWABA</word>
+</synonym>
+<synonym key="RD">
+    <word changeDate="11/04/2019">ROAD</word>
+    <word changeDate="11/04/2019">ROADS</word>
+</synonym>
+<synonym key="REBEL">
+    <word changeDate="11/04/2019">REBELS</word>
+</synonym>
+<synonym key="RECORDING">
+    <word changeDate="11/04/2019">RECORDINGS</word>
+</synonym>
+<synonym key="REFINARIES">
+    <word changeDate="11/04/2019">REFINERIA</word>
+    <word changeDate="11/04/2019">REFINERIES</word>
+    <word changeDate="11/04/2019">REFINERY</word>
+</synonym>
+<synonym key="REFORM">
+    <word changeDate="11/04/2019">REFORMS</word>
+    <word changeDate="11/04/2019">REFORMU</word>
+</synonym>
+<synonym key="REFRESHMENT">
+    <word changeDate="11/04/2019">REFRESHMENTS</word>
+</synonym>
+<synonym key="REGIMENT">
+    <word changeDate="11/04/2019">REGIMENTS</word>
+</synonym>
+<synonym key="REGIONAL">
+    <word changeDate="11/04/2019">REGIONALE</word>
+</synonym>
+<synonym key="REINSURANCE">
+    <word changeDate="11/04/2019">REINSURANCES</word>
+</synonym>
+<synonym key="RELATION">
+    <word changeDate="11/04/2019">RELATIONS</word>
+</synonym>
+<synonym key="RENNOVATIONS">
+    <word changeDate="11/04/2019">RENOVATION</word>
+</synonym>
+<synonym key="REPUBLICAN">
+    <word changeDate="11/04/2019">REPUBLICANS</word>
+    <word changeDate="11/04/2019">REPUBLIKANSKA</word>
+</synonym>
+<synonym key="RESERVA">
+    <word changeDate="11/04/2019">RESERVAS</word>
+    <word changeDate="11/04/2019">RESERVE</word>
+</synonym>
+<synonym key="RESOLUTION">
+    <word changeDate="11/04/2019">RESOLUTIONS</word>
+</synonym>
+<synonym key="RESORT">
+    <word changeDate="11/04/2019">RESORTS</word>
+</synonym>
+<synonym key="RESOURCE">
+    <word changeDate="11/04/2019">RESOURCES</word>
+</synonym>
+<synonym key="RESTAURANT">
+    <word changeDate="11/04/2019">RESTAURANTS</word>
+</synonym>
+<synonym key="REVOLUCNI">
+    <word changeDate="11/04/2019">REVOLUTIONARIES</word>
+    <word changeDate="11/04/2019">REVOLUTIONARY</word>
+</synonym>
+<synonym key="REVOLUTION">
+    <word changeDate="11/04/2019">REVOLUTIONS</word>
+</synonym>
+<synonym key="REYES">
+    <word changeDate="11/04/2019">REYEZ</word>
+</synonym>
+<synonym key="RIGHT">
+    <word changeDate="11/04/2019">RIGHTS</word>
+</synonym>
+<synonym key="RIGO">
+    <word changeDate="11/04/2019">RIGOBERTO</word>
+</synonym>
+<synonym key="RISPARMI">
+    <word changeDate="11/04/2019">RISPARMIO</word>
+    <word changeDate="11/04/2019">SAVING</word>
+    <word changeDate="11/04/2019">SAVINGS</word>
+</synonym>
+<synonym key="RIVER">
+    <word changeDate="11/04/2019">RIVERS</word>
+</synonym>
+<synonym key="ROCK">
+    <word changeDate="11/04/2019">ROCKS</word>
+</synonym>
+<synonym key="RODRIGUES">
+    <word changeDate="11/04/2019">RODRIGUEZ</word>
+</synonym>
+<synonym key="ROMA">
+    <word changeDate="11/04/2019">ROME</word>
+</synonym>
+<synonym key="ROMANIA">
+    <word changeDate="11/04/2019">RUMANI</word>
+    <word changeDate="11/04/2019">RUMANIA</word>
+</synonym>
+<synonym key="ROSA">
+    <word changeDate="11/04/2019">ROSALBA</word>
+</synonym>
+<synonym key="ROSARIA">
+    <word changeDate="11/04/2019">ROSARIO</word>
+    <word changeDate="11/04/2019">ROZARIO</word>
+</synonym>
+<synonym key="ROSHCHINSKIY">
+    <word changeDate="11/04/2019">ROSHCHINSKY</word>
+</synonym>
+<synonym key="ROWANDA">
+    <word changeDate="11/04/2019">RUANDA</word>
+    <word changeDate="11/04/2019">RWANDA</word>
+</synonym>
+<synonym key="ROYAL">
+    <word changeDate="11/04/2019">ROYALE</word>
+    <word changeDate="11/04/2019">ROYALS</word>
+</synonym>
+<synonym key="RUE">
+    <word changeDate="11/04/2019">STREET</word>
+</synonym>
+<synonym key="RUSIA">
+    <word changeDate="11/04/2019">RUSLAND</word>
+    <word changeDate="11/04/2019">RUSSIA</word>
+    <word changeDate="11/04/2019">RUSSIAN</word>
+    <word changeDate="11/04/2019">RUSSIE</word>
+    <word changeDate="11/04/2019">RUSSLAND</word>
+</synonym>
+<synonym key="SADAM">
+    <word changeDate="11/04/2019">SADDAM</word>
+    <word changeDate="11/04/2019">SUDDAM</word>
+</synonym>
+<synonym key="SAEED">
+    <word changeDate="11/04/2019">SAID</word>
+    <word changeDate="11/04/2019">SAIID</word>
+    <word changeDate="11/04/2019">SAJJD</word>
+    <word changeDate="11/04/2019">SAYEED</word>
+</synonym>
+<synonym key="SAHPUR">
+    <word changeDate="11/04/2019">SHALPUR</word>
+</synonym>
+<synonym key="SAIF">
+    <word changeDate="11/04/2019">SAYF</word>
+</synonym>
+<synonym key="SAIYID">
+    <word changeDate="11/04/2019">SAIYYID</word>
+    <word changeDate="11/04/2019">SAYED</word>
+    <word changeDate="11/04/2019">SAYID</word>
+    <word changeDate="11/04/2019">SAYYAD</word>
+    <word changeDate="11/04/2019">SAYYED</word>
+    <word changeDate="11/04/2019">SAYYID</word>
+    <word changeDate="11/04/2019">SEYID</word>
+    <word changeDate="11/04/2019">SEYYED</word>
+    <word changeDate="11/04/2019">SEYYID</word>
+    <word changeDate="11/04/2019">SIYYID</word>
+    <word changeDate="11/04/2019">SYED</word>
+</synonym>
+<synonym key="SAKAI">
+    <word changeDate="11/04/2019">SAKI</word>
+    <word changeDate="11/04/2019">SAKO</word>
+    <word changeDate="11/04/2019">SAKY</word>
+    <word changeDate="11/04/2019">SSAKI</word>
+    <word changeDate="11/04/2019">SZAKI</word>
+</synonym>
+<synonym key="SAKHID">
+    <word changeDate="11/04/2019">ZAHID</word>
+    <word changeDate="11/04/2019">ZAHIR</word>
+    <word changeDate="11/04/2019">ZAKHID</word>
+</synonym>
+<synonym key="SALE">
+    <word changeDate="11/04/2019">SALES</word>
+</synonym>
+<synonym key="SALEH">
+    <word changeDate="11/04/2019">SALIH</word>
+</synonym>
+<synonym key="SALEM">
+    <word changeDate="11/04/2019">SALIM</word>
+</synonym>
+<synonym key="SALON">
+    <word changeDate="11/04/2019">SALONS</word>
+</synonym>
+<synonym key="SALTANATABAD">
+    <word changeDate="11/04/2019">SULTANATABAH</word>
+</synonym>
+<synonym key="SANCHES">
+    <word changeDate="11/04/2019">SANCHEZ</word>
+</synonym>
+<synonym key="SANTIAGO">
+    <word changeDate="11/04/2019">SANTJAGO</word>
+    <word changeDate="11/04/2019">SANTYAGO</word>
+</synonym>
+<synonym key="SAOUDITE">
+    <word changeDate="11/04/2019">SAUDI</word>
+    <word changeDate="11/04/2019">SAUDITA</word>
+</synonym>
+<synonym key="SAREPOLE">
+    <word changeDate="11/04/2019">SARPOL</word>
+    <word changeDate="11/04/2019">SARPOLE</word>
+    <word changeDate="11/04/2019">SARPOLI</word>
+    <word changeDate="11/04/2019">SERPOLI</word>
+</synonym>
+<synonym key="SAUCE">
+    <word changeDate="11/04/2019">SAUCES</word>
+</synonym>
+<synonym key="SCANDINAVE">
+    <word changeDate="11/04/2019">SCANDINAVIA</word>
+</synonym>
+<synonym key="SCHAFFHAUSER">
+    <word changeDate="11/04/2019">SCHAFFHOUSE</word>
+</synonym>
+<synonym key="SCHAUMBURG">
+    <word changeDate="11/04/2019">SCHAUMBURGH</word>
+</synonym>
+<synonym key="SCHEME">
+    <word changeDate="11/04/2019">SCHEMES</word>
+</synonym>
+<synonym key="SCHIRAS">
+    <word changeDate="11/04/2019">SHIRAZ</word>
+    <word changeDate="11/04/2019">SIRAZ</word>
+    <word changeDate="11/04/2019">SZIRAZ</word>
+</synonym>
+<synonym key="SCHOLKINE">
+    <word changeDate="11/04/2019">SHCHOLKINE</word>
+    <word changeDate="11/04/2019">SHHOLKINE</word>
+</synonym>
+<synonym key="SCHOOL">
+    <word changeDate="11/04/2019">SCHOOLS</word>
+</synonym>
+<synonym key="SCHWEDEN">
+    <word changeDate="11/04/2019">SVERIGE</word>
+    <word changeDate="11/04/2019">SVERIGES</word>
+    <word changeDate="11/04/2019">SVEZIA</word>
+    <word changeDate="11/04/2019">SWEDEN</word>
+    <word changeDate="11/04/2019">ZWEDEN</word>
+</synonym>
+<synonym key="SCIENCE">
+    <word changeDate="11/04/2019">SCIENCES</word>
+</synonym>
+<synonym key="SCORE">
+    <word changeDate="11/04/2019">SCORES</word>
+</synonym>
+<synonym key="SEA">
+    <word changeDate="11/04/2019">SEAS</word>
+</synonym>
+<synonym key="SEAFOOD">
+    <word changeDate="11/04/2019">SEAFOODS</word>
+</synonym>
+<synonym key="SEAGRAM">
+    <word changeDate="11/04/2019">SEAGRAMS</word>
+</synonym>
+<synonym key="SECURITIES">
+    <word changeDate="11/04/2019">SECURITY</word>
+</synonym>
+<synonym key="SEED">
+    <word changeDate="11/04/2019">SEEDS</word>
+</synonym>
+<synonym key="SEJK">
+    <word changeDate="11/04/2019">SHAIKH</word>
+    <word changeDate="11/04/2019">SHAYKH</word>
+    <word changeDate="11/04/2019">SHEIHK</word>
+    <word changeDate="11/04/2019">SHEIK</word>
+    <word changeDate="11/04/2019">SHEIKH</word>
+    <word changeDate="11/04/2019">SHEJJKH</word>
+    <word changeDate="11/04/2019">SHEYH</word>
+</synonym>
+<synonym key="SEMMAN">
+    <word changeDate="11/04/2019">SEMNAN</word>
+</synonym>
+<synonym key="SEMPIONE">
+    <word changeDate="11/04/2019">SIMPLON</word>
+</synonym>
+<synonym key="SENNOR">
+    <word changeDate="11/04/2019">SENOR</word>
+</synonym>
+<synonym key="SERBIA">
+    <word changeDate="11/04/2019">SRBIJE</word>
+</synonym>
+<synonym key="SERV">
+    <word changeDate="11/04/2019">SERVICE</word>
+    <word changeDate="11/04/2019">SERVICES</word>
+    <word changeDate="11/04/2019">SERVICIO</word>
+    <word changeDate="11/04/2019">SERVICIOS</word>
+    <word changeDate="11/04/2019">SERVICOS</word>
+</synonym>
+<synonym key="SEWING">
+    <word changeDate="11/04/2019">SEWINGS</word>
+</synonym>
+<synonym key="SHAQAQI">
+    <word changeDate="11/04/2019">SHIQAQI</word>
+</synonym>
+<synonym key="SHENTOM">
+    <word changeDate="11/04/2019">SHENTON</word>
+</synonym>
+<synonym key="SHIPPING">
+    <word changeDate="11/04/2019">SHIPPINGS</word>
+</synonym>
+<synonym key="SHOE">
+    <word changeDate="11/04/2019">SHOES</word>
+</synonym>
+<synonym key="SHOP">
+    <word changeDate="11/04/2019">SHOPS</word>
+</synonym>
+<synonym key="SHORE">
+    <word changeDate="11/04/2019">SHORES</word>
+</synonym>
+<synonym key="SHOVHALOV">
+    <word changeDate="11/04/2019">SHOVKHALOV</word>
+</synonym>
+<synonym key="SHOWPLACE">
+    <word changeDate="11/04/2019">SHOWPLACES</word>
+</synonym>
+<synonym key="SHUSHENSKOE">
+    <word changeDate="11/04/2019">SHUSHENSKOYE</word>
+</synonym>
+<synonym key="SILHOUETTE">
+    <word changeDate="11/04/2019">SILHOUETTES</word>
+</synonym>
+<synonym key="SILK">
+    <word changeDate="11/04/2019">SILKS</word>
+</synonym>
+<synonym key="SILO">
+    <word changeDate="11/04/2019">SILOS</word>
+</synonym>
+<synonym key="SIMAM">
+    <word changeDate="11/04/2019">SIMAN</word>
+</synonym>
+<synonym key="SIN">
+    <word changeDate="11/04/2019">SINS</word>
+</synonym>
+<synonym key="SINAJDSCHU">
+    <word changeDate="11/04/2019">SINAJTSCHSCHU</word>
+    <word changeDate="11/04/2019">SINAYCHZHU</word>
+    <word changeDate="11/04/2019">SINAYDZHU</word>
+    <word changeDate="11/04/2019">SINIDZU</word>
+    <word changeDate="11/04/2019">SINUIJU</word>
+    <word changeDate="11/04/2019">SINYICHZHU</word>
+    <word changeDate="11/04/2019">SINYIDZHU</word>
+    <word changeDate="11/04/2019">SINYJDSCHU</word>
+    <word changeDate="11/04/2019">SINYJJCHZHU</word>
+    <word changeDate="11/04/2019">SINYJJDZHU</word>
+    <word changeDate="11/04/2019">SINYJTSCHSCHU</word>
+    <word changeDate="11/04/2019">SZINIDZSU</word>
+</synonym>
+<synonym key="SIRIA">
+    <word changeDate="11/04/2019">SIRIIA</word>
+    <word changeDate="11/04/2019">SIRIJA</word>
+    <word changeDate="11/04/2019">SIRIYA</word>
+    <word changeDate="11/04/2019">SYRIA</word>
+    <word changeDate="11/04/2019">SYRIAN</word>
+    <word changeDate="11/04/2019">SYRIANS</word>
+    <word changeDate="11/04/2019">SYRIE</word>
+    <word changeDate="11/04/2019">SYRIEN</word>
+    <word changeDate="11/04/2019">SYRSKA</word>
+    <word changeDate="11/04/2019">SYYRIA</word>
+    <word changeDate="11/04/2019">SZIRIA</word>
+</synonym>
+<synonym key="SITE">
+    <word changeDate="11/04/2019">SITES</word>
+</synonym>
+<synonym key="SKIES">
+    <word changeDate="11/04/2019">SKY</word>
+</synonym>
+<synonym key="SKYLINE">
+    <word changeDate="11/04/2019">SKYLINES</word>
+</synonym>
+<synonym key="SNIPER">
+    <word changeDate="11/04/2019">SNIPERS</word>
+</synonym>
+<synonym key="SOAP">
+    <word changeDate="11/04/2019">SOAPS</word>
+</synonym>
+<synonym key="SOCIALIST">
+    <word changeDate="11/04/2019">SOCIALISTE</word>
+    <word changeDate="11/04/2019">SOCIALISTS</word>
+</synonym>
+<synonym key="SOCIEDA">
+    <word changeDate="11/04/2019">SOCIEDAD</word>
+    <word changeDate="11/04/2019">SOCIEDADE</word>
+    <word changeDate="11/04/2019">SOCIETA</word>
+    <word changeDate="11/04/2019">SOCIETE</word>
+    <word changeDate="11/04/2019">SOCIETIES</word>
+    <word changeDate="11/04/2019">SOCIETY</word>
+</synonym>
+<synonym key="SOCK">
+    <word changeDate="11/04/2019">SOCKS</word>
+</synonym>
+<synonym key="SOHAIL">
+    <word changeDate="11/04/2019">SOHEIL</word>
+</synonym>
+<synonym key="SOLDIER">
+    <word changeDate="11/04/2019">SOLDIERS</word>
+</synonym>
+<synonym key="SOMALI">
+    <word changeDate="11/04/2019">SOMALIISKAYA</word>
+</synonym>
+<synonym key="SOMALIA">
+    <word changeDate="11/04/2019">SOMALIE</word>
+</synonym>
+<synonym key="SOMEH">
+    <word changeDate="11/04/2019">SOWMAEH</word>
+    <word changeDate="11/04/2019">SOWMEE</word>
+</synonym>
+<synonym key="SOUTH">
+    <word changeDate="11/04/2019">SOUTHERN</word>
+    <word changeDate="11/04/2019">SUD</word>
+</synonym>
+<synonym key="SOVFRACHT">
+    <word changeDate="11/04/2019">SOVFRAKHT</word>
+</synonym>
+<synonym key="SPA">
+    <word changeDate="11/04/2019">SPAS</word>
+</synonym>
+<synonym key="SPECIAL">
+    <word changeDate="11/04/2019">SPECIALS</word>
+</synonym>
+<synonym key="SPECIALTIES">
+    <word changeDate="11/04/2019">SPECIALTY</word>
+</synonym>
+<synonym key="SPECTRUM">
+    <word changeDate="11/04/2019">SPECTRUMS</word>
+</synonym>
+<synonym key="SPORT">
+    <word changeDate="11/04/2019">SPORTS</word>
+</synonym>
+<synonym key="SPRING">
+    <word changeDate="11/04/2019">SPRINGS</word>
+</synonym>
+<synonym key="SQUAD">
+    <word changeDate="11/04/2019">SQUADS</word>
+</synonym>
+<synonym key="SQUADRON">
+    <word changeDate="11/04/2019">SQUADRONS</word>
+</synonym>
+<synonym key="SSUDAK">
+    <word changeDate="11/04/2019">SUDAK</word>
+    <word changeDate="11/04/2019">SUDAKO</word>
+</synonym>
+<synonym key="STAATSBANK">
+    <word changeDate="11/04/2019">STATEBANK</word>
+</synonym>
+<synonym key="STANDARD">
+    <word changeDate="11/04/2019">STANDARDS</word>
+</synonym>
+<synonym key="STAR">
+    <word changeDate="11/04/2019">STARS</word>
+</synonym>
+<synonym key="STARIJ">
+    <word changeDate="11/04/2019">STARY</word>
+    <word changeDate="11/04/2019">STARYY</word>
+</synonym>
+<synonym key="STATION">
+    <word changeDate="11/04/2019">STATIONS</word>
+</synonym>
+<synonym key="STEEL">
+    <word changeDate="11/04/2019">STEELS</word>
+</synonym>
+<synonym key="STEP">
+    <word changeDate="11/04/2019">STEPS</word>
+</synonym>
+<synonym key="STEPHEN">
+    <word changeDate="11/04/2019">STEVE</word>
+    <word changeDate="11/04/2019">STEVEN</word>
+</synonym>
+<synonym key="STEREO">
+    <word changeDate="11/04/2019">STEREOS</word>
+</synonym>
+<synonym key="STICHING">
+    <word changeDate="11/04/2019">STICHTING</word>
+    <word changeDate="11/04/2019">STITCHTINGS</word>
+</synonym>
+<synonym key="STOCK">
+    <word changeDate="11/04/2019">STOCKS</word>
+</synonym>
+<synonym key="STONE">
+    <word changeDate="11/04/2019">STONES</word>
+    <word changeDate="11/04/2019">STOOUN</word>
+    <word changeDate="11/04/2019">STOUN</word>
+</synonym>
+<synonym key="STORE">
+    <word changeDate="11/04/2019">STORES</word>
+</synonym>
+<synonym key="STRUGGLE">
+    <word changeDate="11/04/2019">STRUGGLES</word>
+</synonym>
+<synonym key="STUDENT">
+    <word changeDate="11/04/2019">STUDENTS</word>
+</synonym>
+<synonym key="STUDIES">
+    <word changeDate="11/04/2019">STUDY</word>
+</synonym>
+<synonym key="SUBURB">
+    <word changeDate="11/04/2019">SUBURBS</word>
+</synonym>
+<synonym key="SUCCESS">
+    <word changeDate="11/04/2019">SUCCESSES</word>
+</synonym>
+<synonym key="SUGAR">
+    <word changeDate="11/04/2019">SUGARS</word>
+</synonym>
+<synonym key="SUN">
+    <word changeDate="11/04/2019">SUNS</word>
+</synonym>
+<synonym key="SUNSET">
+    <word changeDate="11/04/2019">SUNSETS</word>
+</synonym>
+<synonym key="SUPERIOR">
+    <word changeDate="11/04/2019">SUPERIORS</word>
+</synonym>
+<synonym key="SUPERMARKET">
+    <word changeDate="11/04/2019">SUPERMARKETS</word>
+</synonym>
+<synonym key="SUPERMERCADO">
+    <word changeDate="11/04/2019">SUPERMERCADOS</word>
+</synonym>
+<synonym key="SUPPLIES">
+    <word changeDate="11/04/2019">SUPPLY</word>
+</synonym>
+<synonym key="SUPPORT">
+    <word changeDate="11/04/2019">SUPPORTS</word>
+</synonym>
+<synonym key="SUPPORTER">
+    <word changeDate="11/04/2019">SUPPORTERS</word>
+</synonym>
+<synonym key="SURINAM">
+    <word changeDate="11/04/2019">SURINAME</word>
+</synonym>
+<synonym key="SURVEILLANCE">
+    <word changeDate="11/04/2019">SURVEILLANCES</word>
+</synonym>
+<synonym key="SVENSKA">
+    <word changeDate="11/04/2019">SWEDISH</word>
+</synonym>
+<synonym key="SWAN">
+    <word changeDate="11/04/2019">SWANS</word>
+</synonym>
+<synonym key="SWEET">
+    <word changeDate="11/04/2019">SWEETS</word>
+</synonym>
+<synonym key="SWORD">
+    <word changeDate="11/04/2019">SWORDS</word>
+</synonym>
+<synonym key="SYNDICALE">
+    <word changeDate="11/04/2019">SYNDICATE</word>
+</synonym>
+<synonym key="SYSTEM">
+    <word changeDate="11/04/2019">SYSTEMS</word>
+</synonym>
+<synonym key="TABBARA">
+    <word changeDate="11/04/2019">TABBARAS</word>
+</synonym>
+<synonym key="TABRIS">
+    <word changeDate="11/04/2019">TABRIZ</word>
+    <word changeDate="11/04/2019">TAVRIZ</word>
+    <word changeDate="11/04/2019">TAWRIS</word>
+    <word changeDate="11/04/2019">TEBRIS</word>
+    <word changeDate="11/04/2019">TEBRIZ</word>
+    <word changeDate="11/04/2019">TEBRYZ</word>
+</synonym>
+<synonym key="TADJIKSTAN">
+    <word changeDate="11/04/2019">TAJIKISTAN</word>
+</synonym>
+<synonym key="TAHITI">
+    <word changeDate="11/04/2019">TAHITIA</word>
+</synonym>
+<synonym key="TAKRITI">
+    <word changeDate="11/04/2019">TIKRITI</word>
+</synonym>
+<synonym key="TAMIL">
+    <word changeDate="11/04/2019">TAMILSKEHO</word>
+</synonym>
+<synonym key="TANNERIES">
+    <word changeDate="11/04/2019">TANNERY</word>
+</synonym>
+<synonym key="TAUNDSCHI">
+    <word changeDate="11/04/2019">TAUNDZHI</word>
+    <word changeDate="11/04/2019">TAUNGDZI</word>
+    <word changeDate="11/04/2019">TAUNGGYI</word>
+</synonym>
+<synonym key="TAXI">
+    <word changeDate="11/04/2019">TAXIES</word>
+</synonym>
+<synonym key="TAYLOR">
+    <word changeDate="11/04/2019">TEHJJLOR</word>
+    <word changeDate="11/04/2019">TEILOR</word>
+    <word changeDate="11/04/2019">TEJJLOR</word>
+    <word changeDate="11/04/2019">TEJLAR</word>
+    <word changeDate="11/04/2019">TEJLOR</word>
+    <word changeDate="11/04/2019">TEYLAR</word>
+    <word changeDate="11/04/2019">TEYLOR</word>
+</synonym>
+<synonym key="TAZOVSKIY">
+    <word changeDate="11/04/2019">TAZOVSKY</word>
+</synonym>
+<synonym key="TEA">
+    <word changeDate="11/04/2019">TEAS</word>
+</synonym>
+<synonym key="TEAM">
+    <word changeDate="11/04/2019">TEAMS</word>
+</synonym>
+<synonym key="TECHERAN">
+    <word changeDate="11/04/2019">TEGERAN</word>
+    <word changeDate="11/04/2019">TEGUERAN</word>
+    <word changeDate="11/04/2019">TEHERAN</word>
+    <word changeDate="11/04/2019">TEHRAN</word>
+    <word changeDate="11/04/2019">TEKHERAN</word>
+</synonym>
+<synonym key="TECHNIC">
+    <word changeDate="11/04/2019">TECHNICS</word>
+</synonym>
+<synonym key="TECHNIQUE">
+    <word changeDate="11/04/2019">TECHNIQUES</word>
+</synonym>
+<synonym key="TECHNOLOGIES">
+    <word changeDate="11/04/2019">TECHNOLOGY</word>
+</synonym>
+<synonym key="TECNICO">
+    <word changeDate="11/04/2019">TECNICOS</word>
+</synonym>
+<synonym key="TELCOM">
+    <word changeDate="11/04/2019">TELECOM</word>
+    <word changeDate="11/04/2019">TELECOMM</word>
+    <word changeDate="11/04/2019">TELECOMMUNICATION</word>
+    <word changeDate="11/04/2019">TELECOMMUNICATIONS</word>
+    <word changeDate="11/04/2019">TELECOMUNICACION</word>
+    <word changeDate="11/04/2019">TELECOMUNICACIONES</word>
+    <word changeDate="11/04/2019">TELEKOMMUNIKATSII</word>
+    <word changeDate="11/04/2019">TELEKOMMUNIKATSIYA</word>
+</synonym>
+<synonym key="TELEFONOS">
+    <word changeDate="11/04/2019">TELEPHONE</word>
+    <word changeDate="11/04/2019">TELEPHONES</word>
+</synonym>
+<synonym key="TELEGRAPH">
+    <word changeDate="11/04/2019">TELEGRAPHS</word>
+</synonym>
+<synonym key="TELEVISION">
+    <word changeDate="11/04/2019">TELEVISIONS</word>
+</synonym>
+<synonym key="TEMPLE">
+    <word changeDate="11/04/2019">TEMPLES</word>
+</synonym>
+<synonym key="TENN">
+    <word changeDate="11/04/2019">TENNESSEE</word>
+    <word changeDate="11/04/2019">TN</word>
+</synonym>
+<synonym key="TEQUEDAMA">
+    <word changeDate="11/04/2019">TEQUENDAMA</word>
+</synonym>
+<synonym key="TEQUILA">
+    <word changeDate="11/04/2019">TEQUILAS</word>
+</synonym>
+<synonym key="TERMINAL">
+    <word changeDate="11/04/2019">TERMINALS</word>
+</synonym>
+<synonym key="TERRORIST">
+    <word changeDate="11/04/2019">TERRORISTS</word>
+</synonym>
+<synonym key="TEXAS">
+    <word changeDate="11/04/2019">TX</word>
+</synonym>
+<synonym key="TEXTILE">
+    <word changeDate="11/04/2019">TEXTILES</word>
+</synonym>
+<synonym key="THOMAS">
+    <word changeDate="11/04/2019">TOMAS</word>
+</synonym>
+<synonym key="TIDE">
+    <word changeDate="11/04/2019">TIDES</word>
+</synonym>
+<synonym key="TIENDA">
+    <word changeDate="11/04/2019">TIENDAS</word>
+</synonym>
+<synonym key="TIGER">
+    <word changeDate="11/04/2019">TIGERS</word>
+    <word changeDate="11/04/2019">TYGRI</word>
+</synonym>
+<synonym key="TIMBER">
+    <word changeDate="11/04/2019">TIMBERS</word>
+</synonym>
+<synonym key="TIS">
+    <word changeDate="11/04/2019">TIZ</word>
+</synonym>
+<synonym key="TOBOGAN">
+    <word changeDate="11/04/2019">TOBOGON</word>
+</synonym>
+<synonym key="TOGO">
+    <word changeDate="11/04/2019">TOGOLAISE</word>
+</synonym>
+<synonym key="TOOL">
+    <word changeDate="11/04/2019">TOOLS</word>
+</synonym>
+<synonym key="TORBAT">
+    <word changeDate="11/04/2019">TORBATE</word>
+    <word changeDate="11/04/2019">TURBAT</word>
+    <word changeDate="11/04/2019">TURBATI</word>
+</synonym>
+<synonym key="TORINO">
+    <word changeDate="11/04/2019">TURIN</word>
+    <word changeDate="11/04/2019">TURINO</word>
+</synonym>
+<synonym key="TORRES">
+    <word changeDate="11/04/2019">TORREZ</word>
+</synonym>
+<synonym key="TOSEH">
+    <word changeDate="11/04/2019">TOWSEEH</word>
+    <word changeDate="11/04/2019">TOWSEH</word>
+</synonym>
+<synonym key="TOTAL">
+    <word changeDate="11/04/2019">TOTALS</word>
+</synonym>
+<synonym key="TOUFAILI">
+    <word changeDate="11/04/2019">TUFAYLI</word>
+    <word changeDate="11/04/2019">TUFELLEH</word>
+    <word changeDate="11/04/2019">TUFHAILI</word>
+</synonym>
+<synonym key="TOUR">
+    <word changeDate="11/04/2019">TOURS</word>
+</synonym>
+<synonym key="TOURIST">
+    <word changeDate="11/04/2019">TOURISTIC</word>
+</synonym>
+<synonym key="TOY">
+    <word changeDate="11/04/2019">TOYS</word>
+</synonym>
+<synonym key="TR">
+    <word changeDate="11/04/2019">TRUST</word>
+    <word changeDate="11/04/2019">TRUSTKT</word>
+</synonym>
+<synonym key="TRACTOR">
+    <word changeDate="11/04/2019">TRACTORES</word>
+    <word changeDate="11/04/2019">TRACTORS</word>
+</synonym>
+<synonym key="TRADE">
+    <word changeDate="11/04/2019">TRADES</word>
+</synonym>
+<synonym key="TRADER">
+    <word changeDate="11/04/2019">TRADERS</word>
+</synonym>
+<synonym key="TRADING">
+    <word changeDate="11/04/2019">TREIDING</word>
+</synonym>
+<synonym key="TRAITOR">
+    <word changeDate="11/04/2019">TRAITORS</word>
+</synonym>
+<synonym key="TRAMP">
+    <word changeDate="11/04/2019">TRAMPS</word>
+</synonym>
+<synonym key="TRANSATLANTIC">
+    <word changeDate="11/04/2019">TRANSATLANTICO</word>
+    <word changeDate="11/04/2019">TRANSATLANTIQUE</word>
+</synonym>
+<synonym key="TRANSOOVER">
+    <word changeDate="11/04/2019">TRANSOVER</word>
+</synonym>
+<synonym key="TRANSPORT">
+    <word changeDate="11/04/2019">TRANSPORTS</word>
+</synonym>
+<synonym key="TRANSPORTATION">
+    <word changeDate="11/04/2019">TRANSPORTATIONS</word>
+</synonym>
+<synonym key="TRAVEL">
+    <word changeDate="11/04/2019">TRAVELS</word>
+</synonym>
+<synonym key="TREAS">
+    <word changeDate="11/04/2019">TREASURY</word>
+</synonym>
+<synonym key="TREASURE">
+    <word changeDate="11/04/2019">TREASURES</word>
+</synonym>
+<synonym key="TREND">
+    <word changeDate="11/04/2019">TRENDS</word>
+</synonym>
+<synonym key="TRIOMPHE">
+    <word changeDate="11/04/2019">TRIUMPH</word>
+</synonym>
+<synonym key="TRIPOLI">
+    <word changeDate="11/04/2019">TRIPOLIE</word>
+</synonym>
+<synonym key="TROPIC">
+    <word changeDate="11/04/2019">TROPICS</word>
+</synonym>
+<synonym key="TRUCK">
+    <word changeDate="11/04/2019">TRUCKS</word>
+</synonym>
+<synonym key="TRUTH">
+    <word changeDate="11/04/2019">TRUTHS</word>
+</synonym>
+<synonym key="TSUNAMI">
+    <word changeDate="11/04/2019">TSUNAMIS</word>
+</synonym>
+<synonym key="TULIP">
+    <word changeDate="11/04/2019">TULIPS</word>
+</synonym>
+<synonym key="TULSKIY">
+    <word changeDate="11/04/2019">TULSKY</word>
+</synonym>
+<synonym key="TUNE">
+    <word changeDate="11/04/2019">TUNES</word>
+</synonym>
+<synonym key="TUNESIEN">
+    <word changeDate="11/04/2019">TUNISIA</word>
+    <word changeDate="11/04/2019">TUNISIE</word>
+    <word changeDate="11/04/2019">TUNISO</word>
+</synonym>
+<synonym key="TUNISIAN">
+    <word changeDate="11/04/2019">TUNISIENNE</word>
+</synonym>
+<synonym key="TURCHIA">
+    <word changeDate="11/04/2019">TURKEI</word>
+    <word changeDate="11/04/2019">TURKEY</word>
+    <word changeDate="11/04/2019">TURKIJE</word>
+    <word changeDate="11/04/2019">TURKY</word>
+</synonym>
+<synonym key="TURKESTAN">
+    <word changeDate="11/04/2019">TURKISTAN</word>
+</synonym>
+<synonym key="TURKISH">
+    <word changeDate="11/04/2019">TURKIYE</word>
+    <word changeDate="11/04/2019">TURQUIE</word>
+</synonym>
+<synonym key="TURSUN">
+    <word changeDate="11/04/2019">TURXUN</word>
+</synonym>
+<synonym key="TV">
+    <word changeDate="11/04/2019">TVS</word>
+</synonym>
+<synonym key="UAPQAN">
+    <word changeDate="11/04/2019">YAPUQUAN</word>
+</synonym>
+<synonym key="UCRANIA">
+    <word changeDate="11/04/2019">UKRAINE</word>
+</synonym>
+<synonym key="UM">
+    <word changeDate="11/04/2019">UMM</word>
+</synonym>
+<synonym key="UNIBANCO">
+    <word changeDate="11/04/2019">UNIBANCOS</word>
+    <word changeDate="11/04/2019">UNIONBANK</word>
+</synonym>
+<synonym key="UNIDAS">
+    <word changeDate="11/04/2019">UNIDO</word>
+    <word changeDate="11/04/2019">UNION</word>
+    <word changeDate="11/04/2019">UNIONE</word>
+    <word changeDate="11/04/2019">UNIONS</word>
+</synonym>
+<synonym key="UNIE">
+    <word changeDate="11/04/2019">UNITED</word>
+</synonym>
+<synonym key="UNIT">
+    <word changeDate="11/04/2019">UNITS</word>
+</synonym>
+<synonym key="UNIVER">
+    <word changeDate="11/04/2019">UNIVERSIDAD</word>
+    <word changeDate="11/04/2019">UNIVERSIDADE</word>
+    <word changeDate="11/04/2019">UNIVERSITY</word>
+</synonym>
+<synonym key="UNIVERSAL">
+    <word changeDate="11/04/2019">UNIVERSALES</word>
+</synonym>
+<synonym key="URBAN">
+    <word changeDate="11/04/2019">URBANO</word>
+</synonym>
+<synonym key="URUGUAY">
+    <word changeDate="11/04/2019">URUGUAYO</word>
+</synonym>
+<synonym key="UT">
+    <word changeDate="11/04/2019">UTAH</word>
+</synonym>
+<synonym key="UWAIL">
+    <word changeDate="11/04/2019">UWAYL</word>
+</synonym>
+<synonym key="UZBEKISTAN">
+    <word changeDate="11/04/2019">UZBEKISTANU</word>
+</synonym>
+<synonym key="VA">
+    <word changeDate="11/04/2019">VIRGINIA</word>
+</synonym>
+<synonym key="VACATION">
+    <word changeDate="11/04/2019">VACATIONS</word>
+</synonym>
+<synonym key="VAD">
+    <word changeDate="11/04/2019">WAD</word>
+</synonym>
+<synonym key="VAHAB">
+    <word changeDate="11/04/2019">VAKHAB</word>
+    <word changeDate="11/04/2019">WACHAB</word>
+    <word changeDate="11/04/2019">WAHAB</word>
+    <word changeDate="11/04/2019">WAHHAB</word>
+</synonym>
+<synonym key="VAHITOVICH">
+    <word changeDate="11/04/2019">VAKHITOVICH</word>
+</synonym>
+<synonym key="VALFAJR">
+    <word changeDate="11/04/2019">VALFAJRE</word>
+</synonym>
+<synonym key="VARGAS">
+    <word changeDate="11/04/2019">VARGAZ</word>
+</synonym>
+<synonym key="VASQUES">
+    <word changeDate="11/04/2019">VASQUEZ</word>
+</synonym>
+<synonym key="VEGETABLE">
+    <word changeDate="11/04/2019">VEGETABLES</word>
+</synonym>
+<synonym key="VENEZIA">
+    <word changeDate="11/04/2019">VENICE</word>
+</synonym>
+<synonym key="VENEZOLANA">
+    <word changeDate="11/04/2019">VENEZOLANOS</word>
+    <word changeDate="11/04/2019">VENEZOLOANA</word>
+    <word changeDate="11/04/2019">VENEZUELAN</word>
+    <word changeDate="11/04/2019">VENEZUELANA</word>
+</synonym>
+<synonym key="VENEZUELA">
+    <word changeDate="11/04/2019">VENUZUELA</word>
+</synonym>
+<synonym key="VENTURE">
+    <word changeDate="11/04/2019">VENTURES</word>
+    <word changeDate="11/04/2019">VENTUROSA</word>
+</synonym>
+<synonym key="VERELDKHALP">
+    <word changeDate="11/04/2019">WERELDHULP</word>
+</synonym>
+<synonym key="VERKHNEYARKEEVO">
+    <word changeDate="11/04/2019">VERKHNEYARKEYEVO</word>
+</synonym>
+<synonym key="VERMONT">
+    <word changeDate="11/04/2019">VT</word>
+</synonym>
+<synonym key="VEST">
+    <word changeDate="11/04/2019">VESTS</word>
+</synonym>
+<synonym key="VIAL">
+    <word changeDate="11/04/2019">VIALS</word>
+</synonym>
+<synonym key="VIDYAEVO">
+    <word changeDate="11/04/2019">VIDYAYEVO</word>
+</synonym>
+<synonym key="VIENNA">
+    <word changeDate="11/04/2019">WIEN</word>
+</synonym>
+<synonym key="VILLA">
+    <word changeDate="11/04/2019">VILLAS</word>
+</synonym>
+<synonym key="VIRGIN">
+    <word changeDate="11/04/2019">VIRGINS</word>
+</synonym>
+<synonym key="VISHAN">
+    <word changeDate="11/04/2019">VISKHAN</word>
+</synonym>
+<synonym key="VISUAL">
+    <word changeDate="11/04/2019">VISUALS</word>
+</synonym>
+<synonym key="VITAL">
+    <word changeDate="11/04/2019">VITALS</word>
+</synonym>
+<synonym key="VOICE">
+    <word changeDate="11/04/2019">VOICES</word>
+</synonym>
+<synonym key="VOJVODANSKA">
+    <word changeDate="11/04/2019">VOJVODJANSKA</word>
+    <word changeDate="11/04/2019">VOJVODJANSKE</word>
+</synonym>
+<synonym key="VOLKSBANK">
+    <word changeDate="11/04/2019">VOLKSBANKEN</word>
+</synonym>
+<synonym key="VOLTA">
+    <word changeDate="11/04/2019">VOLTAS</word>
+</synonym>
+<synonym key="VOLUNTEER">
+    <word changeDate="11/04/2019">VOLUNTEERS</word>
+</synonym>
+<synonym key="VONSAN">
+    <word changeDate="11/04/2019">VONSZAN</word>
+    <word changeDate="11/04/2019">WONSAN</word>
+</synonym>
+<synonym key="WA">
+    <word changeDate="11/04/2019">WASH</word>
+    <word changeDate="11/04/2019">WASHINGTON</word>
+</synonym>
+<synonym key="WANG">
+    <word changeDate="11/04/2019">WONG</word>
+</synonym>
+<synonym key="WAR">
+    <word changeDate="11/04/2019">WARS</word>
+</synonym>
+<synonym key="WARRIOR">
+    <word changeDate="11/04/2019">WARRIORS</word>
+</synonym>
+<synonym key="WARSAW">
+    <word changeDate="11/04/2019">WARSZAWA</word>
+</synonym>
+<synonym key="WATER">
+    <word changeDate="11/04/2019">WATERS</word>
+</synonym>
+<synonym key="WAY">
+    <word changeDate="11/04/2019">WAYS</word>
+</synonym>
+<synonym key="WELL">
+    <word changeDate="11/04/2019">WELLS</word>
+</synonym>
+<synonym key="WHALE">
+    <word changeDate="11/04/2019">WHALES</word>
+</synonym>
+<synonym key="WI">
+    <word changeDate="11/04/2019">WIS</word>
+    <word changeDate="11/04/2019">WISCONSIN</word>
+</synonym>
+<synonym key="WIND">
+    <word changeDate="11/04/2019">WINDS</word>
+</synonym>
+<synonym key="WING">
+    <word changeDate="11/04/2019">WINGS</word>
+</synonym>
+<synonym key="WOOD">
+    <word changeDate="11/04/2019">WOODS</word>
+</synonym>
+<synonym key="WOOLEN">
+    <word changeDate="11/04/2019">WOOLLEN</word>
+</synonym>
+<synonym key="WORK">
+    <word changeDate="11/04/2019">WORKS</word>
+</synonym>
+<synonym key="WY">
+    <word changeDate="11/04/2019">WYOMING</word>
+</synonym>
+<synonym key="YAFEI">
+    <word changeDate="11/04/2019">YAFI</word>
+    <word changeDate="11/04/2019">YAFII</word>
+    <word changeDate="11/04/2019">YAFIL</word>
+</synonym>
+<synonym key="YAGODNOE">
+    <word changeDate="11/04/2019">YAGODNOYE</word>
+</synonym>
+<synonym key="YASIN">
+    <word changeDate="11/04/2019">YASSIN</word>
+</synonym>
+<synonym key="YEAR">
+    <word changeDate="11/04/2019">YR</word>
+</synonym>
+<synonym key="YOUSAF">
+    <word changeDate="11/04/2019">YOUSEF</word>
+    <word changeDate="11/04/2019">YOUSSEF</word>
+</synonym>
+<synonym key="YOUTH">
+    <word changeDate="11/04/2019">YOUTHS</word>
+</synonym>
+<synonym key="YUC">
+    <word changeDate="11/04/2019">YUCATAN</word>
+</synonym>
+<synonym key="ZAEEF">
+    <word changeDate="11/04/2019">ZAIEF</word>
+</synonym>
+<synonym key="ZAHAB">
+    <word changeDate="11/04/2019">ZEHAB</word>
+</synonym>
+<synonym key="ZAIGRAEVO">
+    <word changeDate="11/04/2019">ZAIGRAYEVO</word>
+</synonym>
+<synonym key="ZARAGOZA">
+    <word changeDate="11/04/2019">ZARAGOZANO</word>
+</synonym>
+<synonym key="ZEURICH">
+    <word changeDate="11/04/2019">ZUERICH</word>
+    <word changeDate="11/04/2019">ZURCHER</word>
+    <word changeDate="11/04/2019">ZURICH</word>
+</synonym>
+<synonym key="ZHIGULEVSK">
+    <word changeDate="11/04/2019">ZHIGULYOVSK</word>
+</synonym>
+<synonym key="ZHUKOVSKIY">
+    <word changeDate="11/04/2019">ZHUKOVSKY</word>
+</synonym>
+<synonym key="ZONE">
+    <word changeDate="11/04/2019">ZONES</word>
+</synonym>
+<synonym key="ZUARA">
+    <word changeDate="11/04/2019">ZUWARAH</word>
+</synonym>
+</synonyms>
+</gwl>

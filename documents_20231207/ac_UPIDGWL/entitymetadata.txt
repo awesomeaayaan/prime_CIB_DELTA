@@ -1,0 +1,25 @@
+NAME=entity/name
+NAME=entity/aliases/alias
+NAME=entity/nativeCharNames/nativeCharName
+DOB=entity/dobs/dob
+DOB=entity/dobs/dob/@Y
+COUNTRY=entity/addresses/address/country
+COUNTRY=entity/addresses/address/countryName
+COUNTRY=entity/nationalities/nationality
+COUNTRY=entity/nationalities/nationality/@ctryCode
+COUNTRY=entity/citizenships/citizenship
+COUNTRY=entity/citizenships/citizenship/@ctryCode
+ID=entity/routingCodes/routingCode
+ID=entity/ids/id
+SWIFT=entity/routingCodes/routingCode[@type="SWIFT"]
+BIC=entity/routingCodes/routingCode[@type="BIC"]
+PASSPORT=entity/ids/id[@type="Passport"]
+SSN=entity/ids/id[@type="SSN"]
+USFEIN=entity/ids/id[@type="US FEIN"]
+RFC=entity/ids/id[@type="R.F.C."]
+NATIONALNO=entity/ids/id[@type="NATIONAL NO"]
+DLN=entity/ids/id[@type="DRIVER'S LICENSE NUMBER"]
+ITALIANFISCCODE=entity/ids/id[@type="Italian_Fiscal_Code"]
+VATNO=entity/ids/id[@type="VAT NO."]
+NIT=entity/ids/id[@type="NIT #"]
+CEDULANO=entity/ids/id[@type="CEDULA NO"]

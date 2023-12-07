@@ -1,0 +1,3468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gwl>
+<version>20231129091910</version>
+<language name="Chinese">
+    <synonyms syn_set_code="DEFAULT">
+        <synonym key="七台河">
+            <word changeDate="11/28/2016">七台河市</word>
+        </synonym>
+        <synonym key="万宁">
+            <word changeDate="11/28/2016">万宁市</word>
+        </synonym>
+        <synonym key="万源">
+            <word changeDate="11/28/2016">万源市</word>
+        </synonym>
+        <synonym key="三亚">
+            <word changeDate="11/28/2016">三亚市</word>
+        </synonym>
+        <synonym key="三亞">
+            <word changeDate="11/28/2016">三亞市</word>
+        </synonym>
+        <synonym key="三明">
+            <word changeDate="11/28/2016">三明市</word>
+        </synonym>
+        <synonym key="三河">
+            <word changeDate="11/28/2016">三河市</word>
+        </synonym>
+        <synonym key="三門峽">
+            <word changeDate="11/28/2016">三門峽市</word>
+        </synonym>
+        <synonym key="三门峡">
+            <word changeDate="11/28/2016">三门峡市</word>
+        </synonym>
+        <synonym key="上海">
+            <word changeDate="11/28/2016">上海市</word>
+        </synonym>
+        <synonym key="上虞">
+            <word changeDate="11/28/2016">上虞市</word>
+        </synonym>
+        <synonym key="上饒">
+            <word changeDate="11/28/2016">上饒市</word>
+        </synonym>
+        <synonym key="上饶">
+            <word changeDate="11/28/2016">上饶市</word>
+        </synonym>
+        <synonym key="东兴">
+            <word changeDate="11/28/2016">东兴市</word>
+        </synonym>
+        <synonym key="东台">
+            <word changeDate="11/28/2016">东台市</word>
+        </synonym>
+        <synonym key="东方">
+            <word changeDate="11/28/2016">东方市</word>
+        </synonym>
+        <synonym key="东港">
+            <word changeDate="11/28/2016">东港市</word>
+        </synonym>
+        <synonym key="东莞">
+            <word changeDate="11/28/2016">东莞市</word>
+        </synonym>
+        <synonym key="东营">
+            <word changeDate="11/28/2016">东营市</word>
+        </synonym>
+        <synonym key="东阳">
+            <word changeDate="11/28/2016">东阳市</word>
+        </synonym>
+        <synonym key="个旧">
+            <word changeDate="11/28/2016">个旧市</word>
+        </synonym>
+        <synonym key="中卫">
+            <word changeDate="11/28/2016">中卫市</word>
+        </synonym>
+        <synonym key="中山">
+            <word changeDate="11/28/2016">中山市</word>
+        </synonym>
+        <synonym key="中衛">
+            <word changeDate="11/28/2016">中衛市</word>
+        </synonym>
+        <synonym key="丰城">
+            <word changeDate="11/28/2016">丰城市</word>
+        </synonym>
+        <synonym key="丰镇">
+            <word changeDate="11/28/2016">丰镇市</word>
+        </synonym>
+        <synonym key="临夏">
+            <word changeDate="11/28/2016">临夏市</word>
+        </synonym>
+        <synonym key="临安">
+            <word changeDate="11/28/2016">临安市</word>
+        </synonym>
+        <synonym key="临江">
+            <word changeDate="11/28/2016">临江市</word>
+        </synonym>
+        <synonym key="临汾">
+            <word changeDate="11/28/2016">临汾市</word>
+        </synonym>
+        <synonym key="临沂">
+            <word changeDate="11/28/2016">临沂市</word>
+        </synonym>
+        <synonym key="临沧">
+            <word changeDate="11/28/2016">临沧市</word>
+        </synonym>
+        <synonym key="临海">
+            <word changeDate="11/28/2016">临海市</word>
+        </synonym>
+        <synonym key="临清">
+            <word changeDate="11/28/2016">临清市</word>
+        </synonym>
+        <synonym key="临湘">
+            <word changeDate="11/28/2016">临湘市</word>
+        </synonym>
+        <synonym key="丹东">
+            <word changeDate="11/28/2016">丹东市</word>
+        </synonym>
+        <synonym key="丹東">
+            <word changeDate="11/28/2016">丹東市</word>
+        </synonym>
+        <synonym key="丹江口">
+            <word changeDate="11/28/2016">丹江口市</word>
+        </synonym>
+        <synonym key="丹阳">
+            <word changeDate="11/28/2016">丹阳市</word>
+        </synonym>
+        <synonym key="丹陽">
+            <word changeDate="11/28/2016">丹陽市</word>
+        </synonym>
+        <synonym key="丽水">
+            <word changeDate="11/28/2016">丽水市</word>
+        </synonym>
+        <synonym key="丽江">
+            <word changeDate="11/28/2016">丽江市</word>
+        </synonym>
+        <synonym key="义乌">
+            <word changeDate="11/28/2016">义乌市</word>
+        </synonym>
+        <synonym key="义马">
+            <word changeDate="11/28/2016">义马市</word>
+        </synonym>
+        <synonym key="乌兰察布">
+            <word changeDate="11/28/2016">乌兰察布市</word>
+        </synonym>
+        <synonym key="乌兰浩特">
+            <word changeDate="11/28/2016">乌兰浩特市</word>
+        </synonym>
+        <synonym key="乌海">
+            <word changeDate="11/28/2016">乌海市</word>
+        </synonym>
+        <synonym key="乌苏">
+            <word changeDate="11/28/2016">乌苏市</word>
+        </synonym>
+        <synonym key="乌鲁木齐">
+            <word changeDate="11/28/2016">乌鲁木齐市</word>
+        </synonym>
+        <synonym key="乐山">
+            <word changeDate="11/28/2016">乐山市</word>
+        </synonym>
+        <synonym key="乐平">
+            <word changeDate="11/28/2016">乐平市</word>
+        </synonym>
+        <synonym key="乐昌">
+            <word changeDate="11/28/2016">乐昌市</word>
+        </synonym>
+        <synonym key="乐清">
+            <word changeDate="11/28/2016">乐清市</word>
+        </synonym>
+        <synonym key="乐陵">
+            <word changeDate="11/28/2016">乐陵市</word>
+        </synonym>
+        <synonym key="九台">
+            <word changeDate="11/28/2016">九台市</word>
+        </synonym>
+        <synonym key="九江">
+            <word changeDate="11/28/2016">九江市</word>
+        </synonym>
+        <synonym key="乳山">
+            <word changeDate="11/28/2016">乳山市</word>
+        </synonym>
+        <synonym key="二连浩特">
+            <word changeDate="11/28/2016">二连浩特市</word>
+        </synonym>
+        <synonym key="二連浩特">
+            <word changeDate="11/28/2016">二連浩特市</word>
+        </synonym>
+        <synonym key="云南">
+            <word changeDate="11/28/2016">云南省</word>
+        </synonym>
+        <synonym key="云浮">
+            <word changeDate="11/28/2016">云浮市</word>
+        </synonym>
+        <synonym key="五大连池">
+            <word changeDate="11/28/2016">五大连池市</word>
+        </synonym>
+        <synonym key="五大連池">
+            <word changeDate="11/28/2016">五大連池市</word>
+        </synonym>
+        <synonym key="五家渠">
+            <word changeDate="11/28/2016">五家渠市</word>
+        </synonym>
+        <synonym key="五常">
+            <word changeDate="11/28/2016">五常市</word>
+        </synonym>
+        <synonym key="五指山">
+            <word changeDate="11/28/2016">五指山市</word>
+        </synonym>
+        <synonym key="亳州">
+            <word changeDate="11/28/2016">亳州市</word>
+        </synonym>
+        <synonym key="什邡">
+            <word changeDate="11/28/2016">什邡市</word>
+        </synonym>
+        <synonym key="仁怀">
+            <word changeDate="11/28/2016">仁怀市</word>
+        </synonym>
+        <synonym key="仁懷">
+            <word changeDate="11/28/2016">仁懷市</word>
+        </synonym>
+        <synonym key="介休">
+            <word changeDate="11/28/2016">介休市</word>
+        </synonym>
+        <synonym key="从化">
+            <word changeDate="11/28/2016">从化市</word>
+        </synonym>
+        <synonym key="仙桃">
+            <word changeDate="11/28/2016">仙桃市</word>
+        </synonym>
+        <synonym key="仪征">
+            <word changeDate="11/28/2016">仪征市</word>
+        </synonym>
+        <synonym key="任丘">
+            <word changeDate="11/28/2016">任丘市</word>
+        </synonym>
+        <synonym key="伊宁">
+            <word changeDate="11/28/2016">伊宁市</word>
+        </synonym>
+        <synonym key="伊寧">
+            <word changeDate="11/28/2016">伊寧市</word>
+        </synonym>
+        <synonym key="伊春">
+            <word changeDate="11/28/2016">伊春市</word>
+        </synonym>
+        <synonym key="余姚">
+            <word changeDate="11/28/2016">余姚市</word>
+        </synonym>
+        <synonym key="佛山">
+            <word changeDate="11/28/2016">佛山市</word>
+        </synonym>
+        <synonym key="佳木斯">
+            <word changeDate="11/28/2016">佳木斯市</word>
+        </synonym>
+        <synonym key="來賓">
+            <word changeDate="11/28/2016">來賓市</word>
+        </synonym>
+        <synonym key="侯馬">
+            <word changeDate="11/28/2016">侯馬市</word>
+        </synonym>
+        <synonym key="侯马">
+            <word changeDate="11/28/2016">侯马市</word>
+        </synonym>
+        <synonym key="保定">
+            <word changeDate="11/28/2016">保定市</word>
+        </synonym>
+        <synonym key="保山">
+            <word changeDate="11/28/2016">保山市</word>
+        </synonym>
+        <synonym key="信宜">
+            <word changeDate="11/28/2016">信宜市</word>
+        </synonym>
+        <synonym key="信用合作社">
+            <word changeDate="11/28/2016">信用社</word>
+        </synonym>
+        <synonym key="信阳">
+            <word changeDate="11/28/2016">信阳市</word>
+        </synonym>
+        <synonym key="信陽">
+            <word changeDate="11/28/2016">信陽市</word>
+        </synonym>
+        <synonym key="偃师">
+            <word changeDate="11/28/2016">偃师市</word>
+        </synonym>
+        <synonym key="偃師">
+            <word changeDate="11/28/2016">偃師市</word>
+        </synonym>
+        <synonym key="儀征">
+            <word changeDate="11/28/2016">儀征市</word>
+        </synonym>
+        <synonym key="儋州">
+            <word changeDate="11/28/2016">儋州市</word>
+        </synonym>
+        <synonym key="克拉玛依">
+            <word changeDate="11/28/2016">克拉玛依市</word>
+        </synonym>
+        <synonym key="克拉瑪依">
+            <word changeDate="11/28/2016">克拉瑪依市</word>
+        </synonym>
+        <synonym key="兖州">
+            <word changeDate="11/28/2016">兖州市</word>
+        </synonym>
+        <synonym key="內江">
+            <word changeDate="11/28/2016">內江市</word>
+        </synonym>
+        <synonym key="內蒙">
+            <word changeDate="11/28/2016">內蒙古</word>
+        </synonym>
+        <synonym key="公主岭">
+            <word changeDate="11/28/2016">公主岭市</word>
+        </synonym>
+        <synonym key="公主嶺">
+            <word changeDate="11/28/2016">公主嶺市</word>
+        </synonym>
+        <synonym key="六安">
+            <word changeDate="11/28/2016">六安市</word>
+        </synonym>
+        <synonym key="六盘水">
+            <word changeDate="11/28/2016">六盘水市</word>
+        </synonym>
+        <synonym key="六盤水">
+            <word changeDate="11/28/2016">六盤水市</word>
+        </synonym>
+        <synonym key="兰州">
+            <word changeDate="11/28/2016">兰州市</word>
+        </synonym>
+        <synonym key="兰溪">
+            <word changeDate="11/28/2016">兰溪市</word>
+        </synonym>
+        <synonym key="兴义">
+            <word changeDate="11/28/2016">兴义市</word>
+        </synonym>
+        <synonym key="兴化">
+            <word changeDate="11/28/2016">兴化市</word>
+        </synonym>
+        <synonym key="兴城">
+            <word changeDate="11/28/2016">兴城市</word>
+        </synonym>
+        <synonym key="兴宁">
+            <word changeDate="11/28/2016">兴宁市</word>
+        </synonym>
+        <synonym key="兴平">
+            <word changeDate="11/28/2016">兴平市</word>
+        </synonym>
+        <synonym key="冀州">
+            <word changeDate="11/28/2016">冀州市</word>
+        </synonym>
+        <synonym key="内江">
+            <word changeDate="11/28/2016">内江市</word>
+        </synonym>
+        <synonym key="内蒙">
+            <word changeDate="11/28/2016">内蒙古</word>
+        </synonym>
+        <synonym key="冷水江">
+            <word changeDate="11/28/2016">冷水江市</word>
+        </synonym>
+        <synonym key="凌海">
+            <word changeDate="11/28/2016">凌海市</word>
+        </synonym>
+        <synonym key="凌源">
+            <word changeDate="11/28/2016">凌源市</word>
+        </synonym>
+        <synonym key="凤城">
+            <word changeDate="11/28/2016">凤城市</word>
+        </synonym>
+        <synonym key="凭祥">
+            <word changeDate="11/28/2016">凭祥市</word>
+        </synonym>
+        <synonym key="凯里">
+            <word changeDate="11/28/2016">凯里市</word>
+        </synonym>
+        <synonym key="凱裏">
+            <word changeDate="11/28/2016">凱裏市</word>
+        </synonym>
+        <synonym key="利川">
+            <word changeDate="11/28/2016">利川市</word>
+        </synonym>
+        <synonym key="包头">
+            <word changeDate="11/28/2016">包头市</word>
+        </synonym>
+        <synonym key="包頭">
+            <word changeDate="11/28/2016">包頭市</word>
+        </synonym>
+        <synonym key="化州">
+            <word changeDate="11/28/2016">化州市</word>
+        </synonym>
+        <synonym key="北京">
+            <word changeDate="11/28/2016">北京市</word>
+        </synonym>
+        <synonym key="北宁">
+            <word changeDate="11/28/2016">北宁市</word>
+        </synonym>
+        <synonym key="北安">
+            <word changeDate="11/28/2016">北安市</word>
+        </synonym>
+        <synonym key="北寧">
+            <word changeDate="11/28/2016">北寧市</word>
+        </synonym>
+        <synonym key="北流">
+            <word changeDate="11/28/2016">北流市</word>
+        </synonym>
+        <synonym key="北海">
+            <word changeDate="11/28/2016">北海市</word>
+        </synonym>
+        <synonym key="北票">
+            <word changeDate="11/28/2016">北票市</word>
+        </synonym>
+        <synonym key="十堰">
+            <word changeDate="11/28/2016">十堰市</word>
+        </synonym>
+        <synonym key="华蓥">
+            <word changeDate="11/28/2016">华蓥市</word>
+        </synonym>
+        <synonym key="华阴">
+            <word changeDate="11/28/2016">华阴市</word>
+        </synonym>
+        <synonym key="南京">
+            <word changeDate="11/28/2016">南京市</word>
+        </synonym>
+        <synonym key="南充">
+            <word changeDate="11/28/2016">南充市</word>
+        </synonym>
+        <synonym key="南宁">
+            <word changeDate="11/28/2016">南宁市</word>
+        </synonym>
+        <synonym key="南安">
+            <word changeDate="11/28/2016">南安市</word>
+        </synonym>
+        <synonym key="南宫">
+            <word changeDate="11/28/2016">南宫市</word>
+        </synonym>
+        <synonym key="南宮">
+            <word changeDate="11/28/2016">南宮市</word>
+        </synonym>
+        <synonym key="南寧">
+            <word changeDate="11/28/2016">南寧市</word>
+        </synonym>
+        <synonym key="南川">
+            <word changeDate="11/28/2016">南川市</word>
+        </synonym>
+        <synonym key="南平">
+            <word changeDate="11/28/2016">南平市</word>
+        </synonym>
+        <synonym key="南康">
+            <word changeDate="11/28/2016">南康市</word>
+        </synonym>
+        <synonym key="南昌">
+            <word changeDate="11/28/2016">南昌市</word>
+        </synonym>
+        <synonym key="南通">
+            <word changeDate="11/28/2016">南通市</word>
+        </synonym>
+        <synonym key="南阳">
+            <word changeDate="11/28/2016">南阳市</word>
+        </synonym>
+        <synonym key="南陽">
+            <word changeDate="11/28/2016">南陽市</word>
+        </synonym>
+        <synonym key="南雄">
+            <word changeDate="11/28/2016">南雄市</word>
+        </synonym>
+        <synonym key="博乐">
+            <word changeDate="11/28/2016">博乐市</word>
+        </synonym>
+        <synonym key="博樂">
+            <word changeDate="11/28/2016">博樂市</word>
+        </synonym>
+        <synonym key="卫辉">
+            <word changeDate="11/28/2016">卫辉市</word>
+        </synonym>
+        <synonym key="即墨">
+            <word changeDate="11/28/2016">即墨市</word>
+        </synonym>
+        <synonym key="原平">
+            <word changeDate="11/28/2016">原平市</word>
+        </synonym>
+        <synonym key="厦门">
+            <word changeDate="11/28/2016">厦门市</word>
+        </synonym>
+        <synonym key="双城">
+            <word changeDate="11/28/2016">双城市</word>
+        </synonym>
+        <synonym key="双辽">
+            <word changeDate="11/28/2016">双辽市</word>
+        </synonym>
+        <synonym key="双鸭山">
+            <word changeDate="11/28/2016">双鸭山市</word>
+        </synonym>
+        <synonym key="古交">
+            <word changeDate="11/28/2016">古交市</word>
+        </synonym>
+        <synonym key="句容">
+            <word changeDate="11/28/2016">句容市</word>
+        </synonym>
+        <synonym key="台山">
+            <word changeDate="11/28/2016">台山市</word>
+        </synonym>
+        <synonym key="台州">
+            <word changeDate="11/28/2016">台州市</word>
+        </synonym>
+        <synonym key="合作">
+            <word changeDate="11/28/2016">合作市</word>
+        </synonym>
+        <synonym key="合山">
+            <word changeDate="11/28/2016">合山市</word>
+        </synonym>
+        <synonym key="合川">
+            <word changeDate="11/28/2016">合川市</word>
+        </synonym>
+        <synonym key="合肥">
+            <word changeDate="11/28/2016">合肥市</word>
+        </synonym>
+        <synonym key="吉安">
+            <word changeDate="11/28/2016">吉安市</word>
+        </synonym>
+        <synonym key="吉林">
+            <word changeDate="11/28/2016">吉林市</word>
+            <word changeDate="11/28/2016">吉林省</word>
+        </synonym>
+        <synonym key="吉首">
+            <word changeDate="11/28/2016">吉首市</word>
+        </synonym>
+        <synonym key="同江">
+            <word changeDate="11/28/2016">同江市</word>
+        </synonym>
+        <synonym key="吐魯番">
+            <word changeDate="11/28/2016">吐魯番市</word>
+        </synonym>
+        <synonym key="吐鲁番">
+            <word changeDate="11/28/2016">吐鲁番市</word>
+        </synonym>
+        <synonym key="吕梁">
+            <word changeDate="11/28/2016">吕梁市</word>
+        </synonym>
+        <synonym key="启东">
+            <word changeDate="11/28/2016">启东市</word>
+        </synonym>
+        <synonym key="吳川">
+            <word changeDate="11/28/2016">吳川市</word>
+        </synonym>
+        <synonym key="吳忠">
+            <word changeDate="11/28/2016">吳忠市</word>
+        </synonym>
+        <synonym key="吳江">
+            <word changeDate="11/28/2016">吳江市</word>
+        </synonym>
+        <synonym key="吴川">
+            <word changeDate="11/28/2016">吴川市</word>
+        </synonym>
+        <synonym key="吴忠">
+            <word changeDate="11/28/2016">吴忠市</word>
+        </synonym>
+        <synonym key="吴江">
+            <word changeDate="11/28/2016">吴江市</word>
+        </synonym>
+        <synonym key="呂梁">
+            <word changeDate="11/28/2016">呂梁市</word>
+        </synonym>
+        <synonym key="周口">
+            <word changeDate="11/28/2016">周口市</word>
+        </synonym>
+        <synonym key="呼伦贝尔">
+            <word changeDate="11/28/2016">呼伦贝尔市</word>
+        </synonym>
+        <synonym key="呼倫貝爾">
+            <word changeDate="11/28/2016">呼倫貝爾市</word>
+        </synonym>
+        <synonym key="呼和浩特">
+            <word changeDate="11/28/2016">呼和浩特市</word>
+        </synonym>
+        <synonym key="和田">
+            <word changeDate="11/28/2016">和田市</word>
+        </synonym>
+        <synonym key="和龍">
+            <word changeDate="11/28/2016">和龍市</word>
+        </synonym>
+        <synonym key="和龙">
+            <word changeDate="11/28/2016">和龙市</word>
+        </synonym>
+        <synonym key="咸宁">
+            <word changeDate="11/28/2016">咸宁市</word>
+        </synonym>
+        <synonym key="咸寧">
+            <word changeDate="11/28/2016">咸寧市</word>
+        </synonym>
+        <synonym key="咸阳">
+            <word changeDate="11/28/2016">咸阳市</word>
+        </synonym>
+        <synonym key="咸陽">
+            <word changeDate="11/28/2016">咸陽市</word>
+        </synonym>
+        <synonym key="哈密">
+            <word changeDate="11/28/2016">哈密市</word>
+        </synonym>
+        <synonym key="哈尔滨">
+            <word changeDate="11/28/2016">哈尔滨市</word>
+        </synonym>
+        <synonym key="哈爾濱">
+            <word changeDate="11/28/2016">哈爾濱市</word>
+        </synonym>
+        <synonym key="唐山">
+            <word changeDate="11/28/2016">唐山市</word>
+        </synonym>
+        <synonym key="商丘">
+            <word changeDate="11/28/2016">商丘市</word>
+        </synonym>
+        <synonym key="商洛">
+            <word changeDate="11/28/2016">商洛市</word>
+        </synonym>
+        <synonym key="啓東">
+            <word changeDate="11/28/2016">啓東市</word>
+        </synonym>
+        <synonym key="喀什">
+            <word changeDate="11/28/2016">喀什市</word>
+        </synonym>
+        <synonym key="嘉兴">
+            <word changeDate="11/28/2016">嘉兴市</word>
+        </synonym>
+        <synonym key="嘉峪关">
+            <word changeDate="11/28/2016">嘉峪关市</word>
+        </synonym>
+        <synonym key="嘉峪關">
+            <word changeDate="11/28/2016">嘉峪關市</word>
+        </synonym>
+        <synonym key="嘉興">
+            <word changeDate="11/28/2016">嘉興市</word>
+        </synonym>
+        <synonym key="四会">
+            <word changeDate="11/28/2016">四会市</word>
+        </synonym>
+        <synonym key="四川">
+            <word changeDate="11/28/2016">四川省</word>
+        </synonym>
+        <synonym key="四平">
+            <word changeDate="11/28/2016">四平市</word>
+        </synonym>
+        <synonym key="四會">
+            <word changeDate="11/28/2016">四會市</word>
+        </synonym>
+        <synonym key="固原">
+            <word changeDate="11/28/2016">固原市</word>
+        </synonym>
+        <synonym key="图们">
+            <word changeDate="11/28/2016">图们市</word>
+        </synonym>
+        <synonym key="图木舒克">
+            <word changeDate="11/28/2016">图木舒克市</word>
+        </synonym>
+        <synonym key="圖們">
+            <word changeDate="11/28/2016">圖們市</word>
+        </synonym>
+        <synonym key="圖木舒克">
+            <word changeDate="11/28/2016">圖木舒克市</word>
+        </synonym>
+        <synonym key="塔城">
+            <word changeDate="11/28/2016">塔城市</word>
+        </synonym>
+        <synonym key="增城">
+            <word changeDate="11/28/2016">增城市</word>
+        </synonym>
+        <synonym key="壽光">
+            <word changeDate="11/28/2016">壽光市</word>
+        </synonym>
+        <synonym key="大丰">
+            <word changeDate="11/28/2016">大丰市</word>
+        </synonym>
+        <synonym key="大冶">
+            <word changeDate="11/28/2016">大冶市</word>
+        </synonym>
+        <synonym key="大同">
+            <word changeDate="11/28/2016">大同市</word>
+        </synonym>
+        <synonym key="大安">
+            <word changeDate="11/28/2016">大安市</word>
+        </synonym>
+        <synonym key="大庆">
+            <word changeDate="11/28/2016">大庆市</word>
+        </synonym>
+        <synonym key="大慶">
+            <word changeDate="11/28/2016">大慶市</word>
+        </synonym>
+        <synonym key="大理">
+            <word changeDate="11/28/2016">大理市</word>
+        </synonym>
+        <synonym key="大石桥">
+            <word changeDate="11/28/2016">大石桥市</word>
+        </synonym>
+        <synonym key="大石橋">
+            <word changeDate="11/28/2016">大石橋市</word>
+        </synonym>
+        <synonym key="大豐">
+            <word changeDate="11/28/2016">大豐市</word>
+        </synonym>
+        <synonym key="大连">
+            <word changeDate="11/28/2016">大连市</word>
+        </synonym>
+        <synonym key="大連">
+            <word changeDate="11/28/2016">大連市</word>
+        </synonym>
+        <synonym key="天水">
+            <word changeDate="11/28/2016">天水市</word>
+        </synonym>
+        <synonym key="天津">
+            <word changeDate="11/28/2016">天津市</word>
+        </synonym>
+        <synonym key="天長">
+            <word changeDate="11/28/2016">天長市</word>
+        </synonym>
+        <synonym key="天长">
+            <word changeDate="11/28/2016">天长市</word>
+        </synonym>
+        <synonym key="天門">
+            <word changeDate="11/28/2016">天門市</word>
+        </synonym>
+        <synonym key="天门">
+            <word changeDate="11/28/2016">天门市</word>
+        </synonym>
+        <synonym key="太仓">
+            <word changeDate="11/28/2016">太仓市</word>
+        </synonym>
+        <synonym key="太倉">
+            <word changeDate="11/28/2016">太倉市</word>
+        </synonym>
+        <synonym key="太原">
+            <word changeDate="11/28/2016">太原市</word>
+        </synonym>
+        <synonym key="奉化">
+            <word changeDate="11/28/2016">奉化市</word>
+        </synonym>
+        <synonym key="奎屯">
+            <word changeDate="11/28/2016">奎屯市</word>
+        </synonym>
+        <synonym key="如皋">
+            <word changeDate="11/28/2016">如皋市</word>
+        </synonym>
+        <synonym key="如臯">
+            <word changeDate="11/28/2016">如臯市</word>
+        </synonym>
+        <synonym key="姜堰">
+            <word changeDate="11/28/2016">姜堰市</word>
+        </synonym>
+        <synonym key="威海">
+            <word changeDate="11/28/2016">威海市</word>
+        </synonym>
+        <synonym key="娄底">
+            <word changeDate="11/28/2016">娄底市</word>
+        </synonym>
+        <synonym key="婁底">
+            <word changeDate="11/28/2016">婁底市</word>
+        </synonym>
+        <synonym key="孝义">
+            <word changeDate="11/28/2016">孝义市</word>
+        </synonym>
+        <synonym key="孝感">
+            <word changeDate="11/28/2016">孝感市</word>
+        </synonym>
+        <synonym key="孝義">
+            <word changeDate="11/28/2016">孝義市</word>
+        </synonym>
+        <synonym key="孟州">
+            <word changeDate="11/28/2016">孟州市</word>
+        </synonym>
+        <synonym key="宁国">
+            <word changeDate="11/28/2016">宁国市</word>
+        </synonym>
+        <synonym key="宁安">
+            <word changeDate="11/28/2016">宁安市</word>
+        </synonym>
+        <synonym key="宁德">
+            <word changeDate="11/28/2016">宁德市</word>
+        </synonym>
+        <synonym key="宁波">
+            <word changeDate="11/28/2016">宁波市</word>
+        </synonym>
+        <synonym key="安丘">
+            <word changeDate="11/28/2016">安丘市</word>
+        </synonym>
+        <synonym key="安国">
+            <word changeDate="11/28/2016">安国市</word>
+        </synonym>
+        <synonym key="安國">
+            <word changeDate="11/28/2016">安國市</word>
+        </synonym>
+        <synonym key="安宁">
+            <word changeDate="11/28/2016">安宁市</word>
+        </synonym>
+        <synonym key="安寧">
+            <word changeDate="11/28/2016">安寧市</word>
+        </synonym>
+        <synonym key="安庆">
+            <word changeDate="11/28/2016">安庆市</word>
+        </synonym>
+        <synonym key="安康">
+            <word changeDate="11/28/2016">安康市</word>
+        </synonym>
+        <synonym key="安徽">
+            <word changeDate="11/28/2016">安徽省</word>
+        </synonym>
+        <synonym key="安慶">
+            <word changeDate="11/28/2016">安慶市</word>
+        </synonym>
+        <synonym key="安达">
+            <word changeDate="11/28/2016">安达市</word>
+        </synonym>
+        <synonym key="安達">
+            <word changeDate="11/28/2016">安達市</word>
+        </synonym>
+        <synonym key="安阳">
+            <word changeDate="11/28/2016">安阳市</word>
+        </synonym>
+        <synonym key="安陆">
+            <word changeDate="11/28/2016">安陆市</word>
+        </synonym>
+        <synonym key="安陸">
+            <word changeDate="11/28/2016">安陸市</word>
+        </synonym>
+        <synonym key="安陽">
+            <word changeDate="11/28/2016">安陽市</word>
+        </synonym>
+        <synonym key="安順">
+            <word changeDate="11/28/2016">安順市</word>
+        </synonym>
+        <synonym key="安顺">
+            <word changeDate="11/28/2016">安顺市</word>
+        </synonym>
+        <synonym key="定州">
+            <word changeDate="11/28/2016">定州市</word>
+        </synonym>
+        <synonym key="定西">
+            <word changeDate="11/28/2016">定西市</word>
+        </synonym>
+        <synonym key="宜兴">
+            <word changeDate="11/28/2016">宜兴市</word>
+        </synonym>
+        <synonym key="宜城">
+            <word changeDate="11/28/2016">宜城市</word>
+        </synonym>
+        <synonym key="宜宾">
+            <word changeDate="11/28/2016">宜宾市</word>
+        </synonym>
+        <synonym key="宜州">
+            <word changeDate="11/28/2016">宜州市</word>
+        </synonym>
+        <synonym key="宜昌">
+            <word changeDate="11/28/2016">宜昌市</word>
+        </synonym>
+        <synonym key="宜春">
+            <word changeDate="11/28/2016">宜春市</word>
+        </synonym>
+        <synonym key="宜興">
+            <word changeDate="11/28/2016">宜興市</word>
+        </synonym>
+        <synonym key="宜賓">
+            <word changeDate="11/28/2016">宜賓市</word>
+        </synonym>
+        <synonym key="宜都">
+            <word changeDate="11/28/2016">宜都市</word>
+        </synonym>
+        <synonym key="宝鸡">
+            <word changeDate="11/28/2016">宝鸡市</word>
+        </synonym>
+        <synonym key="宣城">
+            <word changeDate="11/28/2016">宣城市</word>
+        </synonym>
+        <synonym key="宣威">
+            <word changeDate="11/28/2016">宣威市</word>
+        </synonym>
+        <synonym key="宿州">
+            <word changeDate="11/28/2016">宿州市</word>
+        </synonym>
+        <synonym key="宿迁">
+            <word changeDate="11/28/2016">宿迁市</word>
+        </synonym>
+        <synonym key="宿遷">
+            <word changeDate="11/28/2016">宿遷市</word>
+        </synonym>
+        <synonym key="密山">
+            <word changeDate="11/28/2016">密山市</word>
+        </synonym>
+        <synonym key="富錦">
+            <word changeDate="11/28/2016">富錦市</word>
+        </synonym>
+        <synonym key="富锦">
+            <word changeDate="11/28/2016">富锦市</word>
+        </synonym>
+        <synonym key="富阳">
+            <word changeDate="11/28/2016">富阳市</word>
+        </synonym>
+        <synonym key="富陽">
+            <word changeDate="11/28/2016">富陽市</word>
+        </synonym>
+        <synonym key="寧國">
+            <word changeDate="11/28/2016">寧國市</word>
+        </synonym>
+        <synonym key="寧安">
+            <word changeDate="11/28/2016">寧安市</word>
+        </synonym>
+        <synonym key="寧德">
+            <word changeDate="11/28/2016">寧德市</word>
+        </synonym>
+        <synonym key="寧波">
+            <word changeDate="11/28/2016">寧波市</word>
+        </synonym>
+        <synonym key="寶雞">
+            <word changeDate="11/28/2016">寶雞市</word>
+        </synonym>
+        <synonym key="寿光">
+            <word changeDate="11/28/2016">寿光市</word>
+        </synonym>
+        <synonym key="尚志">
+            <word changeDate="11/28/2016">尚志市</word>
+        </synonym>
+        <synonym key="山东">
+            <word changeDate="11/28/2016">山东省</word>
+        </synonym>
+        <synonym key="山東">
+            <word changeDate="11/28/2016">山東省</word>
+        </synonym>
+        <synonym key="山西">
+            <word changeDate="11/28/2016">山西省</word>
+        </synonym>
+        <synonym key="岑溪">
+            <word changeDate="11/28/2016">岑溪市</word>
+        </synonym>
+        <synonym key="岳阳">
+            <word changeDate="11/28/2016">岳阳市</word>
+        </synonym>
+        <synonym key="岳陽">
+            <word changeDate="11/28/2016">岳陽市</word>
+        </synonym>
+        <synonym key="峨眉山">
+            <word changeDate="11/28/2016">峨眉山市</word>
+        </synonym>
+        <synonym key="崇州">
+            <word changeDate="11/28/2016">崇州市</word>
+        </synonym>
+        <synonym key="崇左">
+            <word changeDate="11/28/2016">崇左市</word>
+        </synonym>
+        <synonym key="嵊州">
+            <word changeDate="11/28/2016">嵊州市</word>
+        </synonym>
+        <synonym key="巢湖">
+            <word changeDate="11/28/2016">巢湖市</word>
+        </synonym>
+        <synonym key="巩义">
+            <word changeDate="11/28/2016">巩义市</word>
+        </synonym>
+        <synonym key="巴中">
+            <word changeDate="11/28/2016">巴中市</word>
+        </synonym>
+        <synonym key="巴彥淖爾">
+            <word changeDate="11/28/2016">巴彥淖爾市</word>
+        </synonym>
+        <synonym key="巴彦淖尔">
+            <word changeDate="11/28/2016">巴彦淖尔市</word>
+        </synonym>
+        <synonym key="常宁">
+            <word changeDate="11/28/2016">常宁市</word>
+        </synonym>
+        <synonym key="常寧">
+            <word changeDate="11/28/2016">常寧市</word>
+        </synonym>
+        <synonym key="常州">
+            <word changeDate="11/28/2016">常州市</word>
+        </synonym>
+        <synonym key="常德">
+            <word changeDate="11/28/2016">常德市</word>
+        </synonym>
+        <synonym key="常熟">
+            <word changeDate="11/28/2016">常熟市</word>
+        </synonym>
+        <synonym key="平凉">
+            <word changeDate="11/28/2016">平凉市</word>
+        </synonym>
+        <synonym key="平度">
+            <word changeDate="11/28/2016">平度市</word>
+        </synonym>
+        <synonym key="平涼">
+            <word changeDate="11/28/2016">平涼市</word>
+        </synonym>
+        <synonym key="平湖">
+            <word changeDate="11/28/2016">平湖市</word>
+        </synonym>
+        <synonym key="平頂山">
+            <word changeDate="11/28/2016">平頂山市</word>
+        </synonym>
+        <synonym key="平顶山">
+            <word changeDate="11/28/2016">平顶山市</word>
+        </synonym>
+        <synonym key="广东">
+            <word changeDate="11/28/2016">广东省</word>
+        </synonym>
+        <synonym key="广元">
+            <word changeDate="11/28/2016">广元市</word>
+        </synonym>
+        <synonym key="广安">
+            <word changeDate="11/28/2016">广安市</word>
+        </synonym>
+        <synonym key="广州">
+            <word changeDate="11/28/2016">广州市</word>
+        </synonym>
+        <synonym key="广水">
+            <word changeDate="11/28/2016">广水市</word>
+        </synonym>
+        <synonym key="广汉">
+            <word changeDate="11/28/2016">广汉市</word>
+        </synonym>
+        <synonym key="广西">
+            <word changeDate="11/28/2016">广西省</word>
+        </synonym>
+        <synonym key="庄河">
+            <word changeDate="11/28/2016">庄河市</word>
+        </synonym>
+        <synonym key="庆阳">
+            <word changeDate="11/28/2016">庆阳市</word>
+        </synonym>
+        <synonym key="库尔勒">
+            <word changeDate="11/28/2016">库尔勒市</word>
+        </synonym>
+        <synonym key="应城">
+            <word changeDate="11/28/2016">应城市</word>
+        </synonym>
+        <synonym key="庫爾勒">
+            <word changeDate="11/28/2016">庫爾勒市</word>
+        </synonym>
+        <synonym key="廈門">
+            <word changeDate="11/28/2016">廈門市</word>
+        </synonym>
+        <synonym key="廉江">
+            <word changeDate="11/28/2016">廉江市</word>
+        </synonym>
+        <synonym key="廊坊">
+            <word changeDate="11/28/2016">廊坊市</word>
+        </synonym>
+        <synonym key="廣元">
+            <word changeDate="11/28/2016">廣元市</word>
+        </synonym>
+        <synonym key="廣安">
+            <word changeDate="11/28/2016">廣安市</word>
+        </synonym>
+        <synonym key="廣州">
+            <word changeDate="11/28/2016">廣州市</word>
+        </synonym>
+        <synonym key="廣東">
+            <word changeDate="11/28/2016">廣東省</word>
+        </synonym>
+        <synonym key="廣水">
+            <word changeDate="11/28/2016">廣水市</word>
+        </synonym>
+        <synonym key="廣漢">
+            <word changeDate="11/28/2016">廣漢市</word>
+        </synonym>
+        <synonym key="廣西">
+            <word changeDate="11/28/2016">廣西省</word>
+        </synonym>
+        <synonym key="延吉">
+            <word changeDate="11/28/2016">延吉市</word>
+        </synonym>
+        <synonym key="延安">
+            <word changeDate="11/28/2016">延安市</word>
+        </synonym>
+        <synonym key="建德">
+            <word changeDate="11/28/2016">建德市</word>
+        </synonym>
+        <synonym key="建瓯">
+            <word changeDate="11/28/2016">建瓯市</word>
+        </synonym>
+        <synonym key="建阳">
+            <word changeDate="11/28/2016">建阳市</word>
+        </synonym>
+        <synonym key="建陽">
+            <word changeDate="11/28/2016">建陽市</word>
+        </synonym>
+        <synonym key="开原">
+            <word changeDate="11/28/2016">开原市</word>
+        </synonym>
+        <synonym key="开封">
+            <word changeDate="11/28/2016">开封市</word>
+        </synonym>
+        <synonym key="开平">
+            <word changeDate="11/28/2016">开平市</word>
+        </synonym>
+        <synonym key="开远">
+            <word changeDate="11/28/2016">开远市</word>
+        </synonym>
+        <synonym key="张家口">
+            <word changeDate="11/28/2016">张家口市</word>
+        </synonym>
+        <synonym key="张家港">
+            <word changeDate="11/28/2016">张家港市</word>
+        </synonym>
+        <synonym key="张家界">
+            <word changeDate="11/28/2016">张家界市</word>
+        </synonym>
+        <synonym key="张掖">
+            <word changeDate="11/28/2016">张掖市</word>
+        </synonym>
+        <synonym key="張家口">
+            <word changeDate="11/28/2016">張家口市</word>
+        </synonym>
+        <synonym key="張家港">
+            <word changeDate="11/28/2016">張家港市</word>
+        </synonym>
+        <synonym key="張家界">
+            <word changeDate="11/28/2016">張家界市</word>
+        </synonym>
+        <synonym key="張掖">
+            <word changeDate="11/28/2016">張掖市</word>
+        </synonym>
+        <synonym key="当阳">
+            <word changeDate="11/28/2016">当阳市</word>
+        </synonym>
+        <synonym key="彭州">
+            <word changeDate="11/28/2016">彭州市</word>
+        </synonym>
+        <synonym key="徐州">
+            <word changeDate="11/28/2016">徐州市</word>
+        </synonym>
+        <synonym key="從化">
+            <word changeDate="11/28/2016">從化市</word>
+        </synonym>
+        <synonym key="德令哈">
+            <word changeDate="11/28/2016">德令哈市</word>
+        </synonym>
+        <synonym key="德兴">
+            <word changeDate="11/28/2016">德兴市</word>
+        </synonym>
+        <synonym key="德州">
+            <word changeDate="11/28/2016">德州市</word>
+        </synonym>
+        <synonym key="德惠">
+            <word changeDate="11/28/2016">德惠市</word>
+        </synonym>
+        <synonym key="德興">
+            <word changeDate="11/28/2016">德興市</word>
+        </synonym>
+        <synonym key="德阳">
+            <word changeDate="11/28/2016">德阳市</word>
+        </synonym>
+        <synonym key="德陽">
+            <word changeDate="11/28/2016">德陽市</word>
+        </synonym>
+        <synonym key="忻州">
+            <word changeDate="11/28/2016">忻州市</word>
+        </synonym>
+        <synonym key="怀化">
+            <word changeDate="11/28/2016">怀化市</word>
+        </synonym>
+        <synonym key="恩平">
+            <word changeDate="11/28/2016">恩平市</word>
+        </synonym>
+        <synonym key="恩施">
+            <word changeDate="11/28/2016">恩施市</word>
+        </synonym>
+        <synonym key="惠州">
+            <word changeDate="11/28/2016">惠州市</word>
+        </synonym>
+        <synonym key="慈溪">
+            <word changeDate="11/28/2016">慈溪市</word>
+        </synonym>
+        <synonym key="慶陽">
+            <word changeDate="11/28/2016">慶陽市</word>
+        </synonym>
+        <synonym key="憑祥">
+            <word changeDate="11/28/2016">憑祥市</word>
+        </synonym>
+        <synonym key="應城">
+            <word changeDate="11/28/2016">應城市</word>
+        </synonym>
+        <synonym key="懷化">
+            <word changeDate="11/28/2016">懷化市</word>
+        </synonym>
+        <synonym key="成都">
+            <word changeDate="11/28/2016">成都市</word>
+        </synonym>
+        <synonym key="扎兰屯">
+            <word changeDate="11/28/2016">扎兰屯市</word>
+        </synonym>
+        <synonym key="扎蘭屯">
+            <word changeDate="11/28/2016">扎蘭屯市</word>
+        </synonym>
+        <synonym key="扬中">
+            <word changeDate="11/28/2016">扬中市</word>
+        </synonym>
+        <synonym key="扬州">
+            <word changeDate="11/28/2016">扬州市</word>
+        </synonym>
+        <synonym key="承德">
+            <word changeDate="11/28/2016">承德市</word>
+        </synonym>
+        <synonym key="抚州">
+            <word changeDate="11/28/2016">抚州市</word>
+        </synonym>
+        <synonym key="抚顺">
+            <word changeDate="11/28/2016">抚顺市</word>
+        </synonym>
+        <synonym key="拉萨">
+            <word changeDate="11/28/2016">拉萨市</word>
+        </synonym>
+        <synonym key="拉薩">
+            <word changeDate="11/28/2016">拉薩市</word>
+        </synonym>
+        <synonym key="招远">
+            <word changeDate="11/28/2016">招远市</word>
+        </synonym>
+        <synonym key="招遠">
+            <word changeDate="11/28/2016">招遠市</word>
+        </synonym>
+        <synonym key="揚中">
+            <word changeDate="11/28/2016">揚中市</word>
+        </synonym>
+        <synonym key="揚州">
+            <word changeDate="11/28/2016">揚州市</word>
+        </synonym>
+        <synonym key="揭阳">
+            <word changeDate="11/28/2016">揭阳市</word>
+        </synonym>
+        <synonym key="揭陽">
+            <word changeDate="11/28/2016">揭陽市</word>
+        </synonym>
+        <synonym key="撫州">
+            <word changeDate="11/28/2016">撫州市</word>
+        </synonym>
+        <synonym key="撫順">
+            <word changeDate="11/28/2016">撫順市</word>
+        </synonym>
+        <synonym key="攀枝花">
+            <word changeDate="11/28/2016">攀枝花市</word>
+        </synonym>
+        <synonym key="敦化">
+            <word changeDate="11/28/2016">敦化市</word>
+        </synonym>
+        <synonym key="敦煌">
+            <word changeDate="11/28/2016">敦煌市</word>
+        </synonym>
+        <synonym key="文昌">
+            <word changeDate="11/28/2016">文昌市</word>
+        </synonym>
+        <synonym key="文登">
+            <word changeDate="11/28/2016">文登市</word>
+        </synonym>
+        <synonym key="新乐">
+            <word changeDate="11/28/2016">新乐市</word>
+        </synonym>
+        <synonym key="新乡">
+            <word changeDate="11/28/2016">新乡市</word>
+        </synonym>
+        <synonym key="新余">
+            <word changeDate="11/28/2016">新余市</word>
+        </synonym>
+        <synonym key="新密">
+            <word changeDate="11/28/2016">新密市</word>
+        </synonym>
+        <synonym key="新樂">
+            <word changeDate="11/28/2016">新樂市</word>
+        </synonym>
+        <synonym key="新民">
+            <word changeDate="11/28/2016">新民市</word>
+        </synonym>
+        <synonym key="新沂">
+            <word changeDate="11/28/2016">新沂市</word>
+        </synonym>
+        <synonym key="新泰">
+            <word changeDate="11/28/2016">新泰市</word>
+        </synonym>
+        <synonym key="新郑">
+            <word changeDate="11/28/2016">新郑市</word>
+        </synonym>
+        <synonym key="新鄉">
+            <word changeDate="11/28/2016">新鄉市</word>
+        </synonym>
+        <synonym key="新鄭">
+            <word changeDate="11/28/2016">新鄭市</word>
+        </synonym>
+        <synonym key="无锡">
+            <word changeDate="11/28/2016">无锡市</word>
+        </synonym>
+        <synonym key="日喀则">
+            <word changeDate="11/28/2016">日喀则市</word>
+        </synonym>
+        <synonym key="日喀則">
+            <word changeDate="11/28/2016">日喀則市</word>
+        </synonym>
+        <synonym key="日照">
+            <word changeDate="11/28/2016">日照市</word>
+        </synonym>
+        <synonym key="昆山">
+            <word changeDate="11/28/2016">昆山市</word>
+        </synonym>
+        <synonym key="昆明">
+            <word changeDate="11/28/2016">昆明市</word>
+        </synonym>
+        <synonym key="昌吉">
+            <word changeDate="11/28/2016">昌吉市</word>
+        </synonym>
+        <synonym key="昌邑">
+            <word changeDate="11/28/2016">昌邑市</word>
+        </synonym>
+        <synonym key="明光">
+            <word changeDate="11/28/2016">明光市</word>
+        </synonym>
+        <synonym key="昭通">
+            <word changeDate="11/28/2016">昭通市</word>
+        </synonym>
+        <synonym key="晉中">
+            <word changeDate="11/28/2016">晉中市</word>
+        </synonym>
+        <synonym key="晉城">
+            <word changeDate="11/28/2016">晉城市</word>
+        </synonym>
+        <synonym key="晉州">
+            <word changeDate="11/28/2016">晉州市</word>
+        </synonym>
+        <synonym key="晉江">
+            <word changeDate="11/28/2016">晉江市</word>
+        </synonym>
+        <synonym key="晋中">
+            <word changeDate="11/28/2016">晋中市</word>
+        </synonym>
+        <synonym key="晋城">
+            <word changeDate="11/28/2016">晋城市</word>
+        </synonym>
+        <synonym key="晋州">
+            <word changeDate="11/28/2016">晋州市</word>
+        </synonym>
+        <synonym key="晋江">
+            <word changeDate="11/28/2016">晋江市</word>
+        </synonym>
+        <synonym key="普兰店">
+            <word changeDate="11/28/2016">普兰店市</word>
+        </synonym>
+        <synonym key="普宁">
+            <word changeDate="11/28/2016">普宁市</word>
+        </synonym>
+        <synonym key="普寧">
+            <word changeDate="11/28/2016">普寧市</word>
+        </synonym>
+        <synonym key="普洱">
+            <word changeDate="11/28/2016">普洱市</word>
+        </synonym>
+        <synonym key="普蘭店">
+            <word changeDate="11/28/2016">普蘭店市</word>
+        </synonym>
+        <synonym key="景德鎮">
+            <word changeDate="11/28/2016">景德鎮市</word>
+        </synonym>
+        <synonym key="景德镇">
+            <word changeDate="11/28/2016">景德镇市</word>
+        </synonym>
+        <synonym key="景洪">
+            <word changeDate="11/28/2016">景洪市</word>
+        </synonym>
+        <synonym key="曲阜">
+            <word changeDate="11/28/2016">曲阜市</word>
+        </synonym>
+        <synonym key="曲靖">
+            <word changeDate="11/28/2016">曲靖市</word>
+        </synonym>
+        <synonym key="朔州">
+            <word changeDate="11/28/2016">朔州市</word>
+        </synonym>
+        <synonym key="朝阳">
+            <word changeDate="11/28/2016">朝阳市</word>
+        </synonym>
+        <synonym key="朝陽">
+            <word changeDate="11/28/2016">朝陽市</word>
+        </synonym>
+        <synonym key="本溪">
+            <word changeDate="11/28/2016">本溪市</word>
+        </synonym>
+        <synonym key="来宾">
+            <word changeDate="11/28/2016">来宾市</word>
+        </synonym>
+        <synonym key="杭州">
+            <word changeDate="11/28/2016">杭州市</word>
+        </synonym>
+        <synonym key="東台">
+            <word changeDate="11/28/2016">東台市</word>
+        </synonym>
+        <synonym key="東方">
+            <word changeDate="11/28/2016">東方市</word>
+        </synonym>
+        <synonym key="東港">
+            <word changeDate="11/28/2016">東港市</word>
+        </synonym>
+        <synonym key="東營">
+            <word changeDate="11/28/2016">東營市</word>
+        </synonym>
+        <synonym key="東興">
+            <word changeDate="11/28/2016">東興市</word>
+        </synonym>
+        <synonym key="東莞">
+            <word changeDate="11/28/2016">東莞市</word>
+        </synonym>
+        <synonym key="東陽">
+            <word changeDate="11/28/2016">東陽市</word>
+        </synonym>
+        <synonym key="松原">
+            <word changeDate="11/28/2016">松原市</word>
+        </synonym>
+        <synonym key="松滋">
+            <word changeDate="11/28/2016">松滋市</word>
+        </synonym>
+        <synonym key="林州">
+            <word changeDate="11/28/2016">林州市</word>
+        </synonym>
+        <synonym key="枝江">
+            <word changeDate="11/28/2016">枝江市</word>
+        </synonym>
+        <synonym key="枣庄">
+            <word changeDate="11/28/2016">枣庄市</word>
+        </synonym>
+        <synonym key="枣阳">
+            <word changeDate="11/28/2016">枣阳市</word>
+        </synonym>
+        <synonym key="柳州">
+            <word changeDate="11/28/2016">柳州市</word>
+        </synonym>
+        <synonym key="栖霞">
+            <word changeDate="11/28/2016">栖霞市</word>
+        </synonym>
+        <synonym key="株洲">
+            <word changeDate="11/28/2016">株洲市</word>
+        </synonym>
+        <synonym key="根河">
+            <word changeDate="11/28/2016">根河市</word>
+        </synonym>
+        <synonym key="格尔木">
+            <word changeDate="11/28/2016">格尔木市</word>
+        </synonym>
+        <synonym key="格爾木">
+            <word changeDate="11/28/2016">格爾木市</word>
+        </synonym>
+        <synonym key="桂平">
+            <word changeDate="11/28/2016">桂平市</word>
+        </synonym>
+        <synonym key="桂林">
+            <word changeDate="11/28/2016">桂林市</word>
+        </synonym>
+        <synonym key="桐乡">
+            <word changeDate="11/28/2016">桐乡市</word>
+        </synonym>
+        <synonym key="桐城">
+            <word changeDate="11/28/2016">桐城市</word>
+        </synonym>
+        <synonym key="桐鄉">
+            <word changeDate="11/28/2016">桐鄉市</word>
+        </synonym>
+        <synonym key="桦甸">
+            <word changeDate="11/28/2016">桦甸市</word>
+        </synonym>
+        <synonym key="梅州">
+            <word changeDate="11/28/2016">梅州市</word>
+        </synonym>
+        <synonym key="梅河口">
+            <word changeDate="11/28/2016">梅河口市</word>
+        </synonym>
+        <synonym key="梧州">
+            <word changeDate="11/28/2016">梧州市</word>
+        </synonym>
+        <synonym key="棗莊">
+            <word changeDate="11/28/2016">棗莊市</word>
+        </synonym>
+        <synonym key="棗陽">
+            <word changeDate="11/28/2016">棗陽市</word>
+        </synonym>
+        <synonym key="棲霞">
+            <word changeDate="11/28/2016">棲霞市</word>
+        </synonym>
+        <synonym key="楚雄">
+            <word changeDate="11/28/2016">楚雄市</word>
+        </synonym>
+        <synonym key="榆林">
+            <word changeDate="11/28/2016">榆林市</word>
+        </synonym>
+        <synonym key="榆树">
+            <word changeDate="11/28/2016">榆树市</word>
+        </synonym>
+        <synonym key="榆樹">
+            <word changeDate="11/28/2016">榆樹市</word>
+        </synonym>
+        <synonym key="榮成">
+            <word changeDate="11/28/2016">榮成市</word>
+        </synonym>
+        <synonym key="樂山">
+            <word changeDate="11/28/2016">樂山市</word>
+        </synonym>
+        <synonym key="樂平">
+            <word changeDate="11/28/2016">樂平市</word>
+        </synonym>
+        <synonym key="樂昌">
+            <word changeDate="11/28/2016">樂昌市</word>
+        </synonym>
+        <synonym key="樂清">
+            <word changeDate="11/28/2016">樂清市</word>
+        </synonym>
+        <synonym key="樂陵">
+            <word changeDate="11/28/2016">樂陵市</word>
+        </synonym>
+        <synonym key="樟树">
+            <word changeDate="11/28/2016">樟树市</word>
+        </synonym>
+        <synonym key="樟樹">
+            <word changeDate="11/28/2016">樟樹市</word>
+        </synonym>
+        <synonym key="欽州">
+            <word changeDate="11/28/2016">欽州市</word>
+        </synonym>
+        <synonym key="武冈">
+            <word changeDate="11/28/2016">武冈市</word>
+        </synonym>
+        <synonym key="武夷山">
+            <word changeDate="11/28/2016">武夷山市</word>
+        </synonym>
+        <synonym key="武威">
+            <word changeDate="11/28/2016">武威市</word>
+        </synonym>
+        <synonym key="武安">
+            <word changeDate="11/28/2016">武安市</word>
+        </synonym>
+        <synonym key="武岡">
+            <word changeDate="11/28/2016">武岡市</word>
+        </synonym>
+        <synonym key="武汉">
+            <word changeDate="11/28/2016">武汉市</word>
+        </synonym>
+        <synonym key="武漢">
+            <word changeDate="11/28/2016">武漢市</word>
+        </synonym>
+        <synonym key="武穴">
+            <word changeDate="11/28/2016">武穴市</word>
+        </synonym>
+        <synonym key="毕节">
+            <word changeDate="11/28/2016">毕节市</word>
+        </synonym>
+        <synonym key="永城">
+            <word changeDate="11/28/2016">永城市</word>
+        </synonym>
+        <synonym key="永安">
+            <word changeDate="11/28/2016">永安市</word>
+        </synonym>
+        <synonym key="永川">
+            <word changeDate="11/28/2016">永川市</word>
+        </synonym>
+        <synonym key="永州">
+            <word changeDate="11/28/2016">永州市</word>
+        </synonym>
+        <synonym key="永康">
+            <word changeDate="11/28/2016">永康市</word>
+        </synonym>
+        <synonym key="永济">
+            <word changeDate="11/28/2016">永济市</word>
+        </synonym>
+        <synonym key="永濟">
+            <word changeDate="11/28/2016">永濟市</word>
+        </synonym>
+        <synonym key="汉中">
+            <word changeDate="11/28/2016">汉中市</word>
+        </synonym>
+        <synonym key="汉川">
+            <word changeDate="11/28/2016">汉川市</word>
+        </synonym>
+        <synonym key="汕头">
+            <word changeDate="11/28/2016">汕头市</word>
+        </synonym>
+        <synonym key="汕尾">
+            <word changeDate="11/28/2016">汕尾市</word>
+        </synonym>
+        <synonym key="汕頭">
+            <word changeDate="11/28/2016">汕頭市</word>
+        </synonym>
+        <synonym key="汝州">
+            <word changeDate="11/28/2016">汝州市</word>
+        </synonym>
+        <synonym key="江山">
+            <word changeDate="11/28/2016">江山市</word>
+        </synonym>
+        <synonym key="江油">
+            <word changeDate="11/28/2016">江油市</word>
+        </synonym>
+        <synonym key="江津">
+            <word changeDate="11/28/2016">江津市</word>
+        </synonym>
+        <synonym key="江苏">
+            <word changeDate="11/28/2016">江苏省</word>
+        </synonym>
+        <synonym key="江蘇">
+            <word changeDate="11/28/2016">江蘇省</word>
+        </synonym>
+        <synonym key="江西">
+            <word changeDate="11/28/2016">江西省</word>
+        </synonym>
+        <synonym key="江都">
+            <word changeDate="11/28/2016">江都市</word>
+        </synonym>
+        <synonym key="江門">
+            <word changeDate="11/28/2016">江門市</word>
+        </synonym>
+        <synonym key="江门">
+            <word changeDate="11/28/2016">江门市</word>
+        </synonym>
+        <synonym key="江阴">
+            <word changeDate="11/28/2016">江阴市</word>
+        </synonym>
+        <synonym key="江陰">
+            <word changeDate="11/28/2016">江陰市</word>
+        </synonym>
+        <synonym key="池州">
+            <word changeDate="11/28/2016">池州市</word>
+        </synonym>
+        <synonym key="汨罗">
+            <word changeDate="11/28/2016">汨罗市</word>
+        </synonym>
+        <synonym key="汨羅">
+            <word changeDate="11/28/2016">汨羅市</word>
+        </synonym>
+        <synonym key="汾阳">
+            <word changeDate="11/28/2016">汾阳市</word>
+        </synonym>
+        <synonym key="汾陽">
+            <word changeDate="11/28/2016">汾陽市</word>
+        </synonym>
+        <synonym key="沁阳">
+            <word changeDate="11/28/2016">沁阳市</word>
+        </synonym>
+        <synonym key="沁陽">
+            <word changeDate="11/28/2016">沁陽市</word>
+        </synonym>
+        <synonym key="沅江">
+            <word changeDate="11/28/2016">沅江市</word>
+        </synonym>
+        <synonym key="沈阳">
+            <word changeDate="11/28/2016">沈阳市</word>
+        </synonym>
+        <synonym key="沈陽">
+            <word changeDate="11/28/2016">沈陽市</word>
+        </synonym>
+        <synonym key="沙河">
+            <word changeDate="11/28/2016">沙河市</word>
+        </synonym>
+        <synonym key="沧州">
+            <word changeDate="11/28/2016">沧州市</word>
+        </synonym>
+        <synonym key="河北">
+            <word changeDate="11/28/2016">河北省</word>
+        </synonym>
+        <synonym key="河南">
+            <word changeDate="11/28/2016">河南省</word>
+        </synonym>
+        <synonym key="河池">
+            <word changeDate="11/28/2016">河池市</word>
+        </synonym>
+        <synonym key="河津">
+            <word changeDate="11/28/2016">河津市</word>
+        </synonym>
+        <synonym key="河源">
+            <word changeDate="11/28/2016">河源市</word>
+        </synonym>
+        <synonym key="河間">
+            <word changeDate="11/28/2016">河間市</word>
+        </synonym>
+        <synonym key="河间">
+            <word changeDate="11/28/2016">河间市</word>
+        </synonym>
+        <synonym key="泉州">
+            <word changeDate="11/28/2016">泉州市</word>
+        </synonym>
+        <synonym key="泊头">
+            <word changeDate="11/28/2016">泊头市</word>
+        </synonym>
+        <synonym key="泊頭">
+            <word changeDate="11/28/2016">泊頭市</word>
+        </synonym>
+        <synonym key="泰兴">
+            <word changeDate="11/28/2016">泰兴市</word>
+        </synonym>
+        <synonym key="泰安">
+            <word changeDate="11/28/2016">泰安市</word>
+        </synonym>
+        <synonym key="泰州">
+            <word changeDate="11/28/2016">泰州市</word>
+        </synonym>
+        <synonym key="泰興">
+            <word changeDate="11/28/2016">泰興市</word>
+        </synonym>
+        <synonym key="泸州">
+            <word changeDate="11/28/2016">泸州市</word>
+        </synonym>
+        <synonym key="洛阳">
+            <word changeDate="11/28/2016">洛阳市</word>
+        </synonym>
+        <synonym key="洛陽">
+            <word changeDate="11/28/2016">洛陽市</word>
+        </synonym>
+        <synonym key="津市">
+            <word changeDate="11/28/2016">津市市</word>
+        </synonym>
+        <synonym key="洪江">
+            <word changeDate="11/28/2016">洪江市</word>
+        </synonym>
+        <synonym key="洪湖">
+            <word changeDate="11/28/2016">洪湖市</word>
+        </synonym>
+        <synonym key="洮南">
+            <word changeDate="11/28/2016">洮南市</word>
+        </synonym>
+        <synonym key="济南">
+            <word changeDate="11/28/2016">济南市</word>
+        </synonym>
+        <synonym key="济宁">
+            <word changeDate="11/28/2016">济宁市</word>
+        </synonym>
+        <synonym key="济源">
+            <word changeDate="11/28/2016">济源市</word>
+        </synonym>
+        <synonym key="浏阳">
+            <word changeDate="11/28/2016">浏阳市</word>
+        </synonym>
+        <synonym key="浏陽">
+            <word changeDate="11/28/2016">浏陽市</word>
+        </synonym>
+        <synonym key="浙江">
+            <word changeDate="11/28/2016">浙江省</word>
+        </synonym>
+        <synonym key="海伦">
+            <word changeDate="11/28/2016">海伦市</word>
+        </synonym>
+        <synonym key="海倫">
+            <word changeDate="11/28/2016">海倫市</word>
+        </synonym>
+        <synonym key="海南">
+            <word changeDate="11/28/2016">海南省</word>
+        </synonym>
+        <synonym key="海口">
+            <word changeDate="11/28/2016">海口市</word>
+        </synonym>
+        <synonym key="海城">
+            <word changeDate="11/28/2016">海城市</word>
+        </synonym>
+        <synonym key="海宁">
+            <word changeDate="11/28/2016">海宁市</word>
+        </synonym>
+        <synonym key="海寧">
+            <word changeDate="11/28/2016">海寧市</word>
+        </synonym>
+        <synonym key="海林">
+            <word changeDate="11/28/2016">海林市</word>
+        </synonym>
+        <synonym key="海門">
+            <word changeDate="11/28/2016">海門市</word>
+        </synonym>
+        <synonym key="海门">
+            <word changeDate="11/28/2016">海门市</word>
+        </synonym>
+        <synonym key="海阳">
+            <word changeDate="11/28/2016">海阳市</word>
+        </synonym>
+        <synonym key="海陽">
+            <word changeDate="11/28/2016">海陽市</word>
+        </synonym>
+        <synonym key="涟源">
+            <word changeDate="11/28/2016">涟源市</word>
+        </synonym>
+        <synonym key="涿州">
+            <word changeDate="11/28/2016">涿州市</word>
+        </synonym>
+        <synonym key="淄博">
+            <word changeDate="11/28/2016">淄博市</word>
+        </synonym>
+        <synonym key="淩海">
+            <word changeDate="11/28/2016">淩海市</word>
+        </synonym>
+        <synonym key="淩源">
+            <word changeDate="11/28/2016">淩源市</word>
+        </synonym>
+        <synonym key="淮北">
+            <word changeDate="11/28/2016">淮北市</word>
+        </synonym>
+        <synonym key="淮南">
+            <word changeDate="11/28/2016">淮南市</word>
+        </synonym>
+        <synonym key="淮安">
+            <word changeDate="11/28/2016">淮安市</word>
+        </synonym>
+        <synonym key="深圳">
+            <word changeDate="11/28/2016">深圳市</word>
+        </synonym>
+        <synonym key="深州">
+            <word changeDate="11/28/2016">深州市</word>
+        </synonym>
+        <synonym key="清远">
+            <word changeDate="11/28/2016">清远市</word>
+        </synonym>
+        <synonym key="清遠">
+            <word changeDate="11/28/2016">清遠市</word>
+        </synonym>
+        <synonym key="清鎮">
+            <word changeDate="11/28/2016">清鎮市</word>
+        </synonym>
+        <synonym key="清镇">
+            <word changeDate="11/28/2016">清镇市</word>
+        </synonym>
+        <synonym key="温岭">
+            <word changeDate="11/28/2016">温岭市</word>
+        </synonym>
+        <synonym key="温州">
+            <word changeDate="11/28/2016">温州市</word>
+        </synonym>
+        <synonym key="渭南">
+            <word changeDate="11/28/2016">渭南市</word>
+        </synonym>
+        <synonym key="湖北">
+            <word changeDate="11/28/2016">湖北省</word>
+        </synonym>
+        <synonym key="湖南">
+            <word changeDate="11/28/2016">湖南省</word>
+        </synonym>
+        <synonym key="湖州">
+            <word changeDate="11/28/2016">湖州市</word>
+        </synonym>
+        <synonym key="湘乡">
+            <word changeDate="11/28/2016">湘乡市</word>
+        </synonym>
+        <synonym key="湘潭">
+            <word changeDate="11/28/2016">湘潭市</word>
+        </synonym>
+        <synonym key="湘鄉">
+            <word changeDate="11/28/2016">湘鄉市</word>
+        </synonym>
+        <synonym key="湛江">
+            <word changeDate="11/28/2016">湛江市</word>
+        </synonym>
+        <synonym key="溧阳">
+            <word changeDate="11/28/2016">溧阳市</word>
+        </synonym>
+        <synonym key="溧陽">
+            <word changeDate="11/28/2016">溧陽市</word>
+        </synonym>
+        <synonym key="溫嶺">
+            <word changeDate="11/28/2016">溫嶺市</word>
+        </synonym>
+        <synonym key="溫州">
+            <word changeDate="11/28/2016">溫州市</word>
+        </synonym>
+        <synonym key="滁州">
+            <word changeDate="11/28/2016">滁州市</word>
+        </synonym>
+        <synonym key="滄州">
+            <word changeDate="11/28/2016">滄州市</word>
+        </synonym>
+        <synonym key="滕州">
+            <word changeDate="11/28/2016">滕州市</word>
+        </synonym>
+        <synonym key="满洲里">
+            <word changeDate="11/28/2016">满洲里市</word>
+        </synonym>
+        <synonym key="滨州">
+            <word changeDate="11/28/2016">滨州市</word>
+        </synonym>
+        <synonym key="漢中">
+            <word changeDate="11/28/2016">漢中市</word>
+        </synonym>
+        <synonym key="漢川">
+            <word changeDate="11/28/2016">漢川市</word>
+        </synonym>
+        <synonym key="漣源">
+            <word changeDate="11/28/2016">漣源市</word>
+        </synonym>
+        <synonym key="漯河">
+            <word changeDate="11/28/2016">漯河市</word>
+        </synonym>
+        <synonym key="漳州">
+            <word changeDate="11/28/2016">漳州市</word>
+        </synonym>
+        <synonym key="漳平">
+            <word changeDate="11/28/2016">漳平市</word>
+        </synonym>
+        <synonym key="潍坊">
+            <word changeDate="11/28/2016">潍坊市</word>
+        </synonym>
+        <synonym key="潛江">
+            <word changeDate="11/28/2016">潛江市</word>
+        </synonym>
+        <synonym key="潜江">
+            <word changeDate="11/28/2016">潜江市</word>
+        </synonym>
+        <synonym key="潞城">
+            <word changeDate="11/28/2016">潞城市</word>
+        </synonym>
+        <synonym key="潞西">
+            <word changeDate="11/28/2016">潞西市</word>
+        </synonym>
+        <synonym key="潮州">
+            <word changeDate="11/28/2016">潮州市</word>
+        </synonym>
+        <synonym key="濟南">
+            <word changeDate="11/28/2016">濟南市</word>
+        </synonym>
+        <synonym key="濟寧">
+            <word changeDate="11/28/2016">濟寧市</word>
+        </synonym>
+        <synonym key="濟源">
+            <word changeDate="11/28/2016">濟源市</word>
+        </synonym>
+        <synonym key="濮阳">
+            <word changeDate="11/28/2016">濮阳市</word>
+        </synonym>
+        <synonym key="濮陽">
+            <word changeDate="11/28/2016">濮陽市</word>
+        </synonym>
+        <synonym key="濰坊">
+            <word changeDate="11/28/2016">濰坊市</word>
+        </synonym>
+        <synonym key="濱州">
+            <word changeDate="11/28/2016">濱州市</word>
+        </synonym>
+        <synonym key="灯塔">
+            <word changeDate="11/28/2016">灯塔市</word>
+        </synonym>
+        <synonym key="灵宝">
+            <word changeDate="11/28/2016">灵宝市</word>
+        </synonym>
+        <synonym key="灵武">
+            <word changeDate="11/28/2016">灵武市</word>
+        </synonym>
+        <synonym key="烏海">
+            <word changeDate="11/28/2016">烏海市</word>
+        </synonym>
+        <synonym key="烏蘇">
+            <word changeDate="11/28/2016">烏蘇市</word>
+        </synonym>
+        <synonym key="烏蘭察布">
+            <word changeDate="11/28/2016">烏蘭察布市</word>
+        </synonym>
+        <synonym key="烏蘭浩特">
+            <word changeDate="11/28/2016">烏蘭浩特市</word>
+        </synonym>
+        <synonym key="烏魯木齊">
+            <word changeDate="11/28/2016">烏魯木齊市</word>
+        </synonym>
+        <synonym key="烟台">
+            <word changeDate="11/28/2016">烟台市</word>
+        </synonym>
+        <synonym key="無錫">
+            <word changeDate="11/28/2016">無錫市</word>
+        </synonym>
+        <synonym key="焦作">
+            <word changeDate="11/28/2016">焦作市</word>
+        </synonym>
+        <synonym key="煙台">
+            <word changeDate="11/28/2016">煙台市</word>
+        </synonym>
+        <synonym key="燈塔">
+            <word changeDate="11/28/2016">燈塔市</word>
+        </synonym>
+        <synonym key="營口">
+            <word changeDate="11/28/2016">營口市</word>
+        </synonym>
+        <synonym key="牙克石">
+            <word changeDate="11/28/2016">牙克石市</word>
+        </synonym>
+        <synonym key="牡丹江">
+            <word changeDate="11/28/2016">牡丹江市</word>
+        </synonym>
+        <synonym key="玉林">
+            <word changeDate="11/28/2016">玉林市</word>
+        </synonym>
+        <synonym key="玉溪">
+            <word changeDate="11/28/2016">玉溪市</word>
+        </synonym>
+        <synonym key="玉門">
+            <word changeDate="11/28/2016">玉門市</word>
+        </synonym>
+        <synonym key="玉门">
+            <word changeDate="11/28/2016">玉门市</word>
+        </synonym>
+        <synonym key="珠海">
+            <word changeDate="11/28/2016">珠海市</word>
+        </synonym>
+        <synonym key="珲春">
+            <word changeDate="11/28/2016">珲春市</word>
+        </synonym>
+        <synonym key="琼海">
+            <word changeDate="11/28/2016">琼海市</word>
+        </synonym>
+        <synonym key="瑞丽">
+            <word changeDate="11/28/2016">瑞丽市</word>
+        </synonym>
+        <synonym key="瑞安">
+            <word changeDate="11/28/2016">瑞安市</word>
+        </synonym>
+        <synonym key="瑞昌">
+            <word changeDate="11/28/2016">瑞昌市</word>
+        </synonym>
+        <synonym key="瑞金">
+            <word changeDate="11/28/2016">瑞金市</word>
+        </synonym>
+        <synonym key="瑞麗">
+            <word changeDate="11/28/2016">瑞麗市</word>
+        </synonym>
+        <synonym key="瓊海">
+            <word changeDate="11/28/2016">瓊海市</word>
+        </synonym>
+        <synonym key="瓦房店">
+            <word changeDate="11/28/2016">瓦房店市</word>
+        </synonym>
+        <synonym key="甘肃">
+            <word changeDate="11/28/2016">甘肃省</word>
+        </synonym>
+        <synonym key="甘肅">
+            <word changeDate="11/28/2016">甘肅省</word>
+        </synonym>
+        <synonym key="界首">
+            <word changeDate="11/28/2016">界首市</word>
+        </synonym>
+        <synonym key="畢節">
+            <word changeDate="11/28/2016">畢節市</word>
+        </synonym>
+        <synonym key="當陽">
+            <word changeDate="11/28/2016">當陽市</word>
+        </synonym>
+        <synonym key="登封">
+            <word changeDate="11/28/2016">登封市</word>
+        </synonym>
+        <synonym key="白城">
+            <word changeDate="11/28/2016">白城市</word>
+        </synonym>
+        <synonym key="白山">
+            <word changeDate="11/28/2016">白山市</word>
+        </synonym>
+        <synonym key="白銀">
+            <word changeDate="11/28/2016">白銀市</word>
+        </synonym>
+        <synonym key="白银">
+            <word changeDate="11/28/2016">白银市</word>
+        </synonym>
+        <synonym key="百色">
+            <word changeDate="11/28/2016">百色市</word>
+        </synonym>
+        <synonym key="益阳">
+            <word changeDate="11/28/2016">益阳市</word>
+        </synonym>
+        <synonym key="益陽">
+            <word changeDate="11/28/2016">益陽市</word>
+        </synonym>
+        <synonym key="盐城">
+            <word changeDate="11/28/2016">盐城市</word>
+        </synonym>
+        <synonym key="盖州">
+            <word changeDate="11/28/2016">盖州市</word>
+        </synonym>
+        <synonym key="盘锦">
+            <word changeDate="11/28/2016">盘锦市</word>
+        </synonym>
+        <synonym key="盤錦">
+            <word changeDate="11/28/2016">盤錦市</word>
+        </synonym>
+        <synonym key="眉山">
+            <word changeDate="11/28/2016">眉山市</word>
+        </synonym>
+        <synonym key="石嘴山">
+            <word changeDate="11/28/2016">石嘴山市</word>
+        </synonym>
+        <synonym key="石家庄">
+            <word changeDate="11/28/2016">石家庄市</word>
+        </synonym>
+        <synonym key="石家莊">
+            <word changeDate="11/28/2016">石家莊市</word>
+        </synonym>
+        <synonym key="石河子">
+            <word changeDate="11/28/2016">石河子市</word>
+        </synonym>
+        <synonym key="石狮">
+            <word changeDate="11/28/2016">石狮市</word>
+        </synonym>
+        <synonym key="石獅">
+            <word changeDate="11/28/2016">石獅市</word>
+        </synonym>
+        <synonym key="石首">
+            <word changeDate="11/28/2016">石首市</word>
+        </synonym>
+        <synonym key="磐石">
+            <word changeDate="11/28/2016">磐石市</word>
+        </synonym>
+        <synonym key="福安">
+            <word changeDate="11/28/2016">福安市</word>
+        </synonym>
+        <synonym key="福州">
+            <word changeDate="11/28/2016">福州市</word>
+        </synonym>
+        <synonym key="福建">
+            <word changeDate="11/28/2016">福建省</word>
+        </synonym>
+        <synonym key="福泉">
+            <word changeDate="11/28/2016">福泉市</word>
+        </synonym>
+        <synonym key="福清">
+            <word changeDate="11/28/2016">福清市</word>
+        </synonym>
+        <synonym key="福鼎">
+            <word changeDate="11/28/2016">福鼎市</word>
+        </synonym>
+        <synonym key="禹城">
+            <word changeDate="11/28/2016">禹城市</word>
+        </synonym>
+        <synonym key="禹州">
+            <word changeDate="11/28/2016">禹州市</word>
+        </synonym>
+        <synonym key="秦皇岛">
+            <word changeDate="11/28/2016">秦皇岛市</word>
+        </synonym>
+        <synonym key="秦皇島">
+            <word changeDate="11/28/2016">秦皇島市</word>
+        </synonym>
+        <synonym key="穆棱">
+            <word changeDate="11/28/2016">穆棱市</word>
+        </synonym>
+        <synonym key="章丘">
+            <word changeDate="11/28/2016">章丘市</word>
+        </synonym>
+        <synonym key="简阳">
+            <word changeDate="11/28/2016">简阳市</word>
+        </synonym>
+        <synonym key="箇舊">
+            <word changeDate="11/28/2016">箇舊市</word>
+        </synonym>
+        <synonym key="簡陽">
+            <word changeDate="11/28/2016">簡陽市</word>
+        </synonym>
+        <synonym key="米泉">
+            <word changeDate="11/28/2016">米泉市</word>
+        </synonym>
+        <synonym key="紹興">
+            <word changeDate="11/28/2016">紹興市</word>
+        </synonym>
+        <synonym key="綏化">
+            <word changeDate="11/28/2016">綏化市</word>
+        </synonym>
+        <synonym key="綏芬河">
+            <word changeDate="11/28/2016">綏芬河市</word>
+        </synonym>
+        <synonym key="經濟技術開發區">
+            <word changeDate="11/28/2016">經濟開發區</word>
+            <word changeDate="11/28/2016">經開區</word>
+        </synonym>
+        <synonym key="綿竹">
+            <word changeDate="11/28/2016">綿竹市</word>
+        </synonym>
+        <synonym key="綿陽">
+            <word changeDate="11/28/2016">綿陽市</word>
+        </synonym>
+        <synonym key="绍兴">
+            <word changeDate="11/28/2016">绍兴市</word>
+        </synonym>
+        <synonym key="经开区">
+            <word changeDate="11/28/2016">经济开发区</word>
+            <word changeDate="11/28/2016">经济技术开发区</word>
+        </synonym>
+        <synonym key="绥化">
+            <word changeDate="11/28/2016">绥化市</word>
+        </synonym>
+        <synonym key="绥芬河">
+            <word changeDate="11/28/2016">绥芬河市</word>
+        </synonym>
+        <synonym key="绵竹">
+            <word changeDate="11/28/2016">绵竹市</word>
+        </synonym>
+        <synonym key="绵阳">
+            <word changeDate="11/28/2016">绵阳市</word>
+        </synonym>
+        <synonym key="罗定">
+            <word changeDate="11/28/2016">罗定市</word>
+        </synonym>
+        <synonym key="羅定">
+            <word changeDate="11/28/2016">羅定市</word>
+        </synonym>
+        <synonym key="義烏">
+            <word changeDate="11/28/2016">義烏市</word>
+        </synonym>
+        <synonym key="義馬">
+            <word changeDate="11/28/2016">義馬市</word>
+        </synonym>
+        <synonym key="老河口">
+            <word changeDate="11/28/2016">老河口市</word>
+        </synonym>
+        <synonym key="耒阳">
+            <word changeDate="11/28/2016">耒阳市</word>
+        </synonym>
+        <synonym key="耒陽">
+            <word changeDate="11/28/2016">耒陽市</word>
+        </synonym>
+        <synonym key="聊城">
+            <word changeDate="11/28/2016">聊城市</word>
+        </synonym>
+        <synonym key="肇东">
+            <word changeDate="11/28/2016">肇东市</word>
+        </synonym>
+        <synonym key="肇庆">
+            <word changeDate="11/28/2016">肇庆市</word>
+        </synonym>
+        <synonym key="肇慶">
+            <word changeDate="11/28/2016">肇慶市</word>
+        </synonym>
+        <synonym key="肇東">
+            <word changeDate="11/28/2016">肇東市</word>
+        </synonym>
+        <synonym key="肥城">
+            <word changeDate="11/28/2016">肥城市</word>
+        </synonym>
+        <synonym key="胶南">
+            <word changeDate="11/28/2016">胶南市</word>
+        </synonym>
+        <synonym key="胶州">
+            <word changeDate="11/28/2016">胶州市</word>
+        </synonym>
+        <synonym key="膠南">
+            <word changeDate="11/28/2016">膠南市</word>
+        </synonym>
+        <synonym key="膠州">
+            <word changeDate="11/28/2016">膠州市</word>
+        </synonym>
+        <synonym key="臨夏">
+            <word changeDate="11/28/2016">臨夏市</word>
+        </synonym>
+        <synonym key="臨安">
+            <word changeDate="11/28/2016">臨安市</word>
+        </synonym>
+        <synonym key="臨江">
+            <word changeDate="11/28/2016">臨江市</word>
+        </synonym>
+        <synonym key="臨汾">
+            <word changeDate="11/28/2016">臨汾市</word>
+        </synonym>
+        <synonym key="臨沂">
+            <word changeDate="11/28/2016">臨沂市</word>
+        </synonym>
+        <synonym key="臨海">
+            <word changeDate="11/28/2016">臨海市</word>
+        </synonym>
+        <synonym key="臨清">
+            <word changeDate="11/28/2016">臨清市</word>
+        </synonym>
+        <synonym key="臨湘">
+            <word changeDate="11/28/2016">臨湘市</word>
+        </synonym>
+        <synonym key="臨滄">
+            <word changeDate="11/28/2016">臨滄市</word>
+        </synonym>
+        <synonym key="自貢">
+            <word changeDate="11/28/2016">自貢市</word>
+        </synonym>
+        <synonym key="自贡">
+            <word changeDate="11/28/2016">自贡市</word>
+        </synonym>
+        <synonym key="興化">
+            <word changeDate="11/28/2016">興化市</word>
+        </synonym>
+        <synonym key="興城">
+            <word changeDate="11/28/2016">興城市</word>
+        </synonym>
+        <synonym key="興寧">
+            <word changeDate="11/28/2016">興寧市</word>
+        </synonym>
+        <synonym key="興平">
+            <word changeDate="11/28/2016">興平市</word>
+        </synonym>
+        <synonym key="興義">
+            <word changeDate="11/28/2016">興義市</word>
+        </synonym>
+        <synonym key="舒兰">
+            <word changeDate="11/28/2016">舒兰市</word>
+        </synonym>
+        <synonym key="舒蘭">
+            <word changeDate="11/28/2016">舒蘭市</word>
+        </synonym>
+        <synonym key="舞鋼">
+            <word changeDate="11/28/2016">舞鋼市</word>
+        </synonym>
+        <synonym key="舞钢">
+            <word changeDate="11/28/2016">舞钢市</word>
+        </synonym>
+        <synonym key="舟山">
+            <word changeDate="11/28/2016">舟山市</word>
+        </synonym>
+        <synonym key="芜湖">
+            <word changeDate="11/28/2016">芜湖市</word>
+        </synonym>
+        <synonym key="苏州">
+            <word changeDate="11/28/2016">苏州市</word>
+        </synonym>
+        <synonym key="英德">
+            <word changeDate="11/28/2016">英德市</word>
+        </synonym>
+        <synonym key="茂名">
+            <word changeDate="11/28/2016">茂名市</word>
+        </synonym>
+        <synonym key="荆州">
+            <word changeDate="11/28/2016">荆州市</word>
+        </synonym>
+        <synonym key="荆门">
+            <word changeDate="11/28/2016">荆门市</word>
+        </synonym>
+        <synonym key="荊州">
+            <word changeDate="11/28/2016">荊州市</word>
+        </synonym>
+        <synonym key="荊門">
+            <word changeDate="11/28/2016">荊門市</word>
+        </synonym>
+        <synonym key="荣成">
+            <word changeDate="11/28/2016">荣成市</word>
+        </synonym>
+        <synonym key="荥阳">
+            <word changeDate="11/28/2016">荥阳市</word>
+        </synonym>
+        <synonym key="荥陽">
+            <word changeDate="11/28/2016">荥陽市</word>
+        </synonym>
+        <synonym key="莆田">
+            <word changeDate="11/28/2016">莆田市</word>
+        </synonym>
+        <synonym key="莊河">
+            <word changeDate="11/28/2016">莊河市</word>
+        </synonym>
+        <synonym key="莱州">
+            <word changeDate="11/28/2016">莱州市</word>
+        </synonym>
+        <synonym key="莱芜">
+            <word changeDate="11/28/2016">莱芜市</word>
+        </synonym>
+        <synonym key="莱西">
+            <word changeDate="11/28/2016">莱西市</word>
+        </synonym>
+        <synonym key="莱阳">
+            <word changeDate="11/28/2016">莱阳市</word>
+        </synonym>
+        <synonym key="菏泽">
+            <word changeDate="11/28/2016">菏泽市</word>
+        </synonym>
+        <synonym key="菏澤">
+            <word changeDate="11/28/2016">菏澤市</word>
+        </synonym>
+        <synonym key="華蓥">
+            <word changeDate="11/28/2016">華蓥市</word>
+        </synonym>
+        <synonym key="華陰">
+            <word changeDate="11/28/2016">華陰市</word>
+        </synonym>
+        <synonym key="萊州">
+            <word changeDate="11/28/2016">萊州市</word>
+        </synonym>
+        <synonym key="萊蕪">
+            <word changeDate="11/28/2016">萊蕪市</word>
+        </synonym>
+        <synonym key="萊西">
+            <word changeDate="11/28/2016">萊西市</word>
+        </synonym>
+        <synonym key="萊陽">
+            <word changeDate="11/28/2016">萊陽市</word>
+        </synonym>
+        <synonym key="萍乡">
+            <word changeDate="11/28/2016">萍乡市</word>
+        </synonym>
+        <synonym key="萍鄉">
+            <word changeDate="11/28/2016">萍鄉市</word>
+        </synonym>
+        <synonym key="营口">
+            <word changeDate="11/28/2016">营口市</word>
+        </synonym>
+        <synonym key="萬寧">
+            <word changeDate="11/28/2016">萬寧市</word>
+        </synonym>
+        <synonym key="萬源">
+            <word changeDate="11/28/2016">萬源市</word>
+        </synonym>
+        <synonym key="葫芦岛">
+            <word changeDate="11/28/2016">葫芦岛市</word>
+        </synonym>
+        <synonym key="葫蘆島">
+            <word changeDate="11/28/2016">葫蘆島市</word>
+        </synonym>
+        <synonym key="蓋州">
+            <word changeDate="11/28/2016">蓋州市</word>
+        </synonym>
+        <synonym key="蓬莱">
+            <word changeDate="11/28/2016">蓬莱市</word>
+        </synonym>
+        <synonym key="蓬萊">
+            <word changeDate="11/28/2016">蓬萊市</word>
+        </synonym>
+        <synonym key="蕪湖">
+            <word changeDate="11/28/2016">蕪湖市</word>
+        </synonym>
+        <synonym key="藁城">
+            <word changeDate="11/28/2016">藁城市</word>
+        </synonym>
+        <synonym key="蘇州">
+            <word changeDate="11/28/2016">蘇州市</word>
+        </synonym>
+        <synonym key="蘭州">
+            <word changeDate="11/28/2016">蘭州市</word>
+        </synonym>
+        <synonym key="蘭溪">
+            <word changeDate="11/28/2016">蘭溪市</word>
+        </synonym>
+        <synonym key="虎林">
+            <word changeDate="11/28/2016">虎林市</word>
+        </synonym>
+        <synonym key="蚌埠">
+            <word changeDate="11/28/2016">蚌埠市</word>
+        </synonym>
+        <synonym key="蛟河">
+            <word changeDate="11/28/2016">蛟河市</word>
+        </synonym>
+        <synonym key="衛輝">
+            <word changeDate="11/28/2016">衛輝市</word>
+        </synonym>
+        <synonym key="衡水">
+            <word changeDate="11/28/2016">衡水市</word>
+        </synonym>
+        <synonym key="衡阳">
+            <word changeDate="11/28/2016">衡阳市</word>
+        </synonym>
+        <synonym key="衡陽">
+            <word changeDate="11/28/2016">衡陽市</word>
+        </synonym>
+        <synonym key="衢州">
+            <word changeDate="11/28/2016">衢州市</word>
+        </synonym>
+        <synonym key="襄樊">
+            <word changeDate="11/28/2016">襄樊市</word>
+        </synonym>
+        <synonym key="西宁">
+            <word changeDate="11/28/2016">西宁市</word>
+        </synonym>
+        <synonym key="西安">
+            <word changeDate="11/28/2016">西安市</word>
+        </synonym>
+        <synonym key="西寧">
+            <word changeDate="11/28/2016">西寧市</word>
+        </synonym>
+        <synonym key="西昌">
+            <word changeDate="11/28/2016">西昌市</word>
+        </synonym>
+        <synonym key="許昌">
+            <word changeDate="11/28/2016">許昌市</word>
+        </synonym>
+        <synonym key="調兵山">
+            <word changeDate="11/28/2016">調兵山市</word>
+        </synonym>
+        <synonym key="諸城">
+            <word changeDate="11/28/2016">諸城市</word>
+        </synonym>
+        <synonym key="諸暨">
+            <word changeDate="11/28/2016">諸暨市</word>
+        </synonym>
+        <synonym key="讷河">
+            <word changeDate="11/28/2016">讷河市</word>
+        </synonym>
+        <synonym key="许昌">
+            <word changeDate="11/28/2016">许昌市</word>
+        </synonym>
+        <synonym key="诸城">
+            <word changeDate="11/28/2016">诸城市</word>
+        </synonym>
+        <synonym key="诸暨">
+            <word changeDate="11/28/2016">诸暨市</word>
+        </synonym>
+        <synonym key="调兵山">
+            <word changeDate="11/28/2016">调兵山市</word>
+        </synonym>
+        <synonym key="豐城">
+            <word changeDate="11/28/2016">豐城市</word>
+        </synonym>
+        <synonym key="豐鎮">
+            <word changeDate="11/28/2016">豐鎮市</word>
+        </synonym>
+        <synonym key="貴州">
+            <word changeDate="11/28/2016">貴州省</word>
+        </synonym>
+        <synonym key="貴港">
+            <word changeDate="11/28/2016">貴港市</word>
+        </synonym>
+        <synonym key="貴溪">
+            <word changeDate="11/28/2016">貴溪市</word>
+        </synonym>
+        <synonym key="貴陽">
+            <word changeDate="11/28/2016">貴陽市</word>
+        </synonym>
+        <synonym key="賀州">
+            <word changeDate="11/28/2016">賀州市</word>
+        </synonym>
+        <synonym key="資興">
+            <word changeDate="11/28/2016">資興市</word>
+        </synonym>
+        <synonym key="資陽">
+            <word changeDate="11/28/2016">資陽市</word>
+        </synonym>
+        <synonym key="贛州">
+            <word changeDate="11/28/2016">贛州市</word>
+        </synonym>
+        <synonym key="贵州">
+            <word changeDate="11/28/2016">贵州省</word>
+        </synonym>
+        <synonym key="贵港">
+            <word changeDate="11/28/2016">贵港市</word>
+        </synonym>
+        <synonym key="贵溪">
+            <word changeDate="11/28/2016">贵溪市</word>
+        </synonym>
+        <synonym key="贵阳">
+            <word changeDate="11/28/2016">贵阳市</word>
+        </synonym>
+        <synonym key="贺州">
+            <word changeDate="11/28/2016">贺州市</word>
+        </synonym>
+        <synonym key="资兴">
+            <word changeDate="11/28/2016">资兴市</word>
+        </synonym>
+        <synonym key="资阳">
+            <word changeDate="11/28/2016">资阳市</word>
+        </synonym>
+        <synonym key="赣州">
+            <word changeDate="11/28/2016">赣州市</word>
+        </synonym>
+        <synonym key="赤壁">
+            <word changeDate="11/28/2016">赤壁市</word>
+        </synonym>
+        <synonym key="赤峰">
+            <word changeDate="11/28/2016">赤峰市</word>
+        </synonym>
+        <synonym key="赤水">
+            <word changeDate="11/28/2016">赤水市</word>
+        </synonym>
+        <synonym key="輝縣">
+            <word changeDate="11/28/2016">輝縣市</word>
+        </synonym>
+        <synonym key="辉县">
+            <word changeDate="11/28/2016">辉县市</word>
+        </synonym>
+        <synonym key="辛集">
+            <word changeDate="11/28/2016">辛集市</word>
+        </synonym>
+        <synonym key="辽宁">
+            <word changeDate="11/28/2016">辽宁省</word>
+        </synonym>
+        <synonym key="辽源">
+            <word changeDate="11/28/2016">辽源市</word>
+        </synonym>
+        <synonym key="辽阳">
+            <word changeDate="11/28/2016">辽阳市</word>
+        </synonym>
+        <synonym key="达州">
+            <word changeDate="11/28/2016">达州市</word>
+        </synonym>
+        <synonym key="迁安">
+            <word changeDate="11/28/2016">迁安市</word>
+        </synonym>
+        <synonym key="运城">
+            <word changeDate="11/28/2016">运城市</word>
+        </synonym>
+        <synonym key="连云港">
+            <word changeDate="11/28/2016">连云港市</word>
+        </synonym>
+        <synonym key="连州">
+            <word changeDate="11/28/2016">连州市</word>
+        </synonym>
+        <synonym key="通化">
+            <word changeDate="11/28/2016">通化市</word>
+        </synonym>
+        <synonym key="通州">
+            <word changeDate="11/28/2016">通州市</word>
+        </synonym>
+        <synonym key="通辽">
+            <word changeDate="11/28/2016">通辽市</word>
+        </synonym>
+        <synonym key="通遼">
+            <word changeDate="11/28/2016">通遼市</word>
+        </synonym>
+        <synonym key="連州">
+            <word changeDate="11/28/2016">連州市</word>
+        </synonym>
+        <synonym key="連雲港">
+            <word changeDate="11/28/2016">連雲港市</word>
+        </synonym>
+        <synonym key="遂宁">
+            <word changeDate="11/28/2016">遂宁市</word>
+        </synonym>
+        <synonym key="遂寧">
+            <word changeDate="11/28/2016">遂寧市</word>
+        </synonym>
+        <synonym key="運城">
+            <word changeDate="11/28/2016">運城市</word>
+        </synonym>
+        <synonym key="達州">
+            <word changeDate="11/28/2016">達州市</word>
+        </synonym>
+        <synonym key="遵义">
+            <word changeDate="11/28/2016">遵义市</word>
+        </synonym>
+        <synonym key="遵化">
+            <word changeDate="11/28/2016">遵化市</word>
+        </synonym>
+        <synonym key="遵義">
+            <word changeDate="11/28/2016">遵義市</word>
+        </synonym>
+        <synonym key="遷安">
+            <word changeDate="11/28/2016">遷安市</word>
+        </synonym>
+        <synonym key="遼寧">
+            <word changeDate="11/28/2016">遼寧省</word>
+        </synonym>
+        <synonym key="遼源">
+            <word changeDate="11/28/2016">遼源市</word>
+        </synonym>
+        <synonym key="遼陽">
+            <word changeDate="11/28/2016">遼陽市</word>
+        </synonym>
+        <synonym key="邓州">
+            <word changeDate="11/28/2016">邓州市</word>
+        </synonym>
+        <synonym key="邛崃">
+            <word changeDate="11/28/2016">邛崃市</word>
+        </synonym>
+        <synonym key="邢台">
+            <word changeDate="11/28/2016">邢台市</word>
+        </synonym>
+        <synonym key="邯郸">
+            <word changeDate="11/28/2016">邯郸市</word>
+        </synonym>
+        <synonym key="邯鄲">
+            <word changeDate="11/28/2016">邯鄲市</word>
+        </synonym>
+        <synonym key="邳州">
+            <word changeDate="11/28/2016">邳州市</word>
+        </synonym>
+        <synonym key="邵武">
+            <word changeDate="11/28/2016">邵武市</word>
+        </synonym>
+        <synonym key="邵阳">
+            <word changeDate="11/28/2016">邵阳市</word>
+        </synonym>
+        <synonym key="邵陽">
+            <word changeDate="11/28/2016">邵陽市</word>
+        </synonym>
+        <synonym key="邹城">
+            <word changeDate="11/28/2016">邹城市</word>
+        </synonym>
+        <synonym key="郑州">
+            <word changeDate="11/28/2016">郑州市</word>
+        </synonym>
+        <synonym key="郴州">
+            <word changeDate="11/28/2016">郴州市</word>
+        </synonym>
+        <synonym key="都勻">
+            <word changeDate="11/28/2016">都勻市</word>
+        </synonym>
+        <synonym key="都匀">
+            <word changeDate="11/28/2016">都匀市</word>
+        </synonym>
+        <synonym key="都江堰">
+            <word changeDate="11/28/2016">都江堰市</word>
+        </synonym>
+        <synonym key="鄂尔多斯">
+            <word changeDate="11/28/2016">鄂尔多斯市</word>
+        </synonym>
+        <synonym key="鄂州">
+            <word changeDate="11/28/2016">鄂州市</word>
+        </synonym>
+        <synonym key="鄂爾多斯">
+            <word changeDate="11/28/2016">鄂爾多斯市</word>
+        </synonym>
+        <synonym key="鄒城">
+            <word changeDate="11/28/2016">鄒城市</word>
+        </synonym>
+        <synonym key="鄧州">
+            <word changeDate="11/28/2016">鄧州市</word>
+        </synonym>
+        <synonym key="鄭州">
+            <word changeDate="11/28/2016">鄭州市</word>
+        </synonym>
+        <synonym key="酒泉">
+            <word changeDate="11/28/2016">酒泉市</word>
+        </synonym>
+        <synonym key="醴陵">
+            <word changeDate="11/28/2016">醴陵市</word>
+        </synonym>
+        <synonym key="重庆">
+            <word changeDate="11/28/2016">重庆市</word>
+        </synonym>
+        <synonym key="重慶">
+            <word changeDate="11/28/2016">重慶市</word>
+        </synonym>
+        <synonym key="金华">
+            <word changeDate="11/28/2016">金华市</word>
+        </synonym>
+        <synonym key="金坛">
+            <word changeDate="11/28/2016">金坛市</word>
+        </synonym>
+        <synonym key="金壇">
+            <word changeDate="11/28/2016">金壇市</word>
+        </synonym>
+        <synonym key="金昌">
+            <word changeDate="11/28/2016">金昌市</word>
+        </synonym>
+        <synonym key="金華">
+            <word changeDate="11/28/2016">金華市</word>
+        </synonym>
+        <synonym key="銀川">
+            <word changeDate="11/28/2016">銀川市</word>
+        </synonym>
+        <synonym key="銅仁">
+            <word changeDate="11/28/2016">銅仁市</word>
+        </synonym>
+        <synonym key="銅川">
+            <word changeDate="11/28/2016">銅川市</word>
+        </synonym>
+        <synonym key="銅陵">
+            <word changeDate="11/28/2016">銅陵市</word>
+        </synonym>
+        <synonym key="錦州">
+            <word changeDate="11/28/2016">錦州市</word>
+        </synonym>
+        <synonym key="錫林浩特">
+            <word changeDate="11/28/2016">錫林浩特市</word>
+        </synonym>
+        <synonym key="鍾祥">
+            <word changeDate="11/28/2016">鍾祥市</word>
+        </synonym>
+        <synonym key="鎮江">
+            <word changeDate="11/28/2016">鎮江市</word>
+        </synonym>
+        <synonym key="鐵力">
+            <word changeDate="11/28/2016">鐵力市</word>
+        </synonym>
+        <synonym key="鐵嶺">
+            <word changeDate="11/28/2016">鐵嶺市</word>
+        </synonym>
+        <synonym key="钟祥">
+            <word changeDate="11/28/2016">钟祥市</word>
+        </synonym>
+        <synonym key="钦州">
+            <word changeDate="11/28/2016">钦州市</word>
+        </synonym>
+        <synonym key="铁力">
+            <word changeDate="11/28/2016">铁力市</word>
+        </synonym>
+        <synonym key="铁岭">
+            <word changeDate="11/28/2016">铁岭市</word>
+        </synonym>
+        <synonym key="铜仁">
+            <word changeDate="11/28/2016">铜仁市</word>
+        </synonym>
+        <synonym key="铜川">
+            <word changeDate="11/28/2016">铜川市</word>
+        </synonym>
+        <synonym key="铜陵">
+            <word changeDate="11/28/2016">铜陵市</word>
+        </synonym>
+        <synonym key="银川">
+            <word changeDate="11/28/2016">银川市</word>
+        </synonym>
+        <synonym key="锡林浩特">
+            <word changeDate="11/28/2016">锡林浩特市</word>
+        </synonym>
+        <synonym key="锦州">
+            <word changeDate="11/28/2016">锦州市</word>
+        </synonym>
+        <synonym key="镇江">
+            <word changeDate="11/28/2016">镇江市</word>
+        </synonym>
+        <synonym key="長春">
+            <word changeDate="11/28/2016">長春市</word>
+        </synonym>
+        <synonym key="長樂">
+            <word changeDate="11/28/2016">長樂市</word>
+        </synonym>
+        <synonym key="長沙">
+            <word changeDate="11/28/2016">長沙市</word>
+        </synonym>
+        <synonym key="長治">
+            <word changeDate="11/28/2016">長治市</word>
+        </synonym>
+        <synonym key="長葛">
+            <word changeDate="11/28/2016">長葛市</word>
+        </synonym>
+        <synonym key="长乐">
+            <word changeDate="11/28/2016">长乐市</word>
+        </synonym>
+        <synonym key="长春">
+            <word changeDate="11/28/2016">长春市</word>
+        </synonym>
+        <synonym key="长沙">
+            <word changeDate="11/28/2016">长沙市</word>
+        </synonym>
+        <synonym key="长治">
+            <word changeDate="11/28/2016">长治市</word>
+        </synonym>
+        <synonym key="长葛">
+            <word changeDate="11/28/2016">长葛市</word>
+        </synonym>
+        <synonym key="開原">
+            <word changeDate="11/28/2016">開原市</word>
+        </synonym>
+        <synonym key="開封">
+            <word changeDate="11/28/2016">開封市</word>
+        </synonym>
+        <synonym key="開平">
+            <word changeDate="11/28/2016">開平市</word>
+        </synonym>
+        <synonym key="開遠">
+            <word changeDate="11/28/2016">開遠市</word>
+        </synonym>
+        <synonym key="阆中">
+            <word changeDate="11/28/2016">阆中市</word>
+        </synonym>
+        <synonym key="阜康">
+            <word changeDate="11/28/2016">阜康市</word>
+        </synonym>
+        <synonym key="阜新">
+            <word changeDate="11/28/2016">阜新市</word>
+        </synonym>
+        <synonym key="阜阳">
+            <word changeDate="11/28/2016">阜阳市</word>
+        </synonym>
+        <synonym key="阜陽">
+            <word changeDate="11/28/2016">阜陽市</word>
+        </synonym>
+        <synonym key="防城港">
+            <word changeDate="11/28/2016">防城港市</word>
+        </synonym>
+        <synonym key="阳春">
+            <word changeDate="11/28/2016">阳春市</word>
+        </synonym>
+        <synonym key="阳江">
+            <word changeDate="11/28/2016">阳江市</word>
+        </synonym>
+        <synonym key="阳泉">
+            <word changeDate="11/28/2016">阳泉市</word>
+        </synonym>
+        <synonym key="阿克苏">
+            <word changeDate="11/28/2016">阿克苏市</word>
+        </synonym>
+        <synonym key="阿克蘇">
+            <word changeDate="11/28/2016">阿克蘇市</word>
+        </synonym>
+        <synonym key="阿勒泰">
+            <word changeDate="11/28/2016">阿勒泰市</word>
+        </synonym>
+        <synonym key="阿图什">
+            <word changeDate="11/28/2016">阿图什市</word>
+        </synonym>
+        <synonym key="阿圖什">
+            <word changeDate="11/28/2016">阿圖什市</word>
+        </synonym>
+        <synonym key="阿城">
+            <word changeDate="11/28/2016">阿城市</word>
+        </synonym>
+        <synonym key="阿尔山">
+            <word changeDate="11/28/2016">阿尔山市</word>
+        </synonym>
+        <synonym key="阿拉尔">
+            <word changeDate="11/28/2016">阿拉尔市</word>
+        </synonym>
+        <synonym key="阿拉爾">
+            <word changeDate="11/28/2016">阿拉爾市</word>
+        </synonym>
+        <synonym key="阿爾山">
+            <word changeDate="11/28/2016">阿爾山市</word>
+        </synonym>
+        <synonym key="陆丰">
+            <word changeDate="11/28/2016">陆丰市</word>
+        </synonym>
+        <synonym key="陇南">
+            <word changeDate="11/28/2016">陇南市</word>
+        </synonym>
+        <synonym key="陕西">
+            <word changeDate="11/28/2016">陕西省</word>
+        </synonym>
+        <synonym key="陝西">
+            <word changeDate="11/28/2016">陝西省</word>
+        </synonym>
+        <synonym key="陸豐">
+            <word changeDate="11/28/2016">陸豐市</word>
+        </synonym>
+        <synonym key="陽春">
+            <word changeDate="11/28/2016">陽春市</word>
+        </synonym>
+        <synonym key="陽江">
+            <word changeDate="11/28/2016">陽江市</word>
+        </synonym>
+        <synonym key="陽泉">
+            <word changeDate="11/28/2016">陽泉市</word>
+        </synonym>
+        <synonym key="随州">
+            <word changeDate="11/28/2016">随州市</word>
+        </synonym>
+        <synonym key="隨州">
+            <word changeDate="11/28/2016">隨州市</word>
+        </synonym>
+        <synonym key="隴南">
+            <word changeDate="11/28/2016">隴南市</word>
+        </synonym>
+        <synonym key="雅安">
+            <word changeDate="11/28/2016">雅安市</word>
+        </synonym>
+        <synonym key="集安">
+            <word changeDate="11/28/2016">集安市</word>
+        </synonym>
+        <synonym key="雙城">
+            <word changeDate="11/28/2016">雙城市</word>
+        </synonym>
+        <synonym key="雙遼">
+            <word changeDate="11/28/2016">雙遼市</word>
+        </synonym>
+        <synonym key="雙鴨山">
+            <word changeDate="11/28/2016">雙鴨山市</word>
+        </synonym>
+        <synonym key="雞西">
+            <word changeDate="11/28/2016">雞西市</word>
+        </synonym>
+        <synonym key="雲南">
+            <word changeDate="11/28/2016">雲南省</word>
+        </synonym>
+        <synonym key="雲浮">
+            <word changeDate="11/28/2016">雲浮市</word>
+        </synonym>
+        <synonym key="雷州">
+            <word changeDate="11/28/2016">雷州市</word>
+        </synonym>
+        <synonym key="霍州">
+            <word changeDate="11/28/2016">霍州市</word>
+        </synonym>
+        <synonym key="霍林郭勒">
+            <word changeDate="11/28/2016">霍林郭勒市</word>
+        </synonym>
+        <synonym key="霸州">
+            <word changeDate="11/28/2016">霸州市</word>
+        </synonym>
+        <synonym key="靈寶">
+            <word changeDate="11/28/2016">靈寶市</word>
+        </synonym>
+        <synonym key="靈武">
+            <word changeDate="11/28/2016">靈武市</word>
+        </synonym>
+        <synonym key="青岛">
+            <word changeDate="11/28/2016">青岛市</word>
+        </synonym>
+        <synonym key="青島">
+            <word changeDate="11/28/2016">青島市</word>
+        </synonym>
+        <synonym key="青州">
+            <word changeDate="11/28/2016">青州市</word>
+        </synonym>
+        <synonym key="青海">
+            <word changeDate="11/28/2016">青海省</word>
+        </synonym>
+        <synonym key="青銅峽">
+            <word changeDate="11/28/2016">青銅峽市</word>
+        </synonym>
+        <synonym key="青铜峡">
+            <word changeDate="11/28/2016">青铜峡市</word>
+        </synonym>
+        <synonym key="靖江">
+            <word changeDate="11/28/2016">靖江市</word>
+        </synonym>
+        <synonym key="鞍山">
+            <word changeDate="11/28/2016">鞍山市</word>
+        </synonym>
+        <synonym key="鞏義">
+            <word changeDate="11/28/2016">鞏義市</word>
+        </synonym>
+        <synonym key="韓城">
+            <word changeDate="11/28/2016">韓城市</word>
+        </synonym>
+        <synonym key="韩城">
+            <word changeDate="11/28/2016">韩城市</word>
+        </synonym>
+        <synonym key="韶关">
+            <word changeDate="11/28/2016">韶关市</word>
+        </synonym>
+        <synonym key="韶山">
+            <word changeDate="11/28/2016">韶山市</word>
+        </synonym>
+        <synonym key="韶關">
+            <word changeDate="11/28/2016">韶關市</word>
+        </synonym>
+        <synonym key="項城">
+            <word changeDate="11/28/2016">項城市</word>
+        </synonym>
+        <synonym key="額爾古納">
+            <word changeDate="11/28/2016">額爾古納市</word>
+        </synonym>
+        <synonym key="项城">
+            <word changeDate="11/28/2016">项城市</word>
+        </synonym>
+        <synonym key="额尔古纳">
+            <word changeDate="11/28/2016">额尔古纳市</word>
+        </synonym>
+        <synonym key="駐馬店">
+            <word changeDate="11/28/2016">駐馬店市</word>
+        </synonym>
+        <synonym key="马鞍山">
+            <word changeDate="11/28/2016">马鞍山市</word>
+        </synonym>
+        <synonym key="驻马店">
+            <word changeDate="11/28/2016">驻马店市</word>
+        </synonym>
+        <synonym key="高安">
+            <word changeDate="11/28/2016">高安市</word>
+        </synonym>
+        <synonym key="高密">
+            <word changeDate="11/28/2016">高密市</word>
+        </synonym>
+        <synonym key="高州">
+            <word changeDate="11/28/2016">高州市</word>
+        </synonym>
+        <synonym key="高平">
+            <word changeDate="11/28/2016">高平市</word>
+        </synonym>
+        <synonym key="高新区">
+            <word changeDate="11/28/2016">高新技术产业开发区</word>
+            <word changeDate="11/28/2016">高新技术开发区</word>
+        </synonym>
+        <synonym key="高新區">
+            <word changeDate="11/28/2016">高新技術産業開發區</word>
+            <word changeDate="11/28/2016">高新技術開發區</word>
+        </synonym>
+        <synonym key="高碑店">
+            <word changeDate="11/28/2016">高碑店市</word>
+        </synonym>
+        <synonym key="高要">
+            <word changeDate="11/28/2016">高要市</word>
+        </synonym>
+        <synonym key="高邮">
+            <word changeDate="11/28/2016">高邮市</word>
+        </synonym>
+        <synonym key="高郵">
+            <word changeDate="11/28/2016">高郵市</word>
+        </synonym>
+        <synonym key="鳳城">
+            <word changeDate="11/28/2016">鳳城市</word>
+        </synonym>
+        <synonym key="鶴壁">
+            <word changeDate="11/28/2016">鶴壁市</word>
+        </synonym>
+        <synonym key="鶴山">
+            <word changeDate="11/28/2016">鶴山市</word>
+        </synonym>
+        <synonym key="鶴崗">
+            <word changeDate="11/28/2016">鶴崗市</word>
+        </synonym>
+        <synonym key="鷹潭">
+            <word changeDate="11/28/2016">鷹潭市</word>
+        </synonym>
+        <synonym key="鸡西">
+            <word changeDate="11/28/2016">鸡西市</word>
+        </synonym>
+        <synonym key="鹤壁">
+            <word changeDate="11/28/2016">鹤壁市</word>
+        </synonym>
+        <synonym key="鹤山">
+            <word changeDate="11/28/2016">鹤山市</word>
+        </synonym>
+        <synonym key="鹤岗">
+            <word changeDate="11/28/2016">鹤岗市</word>
+        </synonym>
+        <synonym key="鹰潭">
+            <word changeDate="11/28/2016">鹰潭市</word>
+        </synonym>
+        <synonym key="鹽城">
+            <word changeDate="11/28/2016">鹽城市</word>
+        </synonym>
+        <synonym key="鹿泉">
+            <word changeDate="11/28/2016">鹿泉市</word>
+        </synonym>
+        <synonym key="麗水">
+            <word changeDate="11/28/2016">麗水市</word>
+        </synonym>
+        <synonym key="麗江">
+            <word changeDate="11/28/2016">麗江市</word>
+        </synonym>
+        <synonym key="麻城">
+            <word changeDate="11/28/2016">麻城市</word>
+        </synonym>
+        <synonym key="黃山">
+            <word changeDate="11/28/2016">黃山市</word>
+        </synonym>
+        <synonym key="黃岡">
+            <word changeDate="11/28/2016">黃岡市</word>
+        </synonym>
+        <synonym key="黃石">
+            <word changeDate="11/28/2016">黃石市</word>
+        </synonym>
+        <synonym key="黃骅">
+            <word changeDate="11/28/2016">黃骅市</word>
+        </synonym>
+        <synonym key="黄冈">
+            <word changeDate="11/28/2016">黄冈市</word>
+        </synonym>
+        <synonym key="黄山">
+            <word changeDate="11/28/2016">黄山市</word>
+        </synonym>
+        <synonym key="黄石">
+            <word changeDate="11/28/2016">黄石市</word>
+        </synonym>
+        <synonym key="黄骅">
+            <word changeDate="11/28/2016">黄骅市</word>
+        </synonym>
+        <synonym key="黑河">
+            <word changeDate="11/28/2016">黑河市</word>
+        </synonym>
+        <synonym key="黑龍江">
+            <word changeDate="11/28/2016">黑龍江省</word>
+        </synonym>
+        <synonym key="黑龙江">
+            <word changeDate="11/28/2016">黑龙江省</word>
+        </synonym>
+        <synonym key="齊齊哈爾">
+            <word changeDate="11/28/2016">齊齊哈爾市</word>
+        </synonym>
+        <synonym key="齐齐哈尔">
+            <word changeDate="11/28/2016">齐齐哈尔市</word>
+        </synonym>
+        <synonym key="龍井">
+            <word changeDate="11/28/2016">龍井市</word>
+        </synonym>
+        <synonym key="龍口">
+            <word changeDate="11/28/2016">龍口市</word>
+        </synonym>
+        <synonym key="龍岩">
+            <word changeDate="11/28/2016">龍岩市</word>
+        </synonym>
+        <synonym key="龍泉">
+            <word changeDate="11/28/2016">龍泉市</word>
+        </synonym>
+        <synonym key="龍海">
+            <word changeDate="11/28/2016">龍海市</word>
+        </synonym>
+        <synonym key="龙井">
+            <word changeDate="11/28/2016">龙井市</word>
+        </synonym>
+        <synonym key="龙口">
+            <word changeDate="11/28/2016">龙口市</word>
+        </synonym>
+        <synonym key="龙岩">
+            <word changeDate="11/28/2016">龙岩市</word>
+        </synonym>
+        <synonym key="龙泉">
+            <word changeDate="11/28/2016">龙泉市</word>
+        </synonym>
+        <synonym key="龙海">
+            <word changeDate="11/28/2016">龙海市</word>
+        </synonym>
+    </synonyms>
+</language>
+<language name="Japanese">
+    <synonyms syn_set_code="DEFAULT">
+        <synonym key="いすず">
+            <word changeDate="11/28/2016">いすゞ</word>
+        </synonym>
+        <synonym key="おおさかこうべ">
+            <word changeDate="11/28/2016">はんしん</word>
+            <word changeDate="11/28/2016">オオサカコウベ</word>
+            <word changeDate="11/28/2016">ケイシン</word>
+            <word changeDate="11/28/2016">大阪神戸</word>
+            <word changeDate="11/28/2016">阪神</word>
+        </synonym>
+        <synonym key="きんこ">
+            <word changeDate="11/28/2016">きんゆうこうこ</word>
+            <word changeDate="11/28/2016">こうこ</word>
+            <word changeDate="11/28/2016">キンコ</word>
+            <word changeDate="11/28/2016">キンユウコウコ</word>
+            <word changeDate="11/28/2016">コウコ</word>
+            <word changeDate="11/28/2016">公庫</word>
+            <word changeDate="11/28/2016">金庫</word>
+            <word changeDate="11/28/2016">金融公庫</word>
+        </synonym>
+        <synonym key="けいさんき">
+            <word changeDate="11/28/2016">こんぴゅうた</word>
+            <word changeDate="11/28/2016">こんぴゅうたあ</word>
+            <word changeDate="11/28/2016">ケイサンキ</word>
+            <word changeDate="11/28/2016">コンピュータ</word>
+            <word changeDate="11/28/2016">コンピューター</word>
+            <word changeDate="11/28/2016">計算機</word>
+        </synonym>
+        <synonym key="しょおく">
+            <word changeDate="11/28/2016">しょてん</word>
+            <word changeDate="11/28/2016">しょぼう</word>
+            <word changeDate="11/28/2016">ほんや</word>
+            <word changeDate="11/28/2016">ショオク</word>
+            <word changeDate="11/28/2016">ショテン</word>
+            <word changeDate="11/28/2016">ショボウ</word>
+            <word changeDate="11/28/2016">ホンヤ</word>
+            <word changeDate="11/28/2016">書屋</word>
+            <word changeDate="11/28/2016">書店</word>
+            <word changeDate="11/28/2016">書房</word>
+            <word changeDate="11/28/2016">本屋</word>
+        </synonym>
+        <synonym key="そうけん">
+            <word changeDate="11/28/2016">そうごうけんきゅうしょ</word>
+            <word changeDate="11/28/2016">ソウケン</word>
+            <word changeDate="11/28/2016">ソウゴウケンキュウショ</word>
+            <word changeDate="11/28/2016">総合研究所</word>
+            <word changeDate="11/28/2016">総研</word>
+        </synonym>
+        <synonym key="でぱあと">
+            <word changeDate="11/28/2016">ひゃっかてん</word>
+            <word changeDate="11/28/2016">デパート</word>
+            <word changeDate="11/28/2016">ヒャッカテン</word>
+            <word changeDate="11/28/2016">百貨店</word>
+        </synonym>
+        <synonym key="でんてつ">
+            <word changeDate="11/28/2016">でんりょくてつどう</word>
+            <word changeDate="11/28/2016">デンテツ</word>
+            <word changeDate="11/28/2016">デンリョクテツドウ</word>
+            <word changeDate="11/28/2016">電力鉄道</word>
+            <word changeDate="11/28/2016">電鉄</word>
+        </synonym>
+        <synonym key="ガス">
+            <word changeDate="11/28/2016">瓦斯</word>
+        </synonym>
+        <synonym key="ガラス">
+            <word changeDate="11/28/2016">硝子</word>
+        </synonym>
+    </synonyms>
+</language>
+<language name="Russian">
+    <synonyms syn_set_code="DEFAULT">
+        <synonym key="SOVFRACHT">
+            <word changeDate="10/24/2018">SOVFRAKHT</word>
+        </synonym>
+        <synonym key="АЛЁША">
+            <word changeDate="11/28/2016">АЛЕКСЕЙ</word>
+        </synonym>
+        <synonym key="АЛЕКС">
+            <word changeDate="11/28/2016">АЛЕКСАНДР</word>
+            <word changeDate="11/28/2016">АЛЕКСАНДРА</word>
+            <word changeDate="11/28/2016">САША</word>
+        </synonym>
+        <synonym key="АЛЬБИНА">
+            <word changeDate="11/28/2016">АЛЯ</word>
+        </synonym>
+        <synonym key="АНАСТАСИЯ">
+            <word changeDate="11/28/2016">НАСТЯ</word>
+        </synonym>
+        <synonym key="АНАТОЛІЙ">
+            <word changeDate="11/28/2016">АНАТОЛИЙ</word>
+            <word changeDate="11/28/2016">ТОЛЯ</word>
+        </synonym>
+        <synonym key="АННА">
+            <word changeDate="11/28/2016">АНЯ</word>
+        </synonym>
+        <synonym key="АНТОН">
+            <word changeDate="11/28/2016">ТОХА</word>
+            <word changeDate="11/28/2016">ТОША</word>
+        </synonym>
+        <synonym key="АНТОНИНА">
+            <word changeDate="11/28/2016">ТОНЯ</word>
+        </synonym>
+        <synonym key="АРКАДИЙ">
+            <word changeDate="11/28/2016">АРКАША</word>
+        </synonym>
+        <synonym key="АРТЁМ">
+            <word changeDate="11/28/2016">АРТЕМ</word>
+            <word changeDate="11/28/2016">ТЁМА</word>
+        </synonym>
+        <synonym key="БОРИС">
+            <word changeDate="11/28/2016">БОРЯ</word>
+        </synonym>
+        <synonym key="ВАДИК">
+            <word changeDate="11/28/2016">ВАДИМ</word>
+        </synonym>
+        <synonym key="ВАЛЕНТИН">
+            <word changeDate="11/28/2016">ВАЛЕНТИНА</word>
+            <word changeDate="11/28/2016">ВАЛЯ</word>
+        </synonym>
+        <synonym key="ВАЛЕРА">
+            <word changeDate="11/28/2016">ВАЛЕРИЙ</word>
+        </synonym>
+        <synonym key="ВАНЯ">
+            <word changeDate="11/28/2016">ИВАН</word>
+        </synonym>
+        <synonym key="ВАСИЛИЙ">
+            <word changeDate="11/28/2016">ВАСЯ</word>
+        </synonym>
+        <synonym key="ВЕРОНИКА">
+            <word changeDate="11/28/2016">НИКА</word>
+        </synonym>
+        <synonym key="ВИКА">
+            <word changeDate="11/28/2016">ВИКТОРИЯ</word>
+        </synonym>
+        <synonym key="ВИКТОР">
+            <word changeDate="11/28/2016">ВИТЯ</word>
+        </synonym>
+        <synonym key="ВИТАЛИЙ">
+            <word changeDate="11/28/2016">ВИТАЛЯ</word>
+        </synonym>
+        <synonym key="ВЛАД">
+            <word changeDate="11/28/2016">ВЛАДИСЛАВ</word>
+        </synonym>
+        <synonym key="ВЛАДИМИР">
+            <word changeDate="11/28/2016">ВОВА</word>
+            <word changeDate="11/28/2016">ВОЛОДЯ</word>
+        </synonym>
+        <synonym key="ВЯЧЕСЛАВ">
+            <word changeDate="11/28/2016">СЛАВА</word>
+        </synonym>
+        <synonym key="ГАЛИНА">
+            <word changeDate="11/28/2016">ГАЛЯ</word>
+        </synonym>
+        <synonym key="ГЕНА">
+            <word changeDate="11/28/2016">ГЕННАДІЙ</word>
+            <word changeDate="11/28/2016">ГЕННАДИЙ</word>
+        </synonym>
+        <synonym key="ГЕОРГИЙ">
+            <word changeDate="11/28/2016">ГОША</word>
+            <word changeDate="11/28/2016">ЕГОР</word>
+        </synonym>
+        <synonym key="ГЕРА">
+            <word changeDate="11/28/2016">ГЕРМАН</word>
+        </synonym>
+        <synonym key="ГРИГОРИЙ">
+            <word changeDate="11/28/2016">ГРИША</word>
+        </synonym>
+        <synonym key="ДАРЬЯ">
+            <word changeDate="11/28/2016">ДАША</word>
+        </synonym>
+        <synonym key="ДИМА">
+            <word changeDate="11/28/2016">ДМИТРИЙ</word>
+        </synonym>
+        <synonym key="ЕВГЕНИЙ">
+            <word changeDate="11/28/2016">ЕВГЕНИЯ</word>
+            <word changeDate="11/28/2016">ЖЕНЯ</word>
+        </synonym>
+        <synonym key="ЕКАТЕРИНА">
+            <word changeDate="11/28/2016">КАТЕРИНА</word>
+            <word changeDate="11/28/2016">КАТЯ</word>
+        </synonym>
+        <synonym key="ЕЛЕНА">
+            <word changeDate="11/28/2016">ЛЕНА</word>
+        </synonym>
+        <synonym key="ЕЛИЗАВЕТА">
+            <word changeDate="11/28/2016">ЛИЗА</word>
+        </synonym>
+        <synonym key="ЗИНА">
+            <word changeDate="11/28/2016">ЗИНАИДА</word>
+        </synonym>
+        <synonym key="ИЛЬЯ">
+            <word changeDate="11/28/2016">ИЛЯ</word>
+        </synonym>
+        <synonym key="ИРА">
+            <word changeDate="11/28/2016">ИРИНА</word>
+        </synonym>
+        <synonym key="КОЛЯ">
+            <word changeDate="11/28/2016">НИКОЛАЙ</word>
+        </synonym>
+        <synonym key="КОНСТАНТИН">
+            <word changeDate="11/28/2016">КОСТЯ</word>
+        </synonym>
+        <synonym key="КСЮХА">
+            <word changeDate="11/28/2016">ОКСАНА</word>
+        </synonym>
+        <synonym key="ЛЁВА">
+            <word changeDate="11/28/2016">ЛЕВ</word>
+        </synonym>
+        <synonym key="ЛЁНЯ">
+            <word changeDate="11/28/2016">ЛЕОНИД</word>
+        </synonym>
+        <synonym key="ЛАРА">
+            <word changeDate="11/28/2016">ЛАРИСА</word>
+        </synonym>
+        <synonym key="ЛИДА">
+            <word changeDate="11/28/2016">ЛИДИЯ</word>
+        </synonym>
+        <synonym key="ЛИЛИЯ">
+            <word changeDate="11/28/2016">ЛИЛЯ</word>
+        </synonym>
+        <synonym key="ЛЮБА">
+            <word changeDate="11/28/2016">ЛЮБОВЬ</word>
+        </synonym>
+        <synonym key="ЛЮДА">
+            <word changeDate="11/28/2016">ЛЮДМИЛА</word>
+        </synonym>
+        <synonym key="МАКС">
+            <word changeDate="11/28/2016">МАКСИМ</word>
+        </synonym>
+        <synonym key="МАРГАРИТА">
+            <word changeDate="11/28/2016">РИТА</word>
+        </synonym>
+        <synonym key="МАРИЯ">
+            <word changeDate="11/28/2016">МАША</word>
+        </synonym>
+        <synonym key="МИХА">
+            <word changeDate="11/28/2016">МИХАИЛ</word>
+            <word changeDate="11/28/2016">МИША</word>
+        </synonym>
+        <synonym key="НАДЕЖДА">
+            <word changeDate="11/28/2016">НАДЯ</word>
+        </synonym>
+        <synonym key="НАТАЛИЯ">
+            <word changeDate="11/28/2016">НАТАЛЬЯ</word>
+            <word changeDate="11/28/2016">НАТАША</word>
+        </synonym>
+        <synonym key="НЕЛЛИ">
+            <word changeDate="11/28/2016">НЕЛЯ</word>
+        </synonym>
+        <synonym key="ОЛЬГА">
+            <word changeDate="11/28/2016">ОЛЯ</word>
+        </synonym>
+        <synonym key="ПЁТР">
+            <word changeDate="11/28/2016">ПЕТР</word>
+            <word changeDate="11/28/2016">ПЕТЯ</word>
+        </synonym>
+        <synonym key="ПАВЕЛ">
+            <word changeDate="11/28/2016">ПАША</word>
+        </synonym>
+        <synonym key="РАИСА">
+            <word changeDate="11/28/2016">РАЯ</word>
+        </synonym>
+        <synonym key="РИНАТ">
+            <word changeDate="11/28/2016">РИНЯ</word>
+        </synonym>
+        <synonym key="РОМА">
+            <word changeDate="11/28/2016">РОМАН</word>
+        </synonym>
+        <synonym key="СЁМА">
+            <word changeDate="11/28/2016">СЕМЕН</word>
+        </synonym>
+        <synonym key="СВЕТА">
+            <word changeDate="11/28/2016">СВЕТЛАНА</word>
+        </synonym>
+        <synonym key="СЕРЁЖА">
+            <word changeDate="11/28/2016">СЕРГЕЙ</word>
+        </synonym>
+        <synonym key="СТЁПА">
+            <word changeDate="11/28/2016">СТЕПАН</word>
+        </synonym>
+        <synonym key="СТАНИСЛАВ">
+            <word changeDate="11/28/2016">СТАС</word>
+        </synonym>
+        <synonym key="ТАМАРА">
+            <word changeDate="11/28/2016">ТОМА</word>
+        </synonym>
+        <synonym key="ТАНЯ">
+            <word changeDate="11/28/2016">ТАТЬЯНА</word>
+        </synonym>
+        <synonym key="ТИМА">
+            <word changeDate="11/28/2016">ТИМУР</word>
+        </synonym>
+        <synonym key="ФЕДОР">
+            <word changeDate="11/28/2016">ФЕДЯ</word>
+        </synonym>
+        <synonym key="ЭДИК">
+            <word changeDate="11/28/2016">ЭДУАРД</word>
+        </synonym>
+        <synonym key="ЭЛЬВИРА">
+            <word changeDate="11/28/2016">ЭЛЯ</word>
+        </synonym>
+        <synonym key="ЮЛИЯ">
+            <word changeDate="11/28/2016">ЮЛЯ</word>
+        </synonym>
+        <synonym key="ЮРА">
+            <word changeDate="11/28/2016">ЮРИЙ</word>
+        </synonym>
+        <synonym key="ЯКОВ">
+            <word changeDate="11/28/2016">ЯША</word>
+        </synonym>
+        <synonym key="ЯРИК">
+            <word changeDate="11/28/2016">ЯРОСЛАВ</word>
+        </synonym>
+    </synonyms>
+</language>
+</gwl>

@@ -1,0 +1,37 @@
+# Copyright 2023 Accuity, Inc.
+# This file is provided for information purposes only.
+# Please do not modify any parts of the file.
+#
+# File Creation Date: 11/30/2023 03:14:51 
+# File Type: UPIDGWL.ZIP
+# Synonym Set: Default Synonym Set (DEFAULT)
+# SD Type: Standard SDs
+# Add/Change Date-Data: 11/23/2023
+# Add/Change Date-Notes: 11/23/2023
+# Total Entities: 16830
+# Total Stop Descriptors: 44857
+# Total Entities by Lists Extracted:
+#     EDD Asia Pacific Australia  (6735)
+#     EDD Canada  (288)
+#     EDD Europe Middle East Africa  (3316)
+#     EDD International  (36)
+#     EDD South America Central America  (3732)
+#     EDD United Kingdom  (682)
+#     EDD United States Agencies  (748)
+#     EDD United States State Legal  (1293)
+# Total Entities by Entity Type:
+#    Bank  (129)
+#    Company  (5597)
+#    Individual  (11102)
+#    Vessel  (2)
+# Extracted By: kossa
+# Extraction Id: 226888
+#
+#
+
+listids=1106,1102,1104,1110,1108,1112,1100,1098
+listnames=EDD Asia Pacific Australia,EDD Canada,EDD Europe Middle East Africa,EDD International,EDD South America Central America,EDD United Kingdom,EDD United States Agencies,EDD United States State Legal
+listtypes=Enhanced Due Diligence List,Enhanced Due Diligence List,Enhanced Due Diligence List,Enhanced Due Diligence List,Enhanced Due Diligence List,Enhanced Due Diligence List,Enhanced Due Diligence List,Enhanced Due Diligence List
+Version=20231129091910
+listissuerdate=202311230501,202311230501,202311230501,202311230501,202311230501,202311230501,202311230501,202311230501
+acctseq=2
