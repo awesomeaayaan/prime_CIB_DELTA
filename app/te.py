@@ -65,35 +65,47 @@ data = {
     'Gender': ['Male', 'Female', 'Male']
 }
 
-# Create a DataFrame from the data
-df = pd.DataFrame(data)
+# # Create a DataFrame from the data
+# df = pd.DataFrame(data)
 
-# Create a new Excel writer object
-excel_writer = pd.ExcelWriter('output.xlsx', engine='openpyxl')
+# # Create a new Excel writer object
+# excel_writer = pd.ExcelWriter('output.xlsx', engine='openpyxl')
 
-# Write the DataFrame to Excel
-df.to_excel(excel_writer, index=False, sheet_name='Sheet1')
+# # Write the DataFrame to Excel
+# df.to_excel(excel_writer, index=False, sheet_name='Sheet1')
 
-# Get the workbook and worksheet objects
-workbook = excel_writer.book
-worksheet = excel_writer.sheets['Sheet1']
+# # Get the workbook and worksheet objects
+# workbook = excel_writer.book
+# worksheet = excel_writer.sheets['Sheet1']
 
-# Define the list of options for the dropdown
-gender_options = ['Male', 'Female']
+# # Define the list of options for the dropdown
+# gender_options = ['Male', 'Female']
 
-# Define the range where the dropdown will be applied (assuming Gender column starts from column C)
-dropdown_range = 'C2:C{}'.format(len(df) + 1)
+# # Define the range where the dropdown will be applied (assuming Gender column starts from column C)
+# dropdown_range = 'C2:C{}'.format(len(df) + 1)
 
-# Create a DataValidation object for the dropdown
-data_validation = DataValidation(type="list", formula1='"{}"'.format(','.join(gender_options)), allow_blank=True)
+# # Create a DataValidation object for the dropdown
+# data_validation = DataValidation(type="list", formula1='"{}"'.format(','.join(gender_options)), allow_blank=True)
 
-# Add the data validation to the specific column
-worksheet.add_data_validation(data_validation)
-data_validation.add(dropdown_range)
+# # Add the data validation to the specific column
+# worksheet.add_data_validation(data_validation)
+# data_validation.add(dropdown_range)
 
-# Save the Excel file
-excel_writer.save()
-excel_writer.sa
+# # Save the Excel file
 # excel_writer.save()
+# excel_writer.sa
+# # excel_writer.save()
 
-print("Dropdown list added to the 'Gender' column in the Excel file.")
+# print("Dropdown list added to the 'Gender' column in the Excel file.")
+
+
+import zipfile
+
+# zip_file_path = r"D:\primeaccuityScreening\test\ac_UPIDGWL1.ZIP"
+# extract_to_path = r"D:\primeaccuityScreening\test"
+# file_to_extract = 'ac_UPIDGWL1.ZIP'  # Replace with the name of the file you want to extract
+
+# with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+#     zip_ref.extract(file_to_extract, extract_to_path)
+
+directory_path = r"D:\primeaccuityScreening"
