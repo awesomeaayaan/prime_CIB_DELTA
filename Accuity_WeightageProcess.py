@@ -56,8 +56,11 @@ class Accuity_WeightageProcess(QRProcess):
         try:
             self.data = []
             self.db_accuity.connect()
-            self.data.extend(self.db_accuity.get_data_with_status('new'))#get accuity data from the database
-            display('Connect up to before run')
+            # self.data.extend(self.db_accuity.get_data_with_status('new'))#get accuity data from the database
+            # self.data = [{'name': 'NAVA, TONY M JR', 'dobs': '', 'countryName': 'UNITED STATES', 'OriginalSource': 'Enforcement', 'SubCategory': 'Disciplined', 'title': 'DESIST AND REFRAIN FROM OFFER OR SALE OF SECURITIES FOR VIOLATION OF CALIFORNIA CORPORATIONS CODE - DECEMBER 10, 2002.', 'Gender': 'U', 'Status': 'new'}]
+            # self.data = [{'name': 'NAVA, TONY M JR', 'dobs': '1940', 'countryName': '', 'OriginalSource': 'Enforcement', 'SubCategory': 'Disciplined', 'title': 'DESIST AND REFRAIN FROM OFFER OR SALE OF SECURITIES FOR VIOLATION OF CALIFORNIA CORPORATIONS CODE - DECEMBER 10, 2002.', 'Gender': 'U', 'Status': 'new'}]
+            self.data = [{'name': 'NAVA, TONY M JR', 'dobs': '', 'countryName': 'UNITED STATES', 'OriginalSource': 'Enforcement', 'SubCategory': 'Disciplined', 'title': 'DESIST AND REFRAIN FROM OFFER OR SALE OF SECURITIES FOR VIOLATION OF CALIFORNIA CORPORATIONS CODE - DECEMBER 10, 2002.', 'Gender': 'U', 'Status': 'new'},{'name': 'NAVA, TONY M JR', 'dobs': '', 'countryName': '', 'OriginalSource': 'Enforcement', 'SubCategory': 'Disciplined', 'title': 'DESIST AND REFRAIN FROM OFFER OR SALE OF SECURITIES FOR VIOLATION OF CALIFORNIA CORPORATIONS CODE - DECEMBER 10, 2002.', 'Gender': 'U', 'Status': 'new'},{'name': 'NAVA, TONY M JR', 'dobs': '1940', 'countryName': '', 'OriginalSource': 'Enforcement', 'SubCategory': 'Disciplined', 'title': 'DESIST AND REFRAIN FROM OFFER OR SALE OF SECURITIES FOR VIOLATION OF CALIFORNIA CORPORATIONS CODE - DECEMBER 10, 2002.', 'Gender': 'U', 'Status': 'new'},{'name': 'NAVA, TONY M JR', 'dobs': '1940', 'countryName': 'UNITED STATES', 'OriginalSource': 'Enforcement', 'SubCategory': 'Disciplined', 'title': 'DESIST AND REFRAIN FROM OFFER OR SALE OF SECURITIES FOR VIOLATION OF CALIFORNIA CORPORATIONS CODE - DECEMBER 10, 2002.', 'Gender': 'U', 'Status': 'new'}]
+            # display('Connect up to before run')
 
         except Exception as e:
             # logger.error(e)
@@ -160,21 +163,21 @@ class Accuity_WeightageProcess(QRProcess):
             min_value = 95
             logger.info(f'Search list : {search_list}')
 
-            if str(item['Gender']) != -1:
+            if 'Gender' in item and str(item['Gender']) != '':
                 search_type = 'natural'
             else:
                 search_type = 'legal'
 
             display(f'Search type is============>{search_type}')
 
-            # weightage = Utils.get_weightage(search_list, search_type)
+            weightage = Utils.get_accuity_weightage(search_list, search_type)
             # display(f'Weitage is ============>{weightage}')
-            weightage = {
-                'name': 50,
-                'dobs': 25,
-                'countryName': 25,
+            # weightage = {
+            #     'name': 50,
+            #     'dobs': 25,
+            #     'countryName': 25,
                 
-            }
+            # }
             # weightage = {
             #     'name': 40,
             #     'pan_no': 25,
@@ -203,24 +206,11 @@ class Accuity_WeightageProcess(QRProcess):
                     column = 'name'
                 # elif search == 'fathername':
                 #     column = 'fathersname'
-                elif search == 'dob':
+                elif search == 'dobs':
                     column = 'nepdate'
                 elif search == 'countryName':
-                    column = ''
-                # elif search == 'citizenship_no':
-                #     column = 'citizenshipno'
-                # elif search == 'pan_no':
-                #     column = 'pannumber'
-                # elif search == 'registration_no':
-                #     column = 'comregnum'
-                # elif search == 'passport_no':
-                #     column = 'passportno'
-                # elif search == 'indianembassy_no':
-                #     column = 'indianembassyregno'
-                # elif search == 'voterid_no':
-                #     column = 'voterid'
-                # elif search == 'drivinglisence_no':
-                #     column = 'dlicenceidno'
+                    column = 'countryname'
+                
                 else:
                     raise Exception(f'Wrong search item : {search}')
                 
@@ -287,163 +277,58 @@ class Accuity_WeightageProcess(QRProcess):
            
         display('Completed !!!! Execute Run Item: Weitage Process')
 
-    # def report_generation(self, item, item_list, df_map, result, temp_item: dict):
-    #     run_item = QRRunItem()
-    #     self.notify(run_item)
+    def report_generation(self, item, item_list, df_map, result, temp_item: dict):
+        run_item = QRRunItem()
+        self.notify(run_item)
 
-    #     display(f'TEMP_ITEM KEYS===> {temp_item.keys()}')
-    #     logger = run_item.logger
-    #     search_list: list = item['search_list']
-    #     # display(f'Item from report generation====>{item}')
-    #     # if not result:
-    #     #     with self.db as db:
-    #     #         db.update_progess_status(item['unique_id'], 'retry')
-    #     #         db.update_remarks_on_unique_id(item['unique_id'], f'No data found for mininum filter value')
-    #     #         logger.info('Retry status added.')
-    #     #     return
+        display(f'TEMP_ITEM KEYS===> {temp_item.keys()}')
+        logger = run_item.logger
+        search_list: list = item['search_list']
+        # display(f'Item from report generation====>{item}')
+        # if not result:
+        #     with self.db as db:
+        #         db.update_progess_status(item['unique_id'], 'retry')
+        #         db.update_remarks_on_unique_id(item['unique_id'], f'No data found for mininum filter value')
+        #         logger.info('Retry status added.')
+        #     return
 
-    #     df = pd.DataFrame(result)
-    #     # df.to_excel('ramkumar.xlsx',index=False)
-    #     result = []
-    #     self.file.set_dataframe(df)
-    #     name = str(item['name'])
-    #     display(f'TEMP_ITEM value is {temp_item}')
-    #     logger.info(f'TEMP_ITEM value is {temp_item}')
-    #     for index, col in enumerate(item_list):
-    #         value = item[col]
-    #         display(f'THIS IS A VALUE===> {value}')
-    #         self.file.insert_column_at_index(index, col, value)
+        df = pd.DataFrame(result)
+        # df.to_excel('ramkumar.xlsx',index=False)
+        result = []
+        self.accuityfile.set_dataframe(df)
+        name = str(item['name'])
+        display(f'TEMP_ITEM value is {temp_item}')
+        logger.info(f'TEMP_ITEM value is {temp_item}')
+        for index, col in enumerate(item_list):
+            value = item[col]
+            display(f'THIS IS A VALUE===> {value}')
+            self.accuityfile.insert_column_at_index(index, col, value)
 
-    #     df_len = self.file.get_number_of_row_data()
-    #     self.file.add_new_columns_to_datasheet('Result of CIB Screening', '', df_len)
-    #     self.file.add_new_columns_to_datasheet('CIB Name',temp_item['Name'],df_len)
-    #     self.file.add_new_columns_to_datasheet('CIB Father Name', temp_item['FatherName'],df_len)
-    #     self.file.add_new_columns_to_datasheet('CIB Gender',temp_item['Gender'],df_len)
-    #     self.file.add_new_columns_to_datasheet('CIB DOB',temp_item['DOB'],df_len)
-    #     if 'CitizenshipDetails' in temp_item and temp_item['CitizenshipDetails'] != 'nan':
-    #         # display(temp_item['CitizenshipDetails'] is not None)
-    #         logger = run_item.logger
-    #         citizenship = [temp_item['CitizenshipDetails']]
-    #         display(f'CITIZENSHIP Details is ==>{citizenship}')
-    #         logger.info(f'CITIZENSHIP Details is ==>{citizenship}')
-    #         # citizen_number = ''
-    #         for item in citizenship:
-    #             if '|' in item:
-    #                 citizen_number = item.split('|')[0]
-    #                 logger.info(f'CITIZENSHIP_NUMBER==>{citizen_number}')
-    #                 self.file.add_new_columns_to_datasheet('CIB Citizenship No',citizen_number,df_len)
-    #                 display('New column name CIB Citizenship No is added')
-    #                 logger.info('New column name CIB Citizenship No is added')
-
-    #     if 'PANDetails' in temp_item and temp_item['PANDetails'] != 'nan':
-    #         display(temp_item['PANDetails'] is not None)
-    #         pan = temp_item['PANDetails']
-    #         display(f'PAN DETAILS is {pan}')
-    #         if '|' in pan:
-    #             pan_number = pan.split('|')[0]
-    #             display(f'PAN NUMBER IS ===> {pan_number}')
-    #             logger.info(f'PAN NUMBER IS ===> {pan_number}')
-    #             self.file.add_new_columns_to_datasheet('CIB PAN NO',pan_number,df_len)
-    #             display('Successfully added the CIB PAN NO')
-    #             logger.info('Successfully added the CIB PAN NO')
-    #     if 'IndianEmbassyDetails' in temp_item and temp_item['IndianEmbassyDetails'] != 'nan':
-    #         indianembassy = temp_item['IndianEmbassyDetails']
-    #         logger.info(f'Indian Embassy Detal is {indianembassy}')
-    #         if '|' in indianembassy:
-    #             indianembassy_number = indianembassy.split('|')[0]
-    #             self.file.add_new_columns_to_datasheet('CIB Indianembassy No',indianembassy_number,df_len)
-    #             display('New column CIB Indian embassyr No is added')
-    #             logger.info('New column CIB Indian embassyr No is added')
-    #     if 'PassportDetails' in temp_item and temp_item['PassportDetails'] != 'nan':
-    #         passport = temp_item['PassportDetails']
-    #         logger.info(f'Passport Details is {passport}')
-    #         if '|' in passport:
-    #             passport_number = passport.split('|')[0]
-    #             self.file.add_new_columns_to_datasheet('CIB passport no',passport_number,df_len)
-    #             display('New column CIB passport  No is added')
-    #             logger.info('New column CIB passport  No is added')
-    #     if 'VoterIDDetails' in temp_item and temp_item['VoterIDDetails'] != 'nan':
-    #         voter = temp_item['VoterIDDetails']
-    #         logger.info(f'Voter Details is {voter}')
-    #         if '|' in voter:
-    #             voter_number = voter.split('|')[0]
-    #             self.file.add_new_columns_to_datasheet('CIB Voter No',voter_number,df_len)
-    #             display('New column CIB Voter No is added')
-    #             logger.info('New column CIB Voter No is added')
-
-    #     if 'CompanyDetails' in temp_item and temp_item['CompanyDetails'] != 'nan':
-    #         reg = [temp_item['CompanyDetails']]
-    #         display(f'Company DETAILS is {reg}')
-    #         logger.info(f'Company DETAILS is {reg}')
-    #         for item in reg:
-    #             # display(f'ITEM==>{item}')
-    #             item = str(item)
-    #             # Check if the item is a string or a list
-    #             if ',' in item:
-    #                 reg_list = ast.literal_eval(item)
-    #                 if isinstance(reg_list, list):
-    #                     for data in reg_list:
-    #                         # Check if '|' exists before splitting
-    #                         if '|' in data:
-    #                             regnumber = data.split('|')[0]
-    #                     self.file.add_new_columns_to_datasheet('CIB Com Registration No',regnumber,df_len)
-    #                     # self.file.add_new_columns_to_datasheet('Blacklisted Date',blacklist_date,df_len)
-    #             else:
-    #                 # Check if '|' exists before splitting
-    #                 if '|' in item:
-    #                     regnumber = item.split('|')[0]
-    #                     # display(f'blacklist_NUMBER==>{blacklist_number}')
-    #                     self.file.add_new_columns_to_datasheet('CIB Com Registration No',regnumber,df_len)
-    #                     display('New column name CIB Com Registration No is added')
-    #                     # self.file.add_new_columns_to_datasheet('Blacklisted Date',blacklist_date,df_len)
-
-    #     # self.file.add_new_columns_to_datasheet('Cib citizenship no',temp_item['CitizenshipDetails'],df_len)
-    #     blacklist = [temp_item['BlackLists']]
-    #     for item in blacklist:
-    #         list_of_blacklist = []
-    #         date_of_blacklist = []
-    #         # display(f'ITEM==>{item}')
-    #         item = str(item)
-    #         # Check if the item is a string or a list
-    #         if ',' in item:
-    #             black_list = ast.literal_eval(item)
-    #             if isinstance(black_list, list):
-    #                 for data in black_list:
-    #                     # Check if '|' exists before splitting
-    #                     if '|' in data:
-    #                         blacklist_number = data.split('|')[1]
-    #                         list_of_blacklist.append(blacklist_number)
-    #                         blacklist_date = data.split('|')[2]
-    #                         date_of_blacklist.append(blacklist_date)
-    #                         # display(f'blacklist_NUMBER==>{blacklist_number}')
-    #                 self.file.add_new_columns_to_datasheet('CIB Black Listed No',list_of_blacklist,df_len)
-    #                 self.file.add_new_columns_to_datasheet('CIB Black Listed Date',date_of_blacklist,df_len)
-    #         else:
-    #             # Check if '|' exists before splitting
-    #             if '|' in item:
-    #                 blacklist_number = item.split('|')[1]
-    #                 blacklist_date = item.split('|')[2]
-    #                 # display(f'blacklist_NUMBER==>{blacklist_number}')
-    #                 self.file.add_new_columns_to_datasheet('CIB Black Listed No',blacklist_number,df_len)
-    #                 self.file.add_new_columns_to_datasheet('CIB Black Listed Date',blacklist_date,df_len)
-
-       
-    #     self.file.collect_maincode_data(df_map)
+        df_len = self.accuityfile.get_number_of_row_data()
+        self.accuityfile.add_new_columns_to_datasheet('Result of Accuity Screening', '', df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Accuity Name',temp_item['name'],df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Accuity Dob', temp_item['dobs'],df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Accuity Gender',temp_item['Gender'],df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Accuity Country Name',temp_item['countryName'],df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Category',temp_item['OriginalSource'],df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Sub Category',temp_item['SubCategory'],df_len)
+        self.accuityfile.add_new_columns_to_datasheet('Title',temp_item['title'],df_len)
+        self.accuityfile.collect_maincode_data(df_map)
         
         
-    #     if self.file.get_number_of_row_data() == 0:
+        if self.accuityfile.get_number_of_row_data() == 0:
            
-    #         raise Exception('Inner join gives no result')
+            raise Exception('Inner join gives no result')
 
-    #     self.file.set_dataframe(pd.DataFrame)
-    #     # logger.info('=============================================================================')
-    #     logger.info(self.file.set_dataframe(pd.DataFrame))
+        self.accuityfile.set_dataframe(pd.DataFrame)
+        # logger.info('=============================================================================')
+        logger.info(self.accuityfile.set_dataframe(pd.DataFrame))
         
-    #     # df_result.to_excel
-    #     # df.to_excel('report.xlsx',index=True)
+        # df_result.to_excel
+        # df.to_excel('report.xlsx',index=True)
         
 
-    # @run_item(is_ticket=False, post_success=False)
+    @run_item(is_ticket=False, post_success=False)
     def after_run_item(self, *args, **kwargs):
         # display('After Run Item: WeightageProcess')
         # Get run item created by decorator. Then notify to all components about new run item.
