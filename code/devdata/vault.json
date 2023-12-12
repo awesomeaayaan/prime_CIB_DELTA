@@ -1,0 +1,41 @@
+{
+    "test":{
+        "username":"test_user",
+        "password":"test_password"
+    },
+    "cibapi":{
+        "secret_key": "s6p7vJtUvRv5sz8JoBi7OHfW5klS0jxD",
+        "cib_bulk_url":"https://blacklist.cibnepal.org.np/api/v2/blacklist/bulk-offloading",
+        "cib_hash_generating_url":"https://blacklist.cibnepal.org.np/api/generate-hash-code",
+        "xml_message":"<BulkOffLoading><SerialNumber>123</SerialNumber><RequestType>BulkOffLoading</RequestType></BulkOffLoading>",
+        "merchant_id":"CIBirkzbvwb"
+        
+    },
+    "cbs":{
+        "server":"10.20.101.219",
+        "database":"RPA",
+        "username":"rpa",
+        "password":"rpa@123",
+        "port":"1433"
+    },
+    "smtp":{
+        "server":"10.20.0.2",
+        "port":"25",
+        "password":"Test@123456",
+        "account":"cib.blacklist@pcbl.com.np",
+        "config_path":""
+    },
+    "imap":{
+        "mail_account":"cib.blacklist@pcbl.com.np",
+        "mail_password":"Test@123456",
+        "mail_host":"10.20.0.2",
+        "imap_port":"143"
+    },
+    "accuity":{
+        "url": "",
+        "username": "PrimeCommercialNP01R",
+        "password" : "Pcbl@20800"
+    }
+
+    
+}
